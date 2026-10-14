@@ -1,0 +1,1836 @@
+url,video_id,title,description,duration,views,likes,dislikes,comments
+https://www.youtube.com/watch?v=bihilne9EQY&t=20s,bihilne9EQY,An Algorithm to Predict Anything: MCMC,"The Elegant Randomness of Markov Chain Monte Carlo (MCMC): Concepts & Applications
+
+The explainer traces the evolution and profound impact of the Monte Carlo method and its advanced form, Markov Chain Monte Carlo (MCMC). 
+
+It begins with mathematician Stanislaw Ulam's 1946 insight to use simulation and randomness to estimate the odds of winning solitaire, a problem too complex for direct calculation. 
+
+This fundamental concept was later combined with the theory of Markov chains, which model sequential, dependent events, to create MCMC; this crucial fusion allows statisticians to sample from complex distributions, such as those in Bayesian statistics, without needing an otherwise impossible-to-calculate normalizing constant. 
+
+The power of MCMC lies in its ""purposeful random walk,"" which efficiently explores the space of possible answers by preferentially spending time in the most probable areas, a technique that has been applied from the Manhattan Project and Google's PageRank algorithm to the cutting edge of modern AI. 
+
+Ultimately, the explainer emphasizes that while MCMC is an elegant algorithm for solving problems of staggering complexity, its success depends not on magic, but on the careful design and validation of the sampler, ensuring the chain is ""well-mixing"" and not simply generating ""garbage.""",449,8374,,,
+https://www.youtube.com/watch?v=_HQ2H_0Ayy0&pp=ugUHEgVlbi1HQg%3D%3D,_HQ2H_0Ayy0,RAG Explained For Beginners,"🧪Try RAG Hands-On Labs for Free - https://kode.wiki/4oANO8s
+
+Learn how RAG (Retrieval Augmented Generation) solves the challenge of connecting AI assistants like ChatGPT to massive document repositories! 
+
+In this comprehensive video, we'll show you exactly how to make AI search, read, and understand large company documents using vector embeddings and semantic search.
+
+Ready to build your own RAG system? Access our FREE interactive labs where you can experiment with real RAG implementations, test different chunking strategies, and see vector databases in action!
+
+🧪Try RAG Hands-On Labs for Free - https://kode.wiki/4oANO8s
+
+📚 What You'll Learn:
+• What is RAG and why it's revolutionary for AI document search
+• How vector embeddings transform documents into searchable data
+• The 3-step RAG process: Retrieval, Augmented, Generation
+• Semantic search vs traditional search methods
+• Critical chunking strategies for different document types
+• RAG Demo
+
+🚀Explore Our Top Courses & Special Offers: https://kode.wiki/3CzuOnc
+
+⏱️ Timestamps:
+00:00 - Introduction to RAG
+00:24 - Why Traditional Search Methods Don't Work
+00:55 - The RAG Method Explained
+01:54 - Step 1: Retrieval Process
+02:25 - Step 2: Augmentation Explained
+03:15 - Step 3: Generation Process
+03:54 - Strategies for RAG Calibration
+05:01 - Practical Lab Demo Introduction
+05:27 - Demo - Set up Development Environment
+06:10 - Demo - Initialize Vector Database
+06:29 - Demo - Chunking Strategy and Embedding
+07:19 - Demo - Feed AI Brain
+07:50 - Demo - Semantic Search
+08:16 - Demo - Launch a Simple Web Interface
+09:43 - Conclusion & Free Lab Access
+
+🚨Check out our learning paths at KodeKloud to get started: https://kode.wiki/41NLyks
+
+#RAG #RetrievalAugmentedGeneration #AI #VectorDatabase  #VectorEmbeddings #ArtificialIntelligence   #DocumentChunking #EmbeddingModels #AIRetrieval ##KodeKloud",609,575992,,,
+https://www.youtube.com/watch?v=kGxbtQuQYDM,kGxbtQuQYDM,Data Analysis in R | Data Visualization in R | Machine Learning Model in R | Machine Mantra,"Data Analysis in R, Data Visualization in r using real-life dataset. Learn how to do data analysis in r, summary statistics in r, and understand the data set.
+Learn how to get started with R, how to work with R in Jupyter notebook, heart disease dataset exploration with R, data visualization, and explanation.
+The second part deals with the machine learning model in r.
+Machine Learning Project in R. Classification Machine Learning Problem to predict whether one has heart disease or not. 
+
+Part 2:
+https://youtu.be/QwA3QY4CGCA
+---------------------------------------------------------------------------------------------------------------------------------
+Website:
+👍For R installation
+https://www.r-project.org/
+.....................................................................................................................................
+Git Hub
+https://github.com/Prianca25/Machine-Learning/blob/master/Heart%20Disease%20Analysis%20with%20R.ipynb
+..........................................................................................................................................
+📚For Dataset
+https://www.kaggle.com/priyanka841/heart-disease-prediction-uci
+📚📚For Theory
+https://machinemantra.in/understanding-r-for-data-science/
+📷📼What is Tidy Verse
+https://youtu.be/t8UCIExNE8M
+--------------------------------------------------------------------------------------------------------------------------------
+Courses designed for better learning
+Links for Courses: 
+✔R course 
+https://www.udemy.com/course/r-programming-for-absolute-beginners-s/
+✔Power BI Master Class Link:
+https://machinemantra.in/courses/power-bi-master-class-for-data-science/
+✔Python Course Link
+https://www.udemy.com/course/data-analysis-visualization-with-python/
+------------------------------------------------------------------------------------------------------------------------------------------
+Kaggle Account:  Do follow and comment it helps✌
+https://www.kaggle.com/priyanka841
+------------------------------------------------------------------------------------------------------------------------------------------
+💁‍♀️💁‍♀️Website:
+https://machinemantra.in/
+📣🎙🎤Podcast (download and listen while you work, learning made easy with the release of Podcast)
+https://anchor.fm/priyanka-sharma12
+
+😊😊I invite you to join me on 
+Quora
+https://www.quora.com/q/gnlqevqgyulcqgxe
+Instagram
+https://www.instagram.com/machinemantra/?hl=en
+
+#datascience #machinemantra #rprogramming",2734,24673,,,
+https://www.youtube.com/watch?v=iHKdL07tykg&pp=ugUEEgJlbg%3D%3D,iHKdL07tykg,Create a Dynamic Navigation Bar in Excel | Interactive Dashboard Menu,"📲 Join Our Community:
+💬 WhatsApp: https://whatsapp.com/channel/0029VbCIu9XHVvTSpnBDWr0e
+📢 Telegram: https://t.me/+aBQXL9Kwg_FhM2Jl 
+
+📊 Download the Practice File: : https://drive.google.com/uc?export=download&id=1DUfRSudmueZz_QOgURG9tvDTSB611Mhl
+
+Watch our interactive Power BI dashboard here🚀 :  https://youtu.be/i2EN4AdrzLw?si=N8Ig25CtB_DoDQ0n 
+
+📈 Upgrade your Excel & Dashboard skills today!
+👍 Like | 🔔 Subscribe | 📤 Share with your team 
+
+🚀 Create a Dynamic Navigation Bar in Excel | Interactive Excel Dashboard
+Learn how to build a fully dynamic navigation bar in Excel that allows you to quickly switch between worksheets with a single click. In this tutorial, you'll design a professional navigation menu using shapes, icons, and hyperlinks.
+With this technique, you can create monthly navigation buttons from January to December, highlight the active sheet, and add a Home icon to easily return to the main dashboard.
+
+📲 Follow Us on Social Media:
+ 📸 Instagram: https://www.instagram.com/vedakarna_/
+💼 LinkedIn: https://l1nk.dev/776m1
+👍 Facebook: https://www.facebook.com/profile.php?id=61584493776530 
+
+#excel  #exceldashboardstutorial  #exceltutorial  #exceltips  #interactivedashboards  #learnexcel  #excelforbeginners  #exceladvanced  #dataanalysis  #exceltraining  #excelfunctions   #businessanalyticscourse   #spreadsheetskills  #excelhacks  #dataanalyst  #excelmastery",247,48556,,,
+https://www.youtube.com/watch?v=HOIduDwJQng,HOIduDwJQng,TCP client and server in Delphi,"How to connect indy TCPClient component til TCPServer component in Delphi
+Press Like, Subscribe and become a Patrion to this channel (https://www.patreon.com/Skule_sormo)
+
+00:00 Start
+00:46 Components installation
+02:05 Server and client properties
+02:56 Event handlers 
+08:11 Action Buttons
+09:17 Testing client connection
+09:40 server confirmation to the client
+11:23 Send info from client to server
+13:07 Response from server back to client
+15:42 Correction mesures in the server's response to the client",1216,13071,,,
+https://www.youtube.com/watch?v=CTrFjnjSNRs&pp=ugUEEgJlbg%3D%3D,CTrFjnjSNRs,Titles and Annotations with ggplot,"I'm sure that we all agree that the best way to do data visualization is to use R programming, in particular, the ggplot2 package. To become an advanced ggplot user, you need to start controlling things like the titles, axis characteristics and annotation in your plot. This video will walk you through some excellent examples of how to do just that. 
+
+This channel is supported by Nested Knowledge - an online platform that supports the entire literature review process. Please do check them out at this link: https://my.nested-knowledge.com/r-programming",473,10124,,,
+https://www.youtube.com/watch?v=JG69fxKzwt8,JG69fxKzwt8,11f Machine Learning: Bayesian Regression Example,"Machine Learning Graduate Course, Professor Michael J. Pyrcz
+
+Lecture Summary:
+Lecture on Bayesian linear regression including an example of sampling the posterior distribution for model parameters and the prediction model.
+
+Here is a list of all my predictive machine learning lectures:
+0. Machine Learning Concepts - https://youtu.be/zOUM_AnI1DQ?si=kYrnHLkAZ2_pM0CS
+1. Linear Regression - https://youtu.be/-to3JXiae9Y?si=IOFISDhGPABjYDJG
+2. Ridge Regression - https://youtu.be/-to3JXiae9Y?si=yKR7gBY8S-knedZC
+3. LASSO Regression - https://youtu.be/cVFYhlCCI_8?si=EA6xyIZf6zpQq1Ow
+4. Optimization Basics - https://youtu.be/cVFYhlCCI_8?si=wGwqfhMi4SFFx3t6
+5. Polynomial Regression - https://youtu.be/z19Hs2HfO88?si=Yrlql4NxBhLvu8Xq
+6. Training and Testing - https://youtu.be/owOSiKT3K8E?si=8LcwFHZ6arwjh6Di
+7. Model Goodness Metrics - https://youtu.be/g38sEpFOX-0?si=mhGYZe-W7z3UwLGm
+8. Model Cross Validation - https://youtu.be/FiX8IWPhTcg?si=p-I7wpb8yW-PC1FE
+9. K-nearest Neighbours - https://youtu.be/lzmeChSYvv8?si=hCJJ7Q3H8OG-5KNu
+10. Computational Complexity - https://youtu.be/SwyNEnHZxDw?si=Hm0ZIPbsFJXUfOmu
+11. K-nearest Neighbours Considerations - https://youtu.be/SwyNEnHZxDw?si=Hm0ZIPbsFJXUfOmu
+12. Bayesian Linear Regression - https://youtu.be/LzZ5b3wdZQk?si=OIZOOuaw-ONZXtih
+13. Markov Chain Monte Carlo - https://youtu.be/7QX-yVboLhk?si=E-Lx8cdk9K1Yoz62
+14. Bayesian Linear Regression Example - https://www.youtube.com/watch?v=JG69fxKzwt8&list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf&index=35
+15. Naive Bayes - https://youtu.be/BDvyLrH3cLI?si=kssB6MLNK9bovIHX
+16. Decision Tree - https://youtu.be/JUGo1Pu3QT4?si=S5oRcyNdh1sx2wve
+17. Random Forest - https://youtu.be/m5_wk310fho?si=S7yr2ogePSmC-miJ
+18. Gradient Boosting - https://youtu.be/___T8_ixIwc?si=Ozk3vKUpAC1ej7u0
+19. Support Vector Machines - https://youtu.be/UpN6TLMJiGg?si=hrQxhirVK0lpgpi-
+Note, I have excluded my deep learning predictive modeling lectures for brevity.
+
+Free, Online Course e-book Chapter: 
+Bayesian Linear Regression - https://geostatsguy.github.io/MachineLearningDemos_Book/MachineLearning_Bayesian_linear_regression.html
+Theory and well-documented workflows linked to the lectures and interactive Python dashboards.
+
+Course Summary:
+Welcome to Subsurface Machine Learning, a graduate-level course I teach at The University of Texas at Austin. While the course is officially titled “Subsurface Machine Learning” to highlight its focus on applications in subsurface modeling, the material is broadly applicable and designed to equip you with foundational and advanced machine learning skills relevant across diverse fields.
+
+The course begins with core concepts in spatial and subsurface modeling, grounded in geoscience and engineering principles, and builds a solid foundation in probability, statistics, and feature engineering and selection. From there, we explore inferential and predictive machine learning techniques, advancing all the way through to cutting-edge deep learning methods. Throughout the course, I strive to make complex topics accessible, providing a clear pathway to mastering machine learning for real-world challenges and empowering you to confidently navigate and harness the power of the ongoing digital revolution.
+
+Course Resources:
+Course e-book: https://geostatsguy.github.io/MachineLearningDemos_Book
+Course YouTube Playlist: https://www.youtube.com/playlist?list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf
+
+My Shared Educational Content:
+YouTube: https://www.youtube.com/GeostatsGuyLectures
+GitHub: https://github.com/GeostatsGuy
+Twitter: https://x.com/GeostatsGuy
+I share all of my university educational content to support students and working professionals interested to learn data analytics, geostatistics, and machine learning.
+
+More About the Author: 
+https://michaelpyrcz.com
+Find out more about my graduate students, my research consortium, etc. I am happy to discuss research collaboration and short courses.
+
+I hope that you find my educational course content helpful on your data science journey,
+
+Professor Michael J. Pyrcz
+Cockrell School of Engineering
+Jackson School of Geosciences
+The University of Texas at Austin
+
+#dataanalytics #datascience #geostatistics #machinelearning",632,20056,,,
+https://www.youtube.com/watch?v=nDbmE0LlKQc&t=9s,nDbmE0LlKQc,How to Perform Monte Carlo Simulation in Ms. Excel for Risk Analysis?,#engineeringly #projectmanagement #riskmanagement #costmanagement #riskanalysis #riskassessment #montecarlo #msexcel #quantitiveanalysis #excel #exceltutorial #project #engineering #civilengineering #projectmanager #pmp #pmbok,318,76231,,,
+https://www.youtube.com/watch?v=hxK9j4QjrdE,hxK9j4QjrdE,Monte Carlo Simulation in EXCEL 4 Steps Project Risk Management Discrete Event Simulation Confidence,"In this video of #engineeringmanagementacademy #montecarlosimulation and #sensitivityanalysis   are tutored by #drmehrdadarashpour  
+
+❎ Excel workbook to follow along: https://bit.ly/Excel_MonteCarlo_Simulation
+
+▶ RELATED VIDEOS: https://youtu.be/pZV3Ja5Ql7M
+
+ ⌛ TIMESTAMPS
+0:00 - Introduction to Project Simulation in Excel
+0:22 - Excel’s inverse functions for random number generation (Lognormal, Beta, Normal, F-Distribution, Gamma, Chi-squared)
+1:02 - Step 1 (Generate Random Values for Input Variables Based on Historical Data)
+4:28 - Step 2 (Calculate Simulated Project costs using Stochastic Inputs)
+5:03 - Step 3 (Evaluation of Results by Drawing Simulated Cost Histogram & S-curve)
+7:02 - Step 4 (Calculation of Quantitative Results & Percentiles)
+8:07 – Concluding Remarks
+
+✍ Request Next Tutorial Video: https://forms.gle/Frz9U9imCouofdoD8
+
+🔔 Subscribe: https://bit.ly/EngineeringManagementAcademy",555,6531,,,
+https://www.youtube.com/watch?v=IkbkEtOOC1Y,IkbkEtOOC1Y,16. Markov Chains I,"MIT 6.041 Probabilistic Systems Analysis and Applied Probability, Fall 2010
+View the complete course: http://ocw.mit.edu/6-041F10
+Instructor: John Tsitsiklis
+
+License: Creative Commons BY-NC-SA
+More information at http://ocw.mit.edu/terms
+More courses at http://ocw.mit.edu",3125,398319,,,
+https://www.youtube.com/watch?v=oWu2ENopZdc&pp=ugUHEgVlbi1JTg%3D%3D,oWu2ENopZdc,"Barplot using R  with error bar, Data Visualization, GGplot2, Plotting data ranking","#barplot #R  #datavisualisation  #Rprogramming #datavisualisation #ggplot #datanalysis #barplot
+This video discuss the visualization of data to study the ranking of variables. This plot compares different groups in variables and visualizes those bars of heights corresponding to the stat used. In this video how to control colors of bars, how to get stacked, and grouped bar plots are discussed. The data manipulation to prepare the data to plot bar plot and error bars has also been discussed.
+
+ggplot, geom_bar, bar plot, bar plots in R, how to make bar plot in R, how to create stacked bar chart, stacked bar in R, ggplot2 bar charts, histogram chart...
+
+Script file used in this tutorial
+
+https://drive.google.com/file/d/1L-ZmLGoKg5W8yM1mqWJOHULKXp0JXFVK/view?usp=sharing
+
+To use the above link you have to change the working directory and set it to your own working directory using setwd() function.
+
+data files used
+save these data files in the working directory.
+https://drive.google.com/file/d/16jFGuaRLEX9QhGWyPkkMtM_-qrwzIFiT/view?usp=sharing
+
+https://drive.google.com/file/d/1uRofdWXpWlRYd02vYlF8wZ9L9HCnuBuY/view?usp=sharing",1351,50264,,,
+https://www.youtube.com/watch?v=gGE6pByReAc,gGE6pByReAc,Monte Carlo Technique: How to perform Business Simulations & Assess Projects Profitability | Excel,"In this video we are going to address a complex form of simulation, a form that you might find very applicable in the real world. This one involves what goes into a very important feature of business, the bottom line. 
+Want to know what a Monte Carlo Simulation is? and how to use Monte Carlo Simulation technique for a profitable business ? In this video I have performed Monte Carlo Simulation in Excel.
+
+
+What is a Monte Carlo Simulation?
+Monte Carlo simulations are used to model the probability of different outcomes in a process that cannot easily be predicted due to the intervention of random variables. It is a technique used to understand the impact of risk and uncertainty in prediction and forecasting models.
+Monte Carlo simulation can be used to tackle a range of problems in virtually every field such as finance, engineering, supply chain, and science.
+Monte Carlo simulation is also referred to as multiple probability simulation.
+Excel is a wonderfully flexible and powerful tool. For example, you can create models that let you modify your formula's inputs to estimate sales revenue and costs. You can also model systems that use random events such as product demand to estimate resource utilization and other costs. 
+Now before we get into today’s video where I will show you how to setup an excel model which can help you run an effective Monte Carlo Simulation to optimize your organizations supply chain and can help you with financial decision making. 
+
+Let’s discuss what a Monte Carlo Simulation actually is? 
+Monte Carlo simulation is a method of probability analysis done by running several variables through a model to determine the different outcomes 
+By using Monte Carlo simulations decision makers can determine the range of possibilities and their probability of occurrence. A Monte Carlo simulation works by constructing a mathematical model of the decision under consideration. Then the simulation is run, and different random variables are put into these models until there are enough outcomes to plot on a probability distribution curve. Based on the shape of curve created by the Monte Carlo simulation, decision makers will know where their ultimate decision falls within the various probabilities, they then make their decision based on the risk they are willing to take to get the outcome they want.
+Now, let’s get to excel where I can show you how all of this actually works. 
+So, what you see on my screen is divided under three sections. Model Data, Probability of Item Demand & Simulation Data.
+
+Creating an Excel simulation does involve a lot of steps, but once you get the hang of it, it's an extremely powerful tool that you'll be able to use over and over throughout your business and it's operations.
+
+Monte Carlo Simulation in fiance is widely used for investment evaluation and can be used in several other industries and for different purposes.We're going to simulate a set of components that add up to produce a net income. We'll repeat the simulation 500 times, and we'll use an Excel tool called the data table to do it.
+
+Monte Carlo Simulation is widely used in Finance and can be performed on various platforms like Monte Carlo Simulation in Matlab, Monte Carlo Simulation in R, Monte Carlo Simulation in Excel, Monte Carlo Simulation in Python, etc. Important thing to derive from this video is, performing Monte Carlo Simulation in Excel [Monte Carlo Simulation in excel data table is the key] can help you get probability distribution curve, which can tell you the probability of different outcomes of the scenario under consideration. This is widely used by profitable business to calculate the investment curve and profit and loss statement etc.
+#MonteCarlo #Simulation #BusinessSimulation",305,147505,,,
+https://www.youtube.com/watch?v=RxHJdapz2p0&pp=ugUEEgJlbg%3D%3D,RxHJdapz2p0,How GIT works under the HOOD?,"_______________________________________
+👉 Get the next deep dive: https://techwithnikola.com/newsletter
+
+I send one email every two weeks, diving deep into topics and areas that I can't cover in a youtube video. Occasionally, I also send emails about engineering leadership, tools that I use, etc.
+_______________________________________
+
+Have you ever wondered how Git really works? Are you confused about what a commit is? How about merging and rebasing, or maybe cherry-picking? This video breaks it down in simple terms! Join me to explore the core concepts of Git.
+
+🔍 What You'll Learn:
+
+- How Git stores your code as a tree of objects?
+- How Git manages your code changes with commits?
+- What are branches?
+- How merge actually works?
+- Is rebase similar to merge and why most people prefer it?
+- Is cherry-picking the same as merge?
+
+Whether you're a coding enthusiast looking to deepen your knowledge or a newcomer trying to make sense of Git, this video is your go-to resource. Gain insights into Git's mechanics and boost your confidence in handling version control.
+
+🚀 If you found this video helpful, don't forget to like, share, and subscribe for more tech tutorials!
+
+🔗 Connect with me:
+Support me on patreon: https://www.patreon.com/TechWithNikola
+LinkedIn: https://www.linkedin.com/in/nikola-stojiljkovic-67a91931/
+Join my discord: https://discord.gg/p9trmEVeaZ
+Visit my blog: https://techwithnikola.com
+Follow me on Instagram: https://www.instagram.com/techwithnikola
+Follow me on Twitter: https://twitter.com/techwithnikola
+
+Timecodes
+00:00 - Intro
+00:13 - What is Git?
+00:44 - Manual versioning
+01:36 - How Git stores data?
+04:16 - Git trees
+05:33 - Commits and Branches
+07:09 - Recap
+08:02 - How Git Merge works?
+11:22 - Rebase
+12:25 - How Cherry Picking works?
+14:12 - Generalizing Cherry-Picks via Merge
+15:43 - Outro",960,254178,,,
+https://www.youtube.com/watch?v=To_fUerTAts,To_fUerTAts,Quantitative Project Risk Analysis with Monte Carlo Simulation with Excel,"I will be presenting on ""A project risk quantification model with Monte Carlo simulation on Excel.
+In this 1 hour session we explain how to break away from very poor risk ""heat maps"" to create a quantitative risk register using Monte Carlo simulation on Excel. We show that it is very simple, intuitive and that they do not require expensive, obscure or complicated tools or methodologies to be able to correctly identify the most important risks of a project.",3580,4988,,,
+https://www.youtube.com/watch?v=ZKLKquZM3yI,ZKLKquZM3yI,"CSCI 1109 - M52 - Graph theory: nodes, edges, clustering coefficient","In this module, we switch from thinking about isolated rows in a table to thinking about relationships between things as networks. You’ll meet the basic graph toolbox — nodes, edges, neighbours, degree — and see how the same number of connections can produce very different structures, from chains to tightly knit cliques. We’ll introduce the local and average clustering coefficient as simple, computable measures of “how cliquey” a network is, and you’ll experiment with small graphs in Python using NetworkX to see how these ideas play out in social and information networks.
+
+- Define nodes, edges, neighbours, and degree in simple undirected graphs, and read small network diagrams as data.
+- Compute and interpret local and average clustering coefficients on toy networks, connecting them to intuitive ideas of “cliques” and “friend-of-a-friend” structure.
+- Use NetworkX to build and visualize small graphs in Python, and compare graphs that share the same degree distribution but have very different clustering behaviour.
+
+Course module page: https://web.cs.dal.ca/~rudzicz/Teaching/CSCI1109/2026/index.html#module=1109-M52-graph-theory-basics",2672,38,,,
+https://www.youtube.com/watch?v=peZ56vjY6xw,peZ56vjY6xw,How to Calculate Project Percentage Completed from Weighted Activities in an Agile Project?,"You can watch and learn how to prepare Gantt charts in Ms. Excel using the following links: 
+
+How to Prepare Dynamic Gantt Charts in Ms. Excel: https://youtu.be/a9sdDJiax5Q
+
+Dynamic Planned vs. Actual Gantt Charts in Ms. Excel: https://youtu.be/cEbY9cy7Puo
+
+#engineeringly #projectmanagement #agile #scrum #scrummaster #ganttchart #sprint #backlog #userstories #weightage #projectmanager #projectplanning #projectcontrols #schedule #msexcel #excel #exceltutorial #pmp #pmbok",224,20402,,,
+https://www.youtube.com/watch?v=fWDCgoywo6c,fWDCgoywo6c,Linear regression assumptions in R,"In this video, Lucy, one of the Stats@Liverpool tutors at The University of Liverpool, demonstrates how to test for linear regression assumptions using the software R.",376,1414,,,
+https://www.youtube.com/watch?v=S7XpTAnSDL4,S7XpTAnSDL4,Git & GitHub Tutorial | Visualized Git Course for Beginner & Professional Developers in 2024,"In this visualized Git Tutorial, you'll learn everything from the basics of Git to advanced tips no one else talks about. We’ll dive into real-world Git workflows, fixing production issues, and resolving merge conflicts like a pro. By the end, you'll be your team's go-to Git expert, ready to handle any challenge!
+
+⭐ Join JS Mastery Pro: https://jsm.dev/git2024-jsmpro
+💎 Become a Top 1% Next.js Developer: https://jsm.dev/git2024-nextjs
+
+📁 Free Video Kit (Code, Design, Repo, Guide): https://jsm.dev/git2024-kit
+
+WebStorm: https://jsm.dev/git2024-webstorm
+
+Rate us on TrustPilot: https://jsm.dev/trustpilot
+
+https://discord.com/invite/n6EdbFJ https://twitter.com/jsmasterypro https://instagram.com/javascriptmastery https://linkedin.com/company/javascriptmastery
+
+Business Inquiries: contact@jsmastery.pro
+
+💼 Business Inquiries: contact@jsmastery.pro
+
+Time Stamps 👇
+00:00:00 — Intro
+00:02:03 — What’s Git? Why it matters?
+00:04:07 —  Git installation & setup
+00:05:55 —  What is a repository?
+00:07:46 —  Tracking files & making commits
+00:14:13 —  Using GitHub
+00:18:25 —  Branching
+00:26:35 — Pull Request
+00:30:35 —  Merging and Resolving merge conflicts
+00:42:27 —  Advanced Git
+00:55:50 —  Git easy GUI
+01:11:07 —  Wrap up",4326,850409,,,
+https://www.youtube.com/watch?v=ju0IdVfwrME&pp=ugUHEgVlbi1VUw%3D%3D,ju0IdVfwrME,Bad Teachers Destroy The Beauty of Maths!,"Your support makes all the difference! By joining my Patreon, you’ll help sustain and grow the content you love
+
+www.patreon.com/BrainStation
+
+Matrix Multiplication | Matrices | Linear Algebra | Vector Transformation | Eigenvalues | Eigenvectors | Determinant and Inverse | Transformation Matrix | BASIC Math Calculus – AREA of a Triangle - Understand Simple Calculus with just Basic Math! Calculus | Integration | Double Integral | Derivative | You should learn this trick | Find Square root of a Number | Math Olympiad | Harvard University Entrance Exam | Hard Geometry Exam Question | Only 1% of Students Got this Math Question Correct | Math Tricks
+
+If you're reading this, drop a comment using the word ""Linear Algebra is Cool"". Have an amazing day, you all are awesome!",488,309820,,,
+https://www.youtube.com/watch?v=Pk7kDdWuG1Q&t=4s&pp=ugUEEgJlbg%3D%3D,Pk7kDdWuG1Q,Maximum Likelihood - Explained,"Maximum Likelihood Estimation (MLE) is a fundamental concept in statistics and machine learning used to estimate model parameters from data. This video explains maximum likelihood estimation intuitively using the normal distribution, showing how parameters like the mean (μ) and standard deviation (σ) are chosen to best fit observed data. Learn how likelihood works, why the log-likelihood is used in practice, and the key difference between probability and likelihood in statistical modeling.
+
+*Related Videos*
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 
+K-Means Clustering: https://youtu.be/dyG9cj5RKL0
+Support Vector Machines: https://youtu.be/K1EcCjDD_q4
+The Hessian Matrix: https://youtu.be/9tp1kULwU2w
+The Jacobian Matrix: https://youtu.be/6FesMicc844
+Bayesian Optimization: https://youtu.be/Kq6_kzlwSUQ
+Hyperparameters Tuning: Grid Search vs Random Search: https://youtu.be/G-fXV-o9QV8
+The Kernel Trick: https://youtu.be/N_RQj4OL1mg
+Cross-Entropy - Explained: https://youtu.be/Fv98vtitmiA
+Dropout - Explained: https://youtu.be/FDF_Q3_98GQ 
+Overfitting vs Underfitting: https://youtu.be/B9rhzg6_LLw
+Why Models Overfit and Underfit - The Bias Variance Trade-off: https://youtu.be/5mbX6ITznHk
+Least Squares vs Maximum Likelihood: https://youtu.be/WCP98USBZ0w
+
+*Follow Me*
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 
+🐦 X: @datamlistic https://x.com/datamlistic
+📸 Instagram: @datamlistic https://www.instagram.com/datamlistic
+📱 TikTok: @datamlistic https://www.tiktok.com/@datamlistic
+👔 Linkedin: https://www.linkedin.com/company/datamlistic
+
+*Channel Support*
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 
+The best way to support the channel is to share the content. ;)
+
+If you'd like to also support the channel financially, donating the price of a coffee is always warmly welcomed! (completely optional and voluntary)
+► Patreon: https://www.patreon.com/datamlistic
+► Bitcoin (BTC): 3C6Pkzyb5CjAUYrJxmpCaaNPVRgRVxxyTq
+► Ethereum (ETH): 0x9Ac4eB94386C3e02b96599C05B7a8C71773c9281
+► Cardano (ADA): addr1v95rfxlslfzkvd8sr3exkh7st4qmgj4ywf5zcaxgqgdyunsj5juw5
+► Tether (USDT): 0xeC261d9b2EE4B6997a6a424067af165BAA4afE1a
+
+#machinelearning #statistics #datascience #maximumlikelihood #normaldistribution",188,3559,,,
+https://www.youtube.com/watch?v=x1X5r-MoSno,x1X5r-MoSno,#12 Find S Algorithm - Finding A Maximally Specific Hypothesis With Example |ML|,"Telegram group : https://t.me/joinchat/G7ZZ_SsFfcNiMTA9
+contact me on Gmail at shraavyareddy810@gmail.com 
+contact me on Instagram at https://www.instagram.com/trouble_free_youtube/
+Thank you for 1000 subscribers video: about me https://youtu.be/9PoacKR12dc
+Design Patterns Playlist: https://www.youtube.com/watch?v=9GKAc2WP3nc&list=PLmAmHQ-_5ySzyZRFtQKelXzOUJ44jOYSn
+Infosys Recruitment 2021: https://www.youtube.com/watch?v=Ltng0RiqRTQ&list=PLmAmHQ-_5ySx0Z1IRDkSDpR4IMHC12fCP
+Cloud Computing Playlist: https://www.youtube.com/watch?v=V0tzh0hnpKM&list=PLmAmHQ-_5ySwcO0EKGfwQ9W7d0aMFNFyK
+Mobile Computing Playlist: https://www.youtube.com/watch?v=ht49rmlVEjI&list=PLmAmHQ-_5ySyvOz6_jEsevqhPno5OV41V
+Data Warehouse & Data Mining Playlist: https://www.youtube.com/watch?v=nt_Ouf5Cw-c&list=PLmAmHQ-_5ySxGcWD6xHihs-DXV-VnV_pN
+All Placement related videos : https://www.youtube.com/watch?v=Ib0aZiwn4fY&list=PLmAmHQ-_5ySyFC6lNlWfBD7LPiRKCgwwu
+Cryptography & Network Security: https://www.youtube.com/watch?v=lSAldhEC8Fs&list=PLmAmHQ-_5ySx_dXmOwSuGGGyE8XsbYT0n
+Managerial / Business Economics & Financial Analysis: https://www.youtube.com/watch?v=pKJjbXxSx-w&list=PLmAmHQ-_5ySxjnisAfFoOMBJswvKx2FNT
+Operating Systems Playlist : https://www.youtube.com/watch?v=LiNu5i0tjYU&list=PLmAmHQ-_5ySxgU1eMrt8UIiOs0hU9wzr5
+Aptitude Playlist : https://www.youtube.com/watch?v=UniuH8TDdmI&list=PLmAmHQ-_5ySztx9GugXChrVvzEEOwE9SS
+Grade 10 math chapter-6 (TRIANGLES): https://www.youtube.com/watch?v=jZOmbbPiUL0&list=PLmAmHQ-_5ySx1dTyyIV9UWGG8l5kkiYRa
+Grade 8 science chapter-4 (Metals & Non-Metals): https://www.youtube.com/watch?v=oDPKZPmt5q8&list=PLmAmHQ-_5ySxSqlp4CncMaldIHr4Ceu8O
+Grade 10 math chapter -8 (Introduction to Trigonometry): https://www.youtube.com/watch?v=LadB_CFbe0U&list=PLmAmHQ-_5ySz3rdUvzV1X7yf9isoEeKiR
+Grade 8 science chapter-11 (Force & Pressure): https://www.youtube.com/watch?v=0QbBnlqbty0&list=PLmAmHQ-_5ySw45Xajejy6iawVstzPUep4
+Grade 8 math (NCERT): https://www.youtube.com/watch?v=WSiiDOgKw0A&list=PLmAmHQ-_5ySxC4i2fladH8wMP9gz4iZ02
+Grade 10 Math(NCERT): https://www.youtube.com/watch?v=YsVKKysxmEo&list=PLmAmHQ-_5ySzHLD593LaKHjHtCE3usgB7
+Grade 8 Science (NCERT): https://www.youtube.com/watch?v=bZCp87igs_U&list=PLmAmHQ-_5ySxS7u-roj93XxjViwiAr7u4",709,317199,,,
+https://www.youtube.com/watch?v=JSE4oy0KQ2Q,JSE4oy0KQ2Q,Why The Probability Really Is 51.8%,"A variation of the classic boy or girl paradox is making the rounds, leaving many confused by the counter-intuitive answer.
+
+https://www.reddit.com/r/mathmemes/comments/1nhz2i9/i_dont_get_it/
+https://www.reddit.com/r/theydidthemath/comments/1ops9uu/request_how_do_they_get_to_these_numbers/
+https://www.reddit.com/r/ExplainTheJoke/comments/1psit5i/shouldnt_the_odds_be_50_why_is_it_518/
+Boy or girl paradox
+https://en.wikipedia.org/wiki/Boy_or_girl_paradox
+Limmys show
+https://www.youtube.com/watch?v=-fC2oke5MFg
+textbook
+https://stats.libretexts.org/Bookshelves/Probability_Theory/Introductory_Probability_(Grinstead_and_Snell)/04%3A_Conditional_Probability/4.03%3A_Paradoxes
+
+Members get early access to videos
+YouTube members
+https://www.youtube.com/channel/UCHnj59g7jezwTy5GeL8EA_g/join
+Patreon members
+https://www.patreon.com/mindyourdecisions
+
+Support the channel with a one-time donation
+https://www.paypal.com/donate/?hosted_button_id=REZRY3QRQPYQA
+
+Subscribe: https://www.youtube.com/user/MindYourDecisions?sub_confirmation=1
+
+Send me suggestions by email (address at end of many videos). I may not reply but I do consider all ideas!
+
+If you purchase through these links, I may be compensated for purchases made on Amazon. As an Amazon Associate I earn from qualifying purchases. This does not affect the price you pay. 
+
+Book ratings are from January 2025.
+
+My Books (worldwide links)
+https://mindyourdecisions.com/blog/my-books/#worldwide
+
+My Books (US links)
+Mind Your Decisions: Five Book Compilation
+https://amzn.to/2pbJ4wR
+A collection of 5 books:
+""The Joy of Game Theory"" rated 4.2/5 stars on 564 reviews
+http://amzn.to/1uQvA20
+""The Irrationality Illusion: How To Make Smart Decisions And Overcome Bias"" rated 4.2/5 stars on 55 reviews
+http://amzn.to/1o3FaAg
+""40 Paradoxes in Logic, Probability, and Game Theory"" rated 4.2/5 stars on 81 reviews
+http://amzn.to/1LOCI4U
+""The Best Mental Math Tricks"" rated 4.3/5 stars on 148 reviews
+http://amzn.to/18maAdo
+""Multiply Numbers By Drawing Lines"" rated 4.5/5 stars on 57 reviews
+http://amzn.to/XRm7M4
+
+Mind Your Puzzles: Collection Of Volumes 1 To 3
+https://amzn.to/2mMdrJr
+A collection of 3 books:
+""Math Puzzles Volume 1"" rated 4.4/5 stars on 138 reviews
+http://amzn.to/1GhUUSH
+""Math Puzzles Volume 2"" rated 4.2/5 stars on 45 reviews
+http://amzn.to/1NKbyCs
+""Math Puzzles Volume 3"" rated 4.3/5 stars on 38 reviews
+http://amzn.to/1NKbGlp
+
+2017 Shorty Awards Nominee. Mind Your Decisions was nominated in the STEM category (Science, Technology, Engineering, and Math) along with eventual winner Bill Nye; finalists Adam Savage, Dr. Sandra Lee, Simone Giertz, Tim Peake, Unbox Therapy; and other nominees Elon Musk, Gizmoslip, Hope Jahren, Life Noggin, and Nerdwriter.
+
+My Blog
+https://mindyourdecisions.com/blog/
+
+Twitter
+https://twitter.com/preshtalwalkar
+
+Instagram
+https://www.instagram.com/preshtalwalkar/
+
+Merch
+https://teespring.com/stores/mind-your-decisions
+
+Patreon
+https://www.patreon.com/mindyourdecisions
+
+Press
+https://mindyourdecisions.com/blog/press",422,600471,,,
+https://www.youtube.com/watch?v=EDb37y_MhRw,EDb37y_MhRw,Generative vs Agentic AI: Shaping the Future of AI Collaboration,"Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam → https://ibm.biz/BdndTY
+
+Want to learn more about Agentic AI + Data? Register here →  https://ibm.biz/BdeGLe
+
+Learn more about Agentic AI + Data here →  https://ibm.biz/BdeGLe
+
+What’s the difference between generative AI and agentic AI? 🤔 Martin Keen explains how generative AI powers content creation and image generation, while agentic AI uses LLMs and chain of thought reasoning for proactive tasks like personal shopping and conference planning. Discover the future of intelligent AI collaboration! 🚀
+
+AI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/BdndTz
+
+#generativeai #agenticai #ai #llm",438,1213482,,,
+https://www.youtube.com/watch?v=Wp3jyLkfBQs&pp=ugUEEgJlbg%3D%3D,Wp3jyLkfBQs,Introduction to Simulation: System Modeling and Simulation,"This video introduces the concept of simulation and the entire purpose behind it. I refer to the book ""Discrete event system simulation"" by Jerry Banks et al.
+
+
+Leave your suggestions in the comments below :)
+
+Let me know if you want more videos!
+
+Follow me on:
+
+Instagram: https://www.instagram.com/nehasoman/
+Facebook: https://www.facebook.com/neha.soman.9",2101,281728,,,
+https://www.youtube.com/watch?v=7ExvtSeyHL0,7ExvtSeyHL0,The Worst Backup Idea I’ve Heard (And What to Do Instead),"❌ I see the appeal of slipping a little SD card into your computer for backups, but the safety of your data on that card has me worried.
+
+❌ Backing up to SD cards and thumb drives
+SD (Secure Digital) cards and thumb drives are convenient, but not really safe for full backups. They can fail without warning, taking your data with them. Warranties replace cards (or money), not lost files. For more safety, use an external hard drive or cloud service. Still — any backup is better than none.
+
+Updates, related links, and more discussion: https://askleo.com/14343
+
+🔔 Subscribe to the Ask Leo! YouTube channel for more tech videos & answers: https://go.askleo.com/ytsub
+
+✅ Watch next ▶ How Should I Back Up When Traveling? ▶ https://youtu.be/Pd2o-84Is-s
+
+Chapters
+0:00 Should I Back Up to an SD Card, USB Stick, or SSD?
+0:55 Warranties don’t get your data back
+1:30 Flash memory - SD versus SSD
+2:40 SSD: still not really for backups
+3:30 But any backup is better than no backup
+
+❤️ My best articles: https://go.askleo.com/best
+❤️ My Most Important Article: https://go.askleo.com/number1
+
+More Ask Leo!
+☑️ https://askleo.com to get your questions answered
+☑️ https://newsletter.askleo.com to subscribe to the Confident Computing newsletter.
+☑️ https://askleo.com/patron to help support Ask Leo!
+☑️ https://askleo.com/all-the-different-ways-to-get-ask-leo/ for even more!
+
+#askleo #backup #SSD",356,1316087,,,
+https://www.youtube.com/watch?v=i3AkTO9HLXo&pp=ugUEEgJlbg%3D%3D,i3AkTO9HLXo,Markov Chains Clearly Explained! Part - 1,"Let's understand Markov chains and its properties with an easy example. I've also discussed the equilibrium state in great detail. 
+#markovchain #datascience #statistics 
+
+For more videos please subscribe - 
+http://bit.ly/normalizedNERD 
+
+Markov Chain series -
+https://www.youtube.com/playlist?list=PLM8wYQRetTxBkdvBtz-gw8b9lcVkdXQKV
+
+Facebook - 
+https://www.facebook.com/nerdywits/
+Instagram - 
+https://www.instagram.com/normalizednerd/
+Twitter - 
+https://twitter.com/normalized_nerd",564,1861178,,,
+https://www.youtube.com/watch?v=VOURtMtmWZs&list=PLw6WHKDrf8E3dAn5gA9BQEckGpoMysHHM&pp=0gcJCbQEOCosWNin,VOURtMtmWZs,Earned Value Management EXCEL💰 4 Steps Project Schedule Variance Analysis Cost at Completion Control,"In this video of #engineeringmanagementacademy #EarnedValueManagement for #projectcontrol is tutored by #drmehrdadarashpour  
+
+❎ Excel workbook to follow along: https://bit.ly/Excel_Earned_Value
+
+▶ RELATED VIDEOS: https://youtu.be/r_syNRLCIPY
+
+ ⌛ TIMESTAMPS
+0:00 - Introduction to Earned Value Management (EVM) in Excel
+0:21 - Excel’s Template to calculate Schedule & Cost Variances, Schedule Performance Index (SPI), Cost Performance Index (CPI), Estimated Time at Completion (ETC) & Cost Estimate at Completion (EAC)
+0:51 - Step 1 (Establish project baseline & calculate planned values based on budgeted cost of activities)
+1:42 - Step 2 (Track the actual progress of project activities using site reports & measure actual costs incurred)
+2:32 - Step 3 (Measure the work completed (Earned Value) against the planned schedule & budget)
+3:26 - Step 4 (Calculate EVA metrics to control project deviations from planned objectives)
+5:00 - Interpret estimated time at completion (ETC) & Cost Estimate at Completion (EAC)
+
+✍ Request Next Tutorial Video: https://forms.gle/Frz9U9imCouofdoD8
+
+🔔 Subscribe: https://bit.ly/EngineeringManagementAcademy",380,3238,,,
+https://www.youtube.com/watch?v=3xZSU7hVHUY&pp=ugUEEgJlbg%3D%3D,3xZSU7hVHUY,HOW TO LEARN & Master AI in 2026 ? (Complete Powerful 7-step ROADMAP),"HOW TO LEARN & Master AI in 2026 ? (Complete Powerful 7-step ROADMAP) #ai #artificialintelligence #howtolearnai #learnai #masterai #aiexplained #aiforbeginners #ai2026 #tejasai #2026 
+
+Join Our Discord Server :- https://discord.gg/2abyjxr4v6
+
+🚀 The COMPLETE AI Learning Roadmap for 2026 - From Zero to AI Expert
+
+Stop wasting time on scattered tutorials and incomplete courses. Everyone tells you to ""understand AI"" and ""use tools,"" but nobody shows you the EXACT step-by-step roadmap to actually master AI from scratch.
+
+Today, I'm breaking down the complete 7-step roadmap that people sell for hundreds of dollars—absolutely FREE. This is the same path I'm using to learn AI, and it's proven, effective, and gives you a clear direction in the world's most powerful technology.
+
+What You'll Learn:
+✅ The exact 7-step roadmap to master AI systematically
+✅ Why basics matter more than jumping into ChatGPT immediately
+✅ Python essentials for AI (without becoming a coding expert)
+✅ Machine Learning fundamentals explained in simple terms
+✅ Deep Learning and Neural Networks demystified
+✅ How to build real AI projects that showcase your skills
+✅ Mastering Generative AI, LLMs, and modern tools
+✅ Choosing your specialization and building a killer portfolio
+
+🎯 The 7-Step AI Learning Roadmap:
+
+Step 1: Master the Basics
+Stop jumping around until your fundamentals are crystal clear. Understand what AI, Machine Learning, Neural Networks, Gen AI, Agentic AI, and LLMs actually mean—not just the buzzwords, but how they work and their real-world applications. A weak foundation = a collapsing empire.
+
+Step 2: Learn Python - AI's Main Language
+You don't need to become a Python expert. Just master the essentials: variables, if/else, loops, functions, lists, dictionaries, NumPy, and pandas. Think of Python as your paintbrush—simple to learn, powerful to use. Spend 2-3 weeks coding daily.
+
+Step 3: Dive Into Machine Learning
+This is where real AI learning begins. Understand supervised vs unsupervised learning, linear regression, classification, clustering, overfitting, and evaluation metrics. Work with real datasets—predict house prices, classify data, analyze patterns. Get your hands dirty.
+
+Step 4: Deep Learning & Neural Networks
+The advanced version of ML. Learn about neural networks, layers, CNNs, transformers, backpropagation, and training loops. Master PyTorch or TensorFlow. Build image classifiers and text models. This is where computers learn to see, hear, and understand like humans.
+
+Step 5: Build Real Projects
+Theory means nothing without practice. Build image classifiers, voice-to-text models, sentiment analyzers, fake news detectors, and recommendation systems. Projects transform knowledge into skill. Document everything—your portfolio is your proof.
+
+Step 6: Master Gen AI, Tools & LLMs
+Connect everything to modern Generative AI. Learn prompt engineering, embeddings, and how LLMs work. Use ChatGPT, Midjourney, Runway, and ElevenLabs. Build chatbots, PDF Q&A bots, and content generators using APIs. Join the cutting edge.
+
+Step 7: Specialize & Build Your Portfolio
+Pick your track: AI/ML Engineer, Data Scientist, or Gen AI Expert. Become irreplaceable in your niche. Build 5-10 projects showcasing your specialization. Share on GitHub, write blogs, create tutorials. Build in public.
+
+💡 Key Takeaway:
+AI isn't complicated—it just needs a clear roadmap. This journey takes months of consistent effort, not genius. You'll never feel ""ready,"" but you don't need to know everything to create value. The time to start is NOW.
+
+🔥 Why This Matters:
+→ AI is transforming every industry—healthcare, finance, entertainment, education
+→ 70% of AI professionals don't have CS backgrounds—they learned strategically
+→ AI literacy will be as common as computer literacy soon
+→ The opportunities today are unprecedented—but they won't last forever
+→ Start messy, start imperfect, but START TODAY
+
+👉 Ready to Transform Your Future?
+Don't wait for the perfect starting point. The AI revolution is happening NOW. Start with one step, one project, one small action. Your future self is counting on you.
+
+""AI isn't about being a genius. It's about consistency, patience, and showing up every single day.""
+Start your AI mastery journey today! 🚀
+
+Related Topics :
+
+how to learn AI, learn AI, AI for beginners, AI learning for beginners, AI step by step guide, artificial intelligence guide, learn AI without coding, AI crash course, master ai, learn ai in 2026, master ai in 2026, prompt engineering guide, generative AI tutorial, AI automation, AI skills, beginner AI tutorial, AI learning roadmap, master AI fast, AI tutorial 2026, learn artificial intelligence, AI roadmap for beginners, how to use AI daily, AI productivity hacks, AI beginner course, learn AI fast, AI explained, ai basics, how to use ai effectively, ai prompting tips, tejas ai, tejas_aiz, ai2026, 2026 etc.
+
+- Tejas AI",1639,281223,,,
+https://www.youtube.com/watch?v=9vzUI7r9BNw,9vzUI7r9BNw,Quantitative Project Risk Analysis with Monte Carlo Simulation with Excel,"I will be presenting on ""A project risk quantification model with Monte Carlo simulation on Excel.
+In this 1 hour session we explain how to break away from very poor risk ""heat maps"" to create a quantitative risk register using Monte Carlo simulation on Excel. We show that it is very simple, intuitive and that they do not require expensive, obscure or complicated tools or methodologies to be able to correctly identify the most important risks of a project.",3580,581,,,
+https://www.youtube.com/watch?v=xEAVRpSVSLs&t=224s&pp=ygUHZ2dwbG90Mg%3D%3D,xEAVRpSVSLs,Learn to Plot Time Series Data Easily (R ggplot2 Tutorial),"Dive deep into time series analysis using R and the tidyverse. We cover data aggregation, pivot_longer efficiency, and applying advanced aesthetics like scale_color_manual and ggrepel to TB and malaria data.
+
+👋 LESSON MATERIALS 🛑
+
+You can access interactive quizzes, download lesson notes, and datasets for this lesson at our website: https://thegraphcourses.org/courses/epirep/topics/visualizing-time-series/",3500,455,,,
+https://www.youtube.com/watch?v=h29g21z0a68&t=8641s&pp=ygUHZ2dwbG90Mg%3D%3D,h29g21z0a68,ggplot2 workshop part 1,"Part 1 of 2 of my impromptu beginner/intermediate ggplot2 workshop. It will focus on teaching the underlying theory of ggplot2 and how it is reflected in the API
+
+Ressources: https://github.com/thomasp85/ggplot2_workshop
+
+Part 2: https://youtu.be/0m4yywqNPVY",8899,225280,,,
+https://www.youtube.com/watch?v=IfK2DgKQ4rw&pp=ygUHZ2dwbG90Mg%3D%3D,IfK2DgKQ4rw,Focus : Markdown editor - Joplin,"Master the Markdown editor in Joplin! ✍️ In this week’s focus video, we explore how Joplin’s powerful Markdown editor works and how it helps you create beautifully formatted notes with ease. Take your note-taking to the next level!
+
+🌐 Website: joplinapp.org
+💻 GitHub: github.com/laurent22/joplin
+🦋 Bluesky: https://bsky.app/profile/joplinapp.bsky.social
+📣 Mastodon: mastodon.social/@joplinapp
+💼 LinkedIn: linkedin.com/company/joplinapp
+🐦 Twitter: twitter.com/joplinapp",144,4170,,,
+https://www.youtube.com/watch?v=JP76QHUIBk8&pp=ygUHZ2dwbG90Mg%3D%3D,JP76QHUIBk8,Hands-On: Build Custom Population Pyramids in ggplot2,"Dive into R's ggplot2 for crafting demographic pyramids—perfect for spotting age and sex patterns in epidemics like HIV!
+
+👋 LESSON MATERIALS 🛑
+You can access interactive quizzes, download lesson notes, and datasets for this lesson at our website: https://thegraphcourses.org/courses/epirep/topics/demographic-pyramids/",2345,313,,,
+https://www.youtube.com/watch?v=Cixq36j7YO0&pp=ygUHZ2dwbG90Mg%3D%3D,Cixq36j7YO0,HOW TO R STUDIO: GGPLOT2 BASICS,"This video is a breakdown of common useful tasks needed to use 𝐠𝐠𝐩𝐥𝐨𝐭𝟐 as a primer.  Turn on the 🔔  notification
+
+Join this channel to get access to perks:
+https://www.youtube.com/channel/UCbni-TDI-Ub8VlGaP8HLTNw/join
+
+➡ Buy Me A Coffee: https://www.buymeacoffee.com/mrfugudatasci
+➡ Github: github.com/MrFuguDataScience
+➡ Twitter: @MrFuguDataSci
+➡ Instagram: @mrfugudatascience
+
+Code From This Video: https://github.com/MrFuguDataScience/R_studio
+
+𝐀𝐦𝐚𝐳𝐨𝐧 𝐀𝐟𝐟𝐢𝐥𝐢𝐚𝐭𝐞 𝐋𝐢𝐧𝐤𝐬: (I receive a small commission on purchases)
+* Prices & Availability Subject to change
+--------------------------------------------
+30 Free Trial Amazon Prime: https://amzn.to/3RhCKf9  (End Date: Dec 31, 2022 at 10:59 PM PST)
+
+Prime Student 6 Month Free Trial: https://amzn.to/3wgMXQz  (End Date: On going)
+
+Audible Gift Membership: https://amzn.to/3pAfw7W  (End Date: On Going)
+
+Try Audible: https://amzn.to/3PETRWS  (End Date: On Going)
+
+Apple Certified Type C Charger & USB Wall Charger 20W with 2 cables:  https://amzn.to/3dMdqPA
+
+𝐕𝐢𝐝𝐞𝐨𝐬 𝐘𝐨𝐮 𝐌𝐚𝐲 𝐀𝐥𝐬𝐨 𝐋𝐢𝐤𝐞:
+
+▶️   R STUDIO: MULTIPLE PLOTS ggplot2 | DATE/TIME FORMATTING: https://youtu.be/ITK9CbALXnU
+
+▶️   R STUDIO: PCA | KMODES  | CUSTOM ONE HOT ENCODE | PLOT: https://youtu.be/W807zO1Eq7U
+
+▶️    MONGOLITE BASICS: FROM R-STUDIO TO MONGODB: https://youtu.be/ndofYeMkdkg
+
+other end screen Gif at end: Moos-media on pixabay.com  
+
+Troll Gif: https://gifer.com/en/H9N
+
+Thumbnail: goumbik on pixabay
+
+Music &. Intro Pic: Special Thanks
+
+Pixabay: instagram (subscribe gif):  @imotivationitas
+
+Music: Oshóva - Tidal Dance on 
+Soundcloud: https://soundcloud.com/osh-va ,
+youtube: https://www.youtube.com/channel/UC_uiomVq61yUos1FUuOdsTw
+
+#rstudio #ggplot2 #mrfugudatascience",802,2033,,,
+https://www.youtube.com/watch?v=ke9R4C0E-k0&pp=ygUHZ2dwbG90MtIHCQnFCgGHKiGM7w%3D%3D,ke9R4C0E-k0,Summer workshop series: Understanding the foundations of 'ggplot2',"Date: June 5, 2023
+Instructor: Jessica Guo
+Helpers: Eric Scott and Kristina Riemer
+Presented to: ALVESCE researchers
+Description: In this workshop you'll gain a better understanding of the ""grammar of graphics""—the theory underlying the `ggplot2` package. Using practical examples, you'll learn how understanding the grammar of graphics can help you build more creative, complex, information-rich visualizations.
+Slides: https://viz.datascience.arizona.edu/foundations-ggplot2-slides/
+Repo: https://github.com/cct-datascience/CALS-workshops/tree/main/20230605-foundations-ggplot2",6102,968,,,
+https://www.youtube.com/watch?v=YceiSkCa-Vc,YceiSkCa-Vc,How to make a database and a GUI using sqlite3 and Tkinter in python.,In this video we will make a GUI using Tkinter and add the functionality of a database. You will be able to add data to the database using the GUI and view the data entered.,527,1192,,,
+https://www.youtube.com/watch?v=UzsWr9X98J8&pp=ugUHEgVlbi1VUw%3D%3D,UzsWr9X98J8,3 Main Types of Missing Data | Do THIS Before Handling Missing Values!,"#ai #ml #datascience #data #machinelearning #artificialintelligence 
+🔥 This video covers the three main types of missing values: missing completely at random, missing at random and missing not at random. Before moving to the missing value handling step, you need to understand where are the values in the dataset? Why they disappeared? 
+
+You can proceed to the missing value handling after understanding the statistical effect of the missing data points on your analysis. What if you mistakenly delete an important information which can lead to an underestimation? We bring valuable examples to clearly explain main differences among these three categories.
+
+Remember, missing completely at random occurs when the missing data is completely random and does not relate with the observed data. Missing at random refers to those missing values that are related to the observed data. While missing not at random is the most problematic. In that case, reasons are tied to the characteristics of the missing data, making it difficult or impossible to directly infer or predict what those missing values might be based solely on the observed data.
+
+🔍 Key points covered:
+
+0:00 - Introduction.
+0:28 - In this video...
+0:34 - Types of missing data.
+0:42 - Missing Completely at Random.
+1:26 - Missing at Random.
+2:03 - Missing Not at Random.
+2:47 - Subscribe to us!
+
+🔔 Don't forget to like, subscribe, and hit the bell icon to stay updated with our latest videos! 
+
+🤖 Note that we use synthetic generations, such as AI-generated images and voices, to enhance the appeal and engagement of our content.
+
+🌐 If you have any questions or topics you want us to cover, leave a comment below. Additionally, share with your thoughts about the content, how do you think we can make them better? Thanks for watching!",186,17600,,,
+https://www.youtube.com/watch?v=pAD8UnsMt0M,pAD8UnsMt0M,Python In Excel Linear Regression,"Continuing the learning journey about Python in Excel, this time with linear regression. 
+
+The kaggle dataset is this one: https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
+
+In a following video, I am explaining how to display Python DataFrames in Excel.
+https://youtu.be/4XLGGtmAwjU",1003,1233,,,
+https://www.youtube.com/watch?v=0X75wlRPeWM,0X75wlRPeWM,Titanic data analysis project,"Titanic Passenger Data Using Power BI!
+In my latest data analysis project, I used Power BI to dive into the Titanic passenger dataset and uncover some fascinating insights. Power BI is an invaluable tool for interactive visualizations, data cleaning, and creating meaningful reports. 
+
+Measures and Visualizations:
+I created custom measures using DAX to calculate survival rates, count passengers, and sum transportation fares. These measures helped me create insightful visuals and dashboards.
+
+Visualization Highlights:
+
+Displayed total passengers, survivors, and casualties using cards.
+Utilized bar charts to analyze survival by gender, embarkation point, and travel class.
+Presented survival statistics by age category using metric/table visuals.
+Enhanced visuals by customizing colors, legends, and titles for clarity and impact.
+
+ Join our Data Analytics Community to share insights and collaborate on similar projects. Click here to join: 
+https://www.linkedin.com/groups/14425506/
+https://chat.whatsapp.com/JU3Qzri2EhxKAvVMU2MATw
+
+
+#powerbi_training  #dataanalyticstraining  #DataVisualization #TitanicDataset #InteractiveReports #BusinessIntelligence #dreamjobjourney",4304,431,,,
+https://www.youtube.com/watch?v=ELkaEpN29PU&pp=ugUEEgJlbg%3D%3D,ELkaEpN29PU,Desktop GUI App With Python & Tkinter,"In this video we will build a CRUD GUI app with Python, the Tkinter library and Sqlite3
+
+Sponsor: Linode Cloud Hosting
+Get $20 Free by visiting https://www.linode.com/traversy
+
+Code:
+https://github.com/bradtraversy/part_manager
+
+💖 Become a Patron: Show support & get perks!
+http://www.patreon.com/traversymedia
+
+Website & Udemy Course Links:
+https://www.traversymedia.com
+
+Follow Traversy Media:
+https://www.facebook.com/traversymedia
+https://www.twitter.com/traversymedia
+https://www.instagram.com/traversymedia
+
+Resources:
+I first learned about Tkinter from this great Udemy course so I want to give him credit:
+https://www.udemy.com/course/the-python-mega-course",3398,393292,,,
+https://www.youtube.com/watch?v=BfS2H1y6tzQ,BfS2H1y6tzQ,A Random Walk & Monte Carlo Simulation  ||  Python Tutorial  ||  Learn Python Programming,"𝙎𝙩𝙖𝙮 𝙞𝙣 𝙩𝙝𝙚 𝙡𝙤𝙤𝙥 𝙄𝙉𝙁𝙄𝙉𝙄𝙏𝙀𝙇𝙔: https://snu.socratica.com/python A random walk is a process where each step is chosen randomly.  This technique has many applications.  In this video we solve a random walk puzzle using Monte Carlo simulations and the random module in Python.
+
+To learn Python, start our Python Playlist HERE:
+http://bit.ly/PythonHelloWorld
+
+Subscribe to Socratica: http://bit.ly/1ixuu9W
+
+♦♦♦♦♦♦♦♦♦♦
+
+We recommend:
+Python Cookbook, Third edition from O’Reilly
+http://amzn.to/2sCNYlZ
+
+The Mythical Man Month - Essays on Software Engineering & Project Management
+http://amzn.to/2tYdNeP
+
+Shop Amazon Used Textbooks - Save up to 90%
+http://amzn.to/2pllk4B
+
+♦♦♦♦♦♦♦♦♦♦
+
+Ways to support our channel:
+
+►  Join our Patreon : https://www.patreon.com/socratica
+►  Make a one-time PayPal donation: https://www.paypal.me/socratica
+►  We also accept Bitcoin @ 1EttYyGwJmpy9bLY2UcmEqMJuBfaZ1HdG9
+
+Thank you!
+
+♦♦♦♦♦♦♦♦♦♦
+
+Connect with us!
+
+Facebook: https://www.facebook.com/SocraticaStudios/
+Instagram: https://www.instagram.com/SocraticaStudios/
+Twitter: https://twitter.com/Socratica
+
+♦♦♦♦♦♦♦♦♦♦
+
+Python instructor: Ulka Simone Mohanty (@ulkam on Twitter)
+Written & Produced by Michael Harrison (@mlh496 on Twitter)
+FX by Andriy Kostyuk
+
+♦♦♦♦♦♦♦♦♦♦",474,678302,,,
+https://www.youtube.com/watch?v=xSS59Ga64rQ&t=11s,xSS59Ga64rQ,Automatically Update Matplotlib Text Position with Python adjustText to Avoid Overlaps,"Automatically update the text on your Matplotlib or seaborn figures so it doesn't overlap with adjustText!  In this Python Matplotlib tips video, I show you how to use a Python package called adjustText to automatically update your Matplotlib text position so that the text doesn't overlap.  First I answer, ""What is adjustText?""  Then I show you how to get adjusttext using ""pip install adjustText"".  Next, we walk through the code basics: how to import python adjusttext and how to use it to update your Matplotlib text annotation so that they don't overlap or hang outside of the figure.   I also demo using adjusttext to update seaborn text through plt.text.  I describe how adjustText works in an iterative process.  Then I show you how to do other things with adjustText like adding arrows, using expand_points to avoid large markers, and saving each iteration as a figure so you can make your own GIF.  Join me to learn about Python adjustText and save yourself the hassle of manually updating your Matplotlib text placement.
+
+0:00 Introduction
+0:26 What is adjustText?
+0:46 Install adjustText
+1:03 Code Basics
+3:30 adjustText with seaborn
+5:54 How does adjustText work?
+6:46 Add Arrows 
+7:56 Expand Points
+8:55 Make your own GIF!
+10:51 bl00pers
+
+// More adjustText EXAMPLES:
+https://github.com/Phlya/adjustText/blob/master/docs/source/Examples.ipynb
+
+// GitHub CODE:
+https://github.com/kimfetti/Videos/blob/master/Additional_Content/adjust_text_demo.ipynb
+https://github.com/Phlya/adjustText
+
+// Related VIDEOS:
+Add Text to Matplotlib Figures - https://youtu.be/NBYzSaTbodM
+Seaborn scatterplot - https://youtu.be/4yz4cMXCkuw
+Full MATPLOTLIB TIPS Playlist - https://www.youtube.com/playlist?list=PLtPIclEQf-3dJmAj3IsSRwRoLbX-n3J81 
+
+#dataviz #matplotlib #adjusttext",661,7254,,,
+https://www.youtube.com/watch?v=SMocwlfRnVE,SMocwlfRnVE,Cara Mengatasi Missing Value Pada Dataset - Belajar Python Untuk Data Science,"Sebelum kita membuat model untuk data data kita, kita harus memastikan bahwa dataset kita tak memiliki column dengan value yang masih kosong. Jika ini terjadi, maka kita bisa mengatasinya dengan tiga cara. Mengisinya dengan mean, media, atau modus (mode). Pada video kali ini saya akan menjelaskannya untuk kalian
+
+
+Ringkasan seputar Data Quality
+https://www.yasyaindra.com/p/notes.html
+
+
+
+Mau belajar programming dan teknologi terkini, yuk buruan follow Komputisme ID di Instagram
+https://www.instagram.com/komputisme/
+
+
+Blog: https://www.yasyaindra.com/
+Twitter: https://twitter.com/yasyayayasya
+Discord: https://discord.gg/r92QuAj7N6 
+Twitch : https://www.twitch.tv/yasyaindra",609,6860,,,
+https://www.youtube.com/watch?v=EaGbS7eWSs0,EaGbS7eWSs0,"Python Pandas Tutorial 5: Handle Missing Data: fillna, dropna, interpolate","In this tutorial we'll learn how to handle missing data in pandas using fillna, interpolate and dropna methods. You can fill missing values using a value or list of values or use one of the interpolation methods. 
+
+Topics that are covered in this Python Pandas Video:
+0:00 Introduction 
+2:30 Convert string column into the date type 
+3:15 Use date as an index of dataframe usine set_index() method 
+4:10 Use fillna() method in dataframe
+7:35 Use fillna(method=""ffill"") method in dataframe
+8:57 Use fillna(method=""bfill"") method in dataframe
+9:56 ""axis"" parameter in fillna() method in dataframe
+11:18 ""limit"" parameter in fillna() method in dataframe
+13:46 interpolate() to do interpolation in dataframe
+15:34 interpolate() method ""time""
+16:50 dropna() method Drop all the rows which has ""na"" in dataframe
+17:50 ""how"" parameter in dropna() method 
+18:33 ""thresh"" parameter in dropna() method 
+
+Code link: https://github.com/codebasics/py/tree/master/pandas/5_handling_missing_data_fillna_dropna_interpolate
+
+Do you want to learn technology from me? Check https://resources.codebasics.io/vsia88 for my affordable video courses.
+
+Popular Playlist:
+Complete python course: https://www.youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0
+
+Data science course: https://www.youtube.com/playlist?list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV
+
+Machine learning tutorials: https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
+
+Pandas tutorials: https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy
+
+Git github tutorials: https://www.youtube.com/playlist?list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW
+
+Matplotlib course: https://www.youtube.com/playlist?list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl
+
+Data structures course: https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12
+
+Data Science Project - Real Estate Price Prediction: https://www.youtube.com/watch?v=rdfbcdP75KI&list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg
+
+
+To download csv and code for all tutorials: go to https://github.com/codebasics/py, click on a green button to clone or download the entire repository and then go to relevant folder to get access to that specific file.
+
+🌎 My Website For Video Courses: https://resources.codebasics.io/vsia88
+
+Need help building software or data analytics and AI solutions? My company https://www.atliq.com/ can help. Click on the Contact button on that website.
+
+#️⃣ Social Media #️⃣
+🔗 Discord:  https://discord.gg/r42Kbuk
+📸 Dhaval's Personal Instagram: https://www.instagram.com/dhavalsays/
+📸 Instagram: https://www.instagram.com/codebasicshub/
+🔊 Facebook: https://www.facebook.com/codebasicshub
+📝 Linkedin (Personal): https://www.linkedin.com/in/dhavalsays/
+📝 Linkedin (Codebasics):  https://www.linkedin.com/company/codebasics/
+📱 Twitter: https://twitter.com/codebasicshub
+🔗 Patreon: https://www.patreon.com/codebasics?fan_landing=true",1327,485307,,,
+https://www.youtube.com/watch?v=mGLIlEopPFY&t=2512s,mGLIlEopPFY,Using ggplot2 to visualize relationship between life expectancy and health spending in R (CC338),"Pat recreates a figure from The Times showing the change in life expectancy by the amount of health care spending for seven countries using tools from R's dplyr, ggplot2, showtext, and ggtext. The functions he uses from these packages include aes, annotate, arrange, coord_cartesian, element_blank, element_line, element_markdown, element_rect, element_text, factor, format, geom_point, geom_text, ggplot, ggsave, labs, margin, mutate, read_tsv, scale_color_manual, scale_fill_manual, scale_size_continuous, scale_x_continuous, scale_y_continuous, select, seq, theme, and tribble. You can find the data and code he developed in this episode at https://www.riffomonas.org/code_club/2025-02-03-health-expenditure. The original Times news article is available at: https://www.thetimes.com/comment/columnists/article/we-keep-pumping-money-into-the-nhs-is-it-good-value-blq8bxc39. Pat's newsletter describing how he would go about generating the figure can be found at https://shop.riffomonas.org/posts/representing-time-in-a-bubble-plot-with-ggplot2. The csv file can be downloaded from https://datawrapper.dwcdn.net/Bxhol/9/dataset.csv. If you have a figure that you would like to see me discuss in a future newsletter and episode of Code Club, email me at pat@riffomonas.org!
+
+Want more practice on the concepts covered in Code Club? You can sign up for my weekly newsletter at https://shop.riffomonas.org/youtube to get practice problems, tips, and insights. If you're interested in purchasing a video workshop be sure to check out https://riffomonas.org/workshops/
+
+Support Riffomonas by becoming a Patreon member!
+https://www.patreon.com/riffomonas
+
+You can also find complete tutorials for learning R with the tidyverse using...
+Microbial ecology data: https://www.riffomonas.org/minimalR/
+General data: https://www.riffomonas.org/generalR/
+
+If you want to cite this video, please consider citing https://journals.asm.org/doi/10.1128/mra.01310-22
+
+0:00 Introduction
+3:58 Construct bubble plot
+21:03 Label and format x and y axes
+28:09 Add titles and captions to plot
+40:03 Add axis, country, and year labels",3283,1840,,,
+https://www.youtube.com/watch?v=kWsx-yVegf8,kWsx-yVegf8,Handling Missing Values in Machine Learning - Python 💡 🔍🐍 #MissingData #PandasTutorial,"🚀 Learn Power BI for FREE! | Unlock a 6-Figure Skill in Just 4 Weekends – No Tech Experience Needed! 💼📊
+Apply today via 👇
+https://forms.gle/3Vn9S6ULcej1Pyu58
+Hurry now ❗
+Registration Closes May 31, 2025
+
+Struggling with missing data in your dataset? Learn how to handle missing data in Python using Pandas for data cleaning and preprocessing. This tutorial covers the best techniques to detect, drop, fill, and impute missing values like a pro. Perfect for data science beginners and anyone building a strong Python data analysis foundation.
+
+🌐Connect with me: 
+TikTok: www.tiktok.com/@exxonconsultservi 
+Facebook: https://www.facebook.com/100063899204411/live_videos/ 
+Youtube: www.youtube.com/@ECOSTAFINANALYTICSCONSUL-bx4nr
+Youtube: Exxon Consult Services@careerskillsservices2736
+Office Address: #150 Ago Palace Way, Okota 
+Whatsapp/Call: 09130969391
+
+#Python #DataCleaning #MissingData #PandasTutorial #DataScience #HandleMissingValues #PythonForBeginners #DataPreprocessing",1172,117,,,
+https://www.youtube.com/watch?v=t4yBm9agYWo&list=PLFAYD0dt5xCxdKfIR3ZX3k07qrqEjUZSO,t4yBm9agYWo,Introduction to Pandas | #1 of 53: The Complete Pandas Course,"Course materials Github: https://github.com/machinelearningplus/pandas_course
+
+Let's understand what pandas is, and why you must absolutely master pandas on your data science journey. 
+
+Now, pandas is the most popular and widely used library for data analysis and data wrangling as a whole. Anything that you want to do with data is absolutely possible to do with pandas. And for that reason, pandas is my favorite library for data wrangling in Python. 
+
+Not just me, if you look at any data scientist working with Python, I would expect that person to know pandas really, really well. Because in order to be able to do hands on data science work in Python, you need to be really comfortable manipulating data first. 
+
+So pandas is probably the very first library that you must master on your data science journey. And that is exactly what we will do in this course as well. So what does pandas do? as a practitioner, you will be working a lot with data. 
+
+And you will be reading data from a wide variety of sources. It could be CSV files, it could be Excel files, JSON, HTML, various types of databases. It could also be from statistical software, such as SAS, SPSS, and so on. pandas provides nice API to read data from various different sources, as well as different file formats as well. Once you get the data, you will be able to process it, visualize the data and do all sorts of data wrangling with it. 
+
+And pandas is compatible with libraries that you use to build machine learning models also. So think of pandas as the Excel for Python. using Excel, Microsoft Excel, you can do all sorts of data manipulation. You can do the same with pandas, but you have more advantages are there is no limitation on the size of the data that you can use with pandas only that the size of the data is limited to the size of the ram in your computer system. So the more memory you have in your system, larger the data you will be able to process. 
+
+Now the creator of the pandas packages, Wes McKinney, a highly revered figure in the field. He originally started the work in the year 2008 when he was working for AQR Capital Management. And from 2009 onwards, this project became open source, and a lot more people continue to contribute to this project. And that's the active team that maintains it and continually develops the package as we go along. Now, why pandas because it is the default library it is the most favorite library used by a lot of data scientists in the field. If you want to handle tabular data, the default library is pandas. It is also compatible with other machine learning libraries such as psychic learn and all. 
+
+So if you are working with pandas, you are good to go to build your machine learning models as well. And since it has a wide adoption by a lot of members, it is very easy to find solution for any type of problem that you are facing with pandas. Besides this, there is excellent plotting capabilities. 
+
+Also, you can plot any type of plot, or the most commonly used plots for data analysis with pandas very easily. And finally, it offers two main data structures, the data frame and series. And both of these data structures are highly optimized for performance. And the API that they provide is very intuitive to work with data. So for all these reasons, you must definitely learn and be very confident working with the pandas library. It will be very useful if you're going to pursue any type of hands on role in the data science space.",199,15429,,,
+https://www.youtube.com/watch?v=e3YkdOXhFpQ,e3YkdOXhFpQ,How to Program a Blackjack Card Game With Python!,"In this video we learn how to make the classic card game Blackjack or 21 in python with the PyGame framework!
+
+The code and assets are all available at the GitHub link here:
+https://github.com/plemaster01/pygameBlackjack
+
+Consider becoming a super supporter of the channel at my Patreon link here:
+https://www.patreon.com/LeMasterTech
+
+Blackjack is a simple and fun card game found at every single casino in America! The goal is for the player to get as close to a score of 21 without going over (going bust) as possible! The dealer will always play against you and they are required to add cards (hit) to their hand until their hand total reaches at least 17. The rules are simple and this is a great project for beginners to python or intermediate programmers who want to get better with the PyGame module!
+
+TIMESTAMPS:
+00:00:00 Intro and Background
+00:02:46 Set Up Game Variables and PyGame Window!
+00:11:04 Drawing Buttons onto the Screen!
+00:23:15 Handling the Deal Button
+00:27:12 Automatic Dealing Function
+00:32:59 Drawing Cards onto the Screen
+00:41:28 Calculate Score of Hands and Display on Screen
+00:56:23 Hit and Stand Command Buttons
+01:01:55 Handle Game Over Conditions
+01:09:45 Restarting and Playing Again
+01:15:17 Outro and Thanks!",4653,19186,,,
+https://www.youtube.com/watch?v=s7AlTnXi9SU&t=19s,s7AlTnXi9SU,Building a Simple Blackjack Game in Python with Pygame | Part 2,"#python #pygame #gamedev
+#development #python #gamedev #programming #learntocode #beginners #pygame 
+Simple introduction to Python and Pygame by building a well known card game part 2.
+
+Blog post:
+https://medium.com/nerd-for-tech/crea...
+
+Github link:
+https://github.com/Mozes721/BlackJack
+
+💖  Show Support
+https://www.buymeacoffee.com/MozesCodes
+
+🛴 Follow me or connect:
+https://linktr.ee/richard_taujenis 🌲
+
+Intro: (00:00)
+Main Setup: (02:07)
+Project Recap: (07:18)
+Conclusion: (09:30)",589,1406,,,
+https://www.youtube.com/watch?v=3UwUxnm-x-o,3UwUxnm-x-o,Building a Simple Blackjack Game in Python with Pygame | Part 1,"#development #python #gamedev #programming #learntocode #beginners #pygame 
+Simple and good introduction to Python and Pygame by building a well known card game.
+
+Blog post:
+https://medium.com/nerd-for-tech/creating-blackjack-game-with-python-80a3b87b1995
+
+Github link:
+https://github.com/Mozes721/BlackJack
+
+💖  Show Support
+https://www.buymeacoffee.com/MozesCodes
+
+🛴 Follow me or connect:
+https://linktr.ee/richard_taujenis 🌲
+
+Intro: (00:00)
+Development constants/assets : (01:10)
+Logic: (06:16)
+Conclusion: (13:02)",798,2236,,,
+https://www.youtube.com/watch?v=9H27CimgPsQ&list=PLsFyHm8kJsx32EFcsJNt5sDI_nKsanRUu,9H27CimgPsQ,How to Make Pac-Man in Python!,"Thank you everyone for 2k Subscribers on LeMaster Tech YouTube! In the recent user poll on the channel you all voted for Pacman to be the next big project we take on, so here we are!
+
+All code and assets for the project can be found here:
+https://github.com/plemaster01/PythonPacman
+
+If you like this project and want to become a super supporter of the channel consider checking out my Patreon!
+https://www.patreon.com/LeMasterTech
+
+Check out my personal channel for fun engineering content!
+https://www.youtube.com/@peterlemaster8310
+
+BUY A COOL SHIRT WITH MY LOGO IF YOU WANT TO: https://lemastertech.myshopify.com
+
+If you want to watch the channel of how to build a tile-based level editor check it out here:
+https://www.youtube.com/watch?v=7w8FiHe4ziQ
+
+Pacman is one of the most famous and popular games of all time and learning how to recreate the entire game line-by-line is something I'd always wanted to do, and once I figured it out I wanted to share it with you, the viewing public!
+
+We start by creating a massive array representing the board tiles for the Pacman level, then draw each tile onto the board algorithmically. Then we draw the player onto the screen and animate him so he has the classic munching pattern!
+
+Next we create player movement with the arrow keys, handle player 'eating' the dots and the powerups, then add scoring. 
+
+Finally we create a python class for the Ghosts to share some core functionality! This involves drawing each of their images onto the screen, checking for collisions with walls and seeing what directions are valid for chasing down pacman!
+
+One of the most challenging aspects to this project is giving each ghost a unique pattern of pursuit when chasing down Pacman and we show how to do that entirely from scratch as well!
+
+As always if you have questions, comments, or want to let me know what you want to see more of on the channel, leave me a comment below!!
+
+As always, thanks for watching and good luck with your projects!! 
+
+TIMESTAMPS:
+00:00:00 - Intro and Project Showcase
+00:03:40 - Setting Up Pygame
+00:09:31 - Designing a Tile-based Board
+00:15:00 - Drawing Each Tile Type onto the board
+00:40:32 - Drawing and Animating the Player onto the screen!
+00:51:30 - Directional Commands Using Arrow Keys
+00:56:06 - Check for Player Collisions with walls and allowable turns!
+01:17:40 - Move the Player! Setting Up 'Joystick' Type control
+01:32:10 - Scoring and 'Eating' The dots and powerups!
+01:41:05 - Setting up powerup active timer
+01:52:38 - Loading ghost images and setting up the Ghost Class!
+02:18:05 - Check for Ghost valid pathing and turn checking!
+02:35:17 - Set up a first Ghost Movement Pattern! (Clyde's)
+03:03:10 - Change Ghost targets based on Game conditions!
+03:16:28 - Get ghosts to pass through 'Ghost Cage' Door
+03:21:13 - Colliding with ghosts to eat them and lose lives!
+03:36:08 - Reset if Ghost is dead when they enter ghost box
+03:39:23 - Giving the ghosts varying speeds based on game conditions
+03:47:17 - Scoring points when eating ghosts
+03:50:52 - Creating Blinky, Inky ad Pinky's Distinct Movement Patterns
+04:10:51 - Game Over and Game Won Restart Conditions!
+04:28:50 - Outro and Thank you!!",16246,135020,,,
+https://www.youtube.com/watch?v=Zk-biEDNVwc&pp=ugUEEgJlbg%3D%3D,Zk-biEDNVwc,Advanced Data Structures: Binary Search Tree (BST) Time Complexity,,3199,23208,,,
+https://www.youtube.com/watch?v=B_kUijEmQDg,B_kUijEmQDg,Linear Regression Analysis using Python,This how to video demonstrates how you can easily create a linear regression model using Python code for your marketing research data files.,977,511,,,
+https://www.youtube.com/watch?v=lfVVm5K-Xp0&pp=ugUEEgJlbg%3D%3D,lfVVm5K-Xp0,How to Create a Standout GitHub Profile README (Step by Step Guide 2025),"Resources mentioned in this video:  
+- Skill Icons: github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list  
+- GitHub Readme Stats: github.com/anuraghazra/github-readme-stats  
+- Forrest Knight’s Profile: github.com/ForrestKnight  
+- CyrisXD’s Profile: github.com/CyrisXD  
+- Awesome GitHub Profile Readme Examples: github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive-  
+- GitHub Profile Readme Generator: rahuldkjain.github.io/gh-profile-readme-generator/  
+- My Profile: github.com/maximus-soares  
+
+Hands-on Tech Projects & Roadmaps:  
+- Step-by-Step Tech Projects 👉 link.nextwork.org/youtube  
+- Cloud Engineer Roadmap: nextwork.org/roadmaps/cloud-engineer  
+- AI Engineer Roadmap: nextwork.org/roadmaps/cloud-engineer  
+- Networking Projects: learn.nextwork.org?utm_source=youtube&explore=series:networks  
+- DevOps Projects: learn.nextwork.org?utm_source=youtube&explore=series:devops  
+
+---
+
+Connect with us:  
+- Instagram: instagram.com/itsnextwork/  
+- LinkedIn: linkedin.com/school/itsnextwork/  
+- TikTok: tiktok.com/@itsnextwork  
+- Website / Blog: nextwork.org  
+- Join our community of 20,000+ members worldwide: community.nextwork.org  
+
+---
+
+Description:  
+Want to create a standout GitHub Profile README in 2025? 🚀 In this step-by-step guide, you’ll learn how to make your profile look professional and unique – from adding themed icons, images, and stats to showcasing projects and links. This guide is perfect for students, job seekers, and developers building a strong personal brand on GitHub.  
+
+---
+
+Timestamps:  
+00:00 - Intro  
+00:35 - Method #1: Start  
+04:25 - Method #2: ChatGPT  
+07:00 - Skills Icons  
+09:06 - Images/Gifs
+12:18 - Stats Section  
+14:30 - Links  
+
+---
+
+#GitHub #GitHubProfile #README #OpenSource #Coding #Developer",1024,43208,,,
+https://www.youtube.com/watch?v=27bcANwQpkw&t=61s,27bcANwQpkw,004 Matplotlib   Implementing Figures and Axes,004 Matplotlib   Implementing Figures and Axes,871,709,,,
+https://www.youtube.com/watch?v=w5JhFN0CwOE,w5JhFN0CwOE,Tkinter interface to search and filter Pandas DataFrame and display rows in Treeview,"00:00 Introduction to applications 
+00:43 Layout and importing libraries   
+01:34 Creating Pandas DataFrame using Excel file by read_excel() 
+02:20 Adding components to Tkinter GUI window
+ 06:18 my_search() function to filter dataframe 
+10:00 Adding treeview to show the filtered dataframe   
+12:18 Adding headers to Treeview based on result 
+14:23 Inserting rows of data to Treeview 
+
+ 
+
+Download Source code from here 
+https://www.plus2net.com/python/tkinter-df-search.php
+
+Web site: www.plus2net.com 
+YouTube: https://www.youtube.com/@plus2net1
+Facebook: https://www.facebook.com/plus2net 
+Instagram: https://www.instagram.com/plus2net.in/
+LinkedIn: https://www.linkedin.com/in/plus2net/ 
+
+#FilterDataFrame #Pandas #SearchData #SearchExcel #Treeview #showFilteredData #queryDataFRame #plus2net #python",1289,7628,,,
+https://www.youtube.com/watch?v=MFLfl683XIE&pp=ugUHEgVlbi1VUw%3D%3D,MFLfl683XIE,How to perform a constructive critique of a data visualization (CC374),"Pat introduces the DAIJ model for giving a critique to a data visualization that is often used to critique art. By describing, analyzing, interpreting, and then judging the visual he contends that we can give a more constructive data visualization that will help the recipient and the person giving the critique get the most out of the experience. He uses a diverging bar plot from a Washington Post article about the US government shutdown to motivate a discussion of the model. You can find a free version of the article at https://archive.is/vSyct
+
+Want more practice on the concepts covered in Code Club? You can sign up for my weekly newsletter at https://shop.riffomonas.org/youtube to get practice problems, tips, and insights. If you're interested in purchasing a video workshop be sure to check out https://riffomonas.org/workshops/
+
+Support Riffomonas by becoming a Patreon member!
+https://www.patreon.com/riffomonas
+
+You can also find complete tutorials for learning R with the tidyverse using...
+Microbial ecology data: https://www.riffomonas.org/minimalR/
+General data: https://www.riffomonas.org/generalR/
+
+If you want to cite this video, please consider citing https://journals.asm.org/doi/10.1128/mra.01310-22
+
+0:00 Introduction
+2:17 The DAIJ model for critique
+4:05 Description
+8:58 Analysis
+14:43 Interpretation
+18:26 Judgement",1824,776,,,
+https://www.youtube.com/watch?v=lY4rSeX8IL4&pp=ugUEEgJlbg%3D%3D,lY4rSeX8IL4,Monte Carlo Simulation - Explained,"Can you calculate π by throwing darts randomly? This video explains the Monte Carlo simulation technique using a simple dart-throwing experiment to estimate the value of pi. Learn how randomness and probability turn into powerful tools for solving complex problems in mathematics, physics, and finance. Whether you're into statistics, data science, or just curious how games of chance help predict outcomes, this video makes the Monte Carlo method intuitive and unforgettable.
+
+*Related Videos*
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 
+Bayesian Optimization: https://youtu.be/Kq6_kzlwSUQ
+Hyperparameters Tuning: Grid Search vs Random Search: https://youtu.be/G-fXV-o9QV8
+The Kernel Trick: https://youtu.be/N_RQj4OL1mg
+Cross-Entropy - Explained: https://youtu.be/Fv98vtitmiA
+Dropout - Explained: https://youtu.be/FDF_Q3_98GQ 
+Overfitting vs Underfitting: https://youtu.be/B9rhzg6_LLw
+Why Models Overfit and Underfit - The Bias Variance Trade-off: https://youtu.be/5mbX6ITznHk
+Least Squares vs Maximum Likelihood: https://youtu.be/WCP98USBZ0w
+XGBoost Explained in Under 3 Minutes: https://youtu.be/33fGfuleXw0
+
+*Contents*
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 
+00:00 - Intro
+00:52 - Coin flipping example
+01:21 - Approximate pi example
+03:00 - Law of large numbers
+03:33 - Summary
+03:58 - Outro
+
+*Follow Me*
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 
+🐦 Twitter: @datamlistic https://twitter.com/datamlistic
+📸 Instagram: @datamlistic https://www.instagram.com/datamlistic
+📱 TikTok: @datamlistic https://www.tiktok.com/@datamlistic
+👔 Linkedin: https://www.linkedin.com/company/datamlistic
+
+*Channel Support*
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 
+The best way to support the channel is to share the content. ;)
+
+If you'd like to also support the channel financially, donating the price of a coffee is always warmly welcomed! (completely optional and voluntary)
+► Patreon: https://www.patreon.com/datamlistic
+► Bitcoin (BTC): 3C6Pkzyb5CjAUYrJxmpCaaNPVRgRVxxyTq
+► Ethereum (ETH): 0x9Ac4eB94386C3e02b96599C05B7a8C71773c9281
+► Cardano (ADA): addr1v95rfxlslfzkvd8sr3exkh7st4qmgj4ywf5zcaxgqgdyunsj5juw5
+► Tether (USDT): 0xeC261d9b2EE4B6997a6a424067af165BAA4afE1a
+
+#montecarlo #mathtricks #randomness #datascience #statistics",252,29895,,,
+https://www.youtube.com/watch?v=h1eK0Zv_Tkk&pp=ugUEEgJlbg%3D%3D,h1eK0Zv_Tkk,How to normalize data in Excel,View detailed instructions here: https://spreadcheaters.com/how-to-normalize-data-in-excel/,278,68066,,,
+https://www.youtube.com/watch?v=xuUMz8exU8Q,xuUMz8exU8Q,Introduction to monte carlo simulations using R,"From my CSE845 class at Michigan State University. A very basic introduction to performing monte carlo simulations using the R programming language.
+
+Note (Sept 2019). I had no idea how useful people would find this. I will put all scripts up on github soon.
+
+It looks like the data link in the video no longer works. It can be downloaded from here.
+https://datadryad.org/stash/dataset/doi:10.5061/dryad.8376",1257,91781,,,
+https://www.youtube.com/watch?v=HV5wXp04E-8&t=42s,HV5wXp04E-8,Data Cleaning (13/32) Rubin's Rule: Missing Data Imputation,"Previous: https://youtu.be/Hlif4u0pGxw
+Next: https://youtu.be/r4njPeERSZE
+Playlist: https://www.youtube.com/playlist?list=PLnccJ9vccaGlNPbPaHmUMcB3FivI3l4lR
+
+When a dataset contains missing data, what can you do to ensure your analysis remains statistically sound? In this video, we walk through the complete process of multiple imputation, focusing on Rubin’s Rule—a powerful method used to integrate uncertainty and improve the reliability of results derived from incomplete data.
+
+We begin with a six-step procedure for handling missing data: identifying single imputations, generating multiple imputations, constructing multiple datasets, performing separate analyses, averaging the results, and finally—most critically—pooling the uncertainty. This final step is where Rubin’s Rule comes into play.
+
+Rather than simply averaging regression coefficients or parameter estimates, Rubin’s Rule incorporates both within-imputation variance (the variability within each dataset) and between-imputation variance (the variability across datasets). By combining these, we calculate a total variance that accounts for the uncertainty caused by missing data. The result is a more accurate standard error and a confidence interval reflecting the statistical conclusions' trustworthiness.
+
+We also delve into key formulas in this process, showing how increasing the number of imputed datasets leads to more stable variance estimates. This explanation is illustrated with examples from regression analysis, where multiple imputed datasets can lead to different regression coefficients. Rubin’s Rule helps integrate these variations into a single, reliable result.
+
+Suppose you're exploring data imputation techniques, missing data analysis, or statistical inference with incomplete datasets. In that case, this video will help you understand how Rubin’s Rule strengthens the analytical foundation of your research. It is ideal for those working with social science data, medical data, or machine learning preprocessing pipelines.
+
+【Predictive Analytics by Machin Learning】
+This course ""Predictive Analytics by Machine Learning"" explicates essential concepts and techniques ranging from foundational to advanced. It covers not only machine learning algorithms but also various concepts and methods for data preprocessing. This course will guide you step-by-step, equipping you with the skills to confidently apply machine learning to real-world predictive analytics.
+
+Instructor: Takuma Kimura (木村 琢磨), Ph.D.
+Scientist of Organizational Behavior and Analytics
+https://orcid.org/0000-0001-7126-188X
+https://www.linkedin.com/in/takuma-kimura-ba6242104/
+
+#machinelearning #datascience #missingdata #missingvalue #imputation #multipleimputation #rubin'srule",664,551,,,
+https://www.youtube.com/watch?v=mSusDGZhkVU&pp=ugUHEgVlbi1VUw%3D%3D,mSusDGZhkVU,Kaggle Competitions Beginner Walkthrough: Train a Machine Learning Model and Submit its Predictions!,"Thank you for watching the video!
+
+Learn Python, SQL, & Data Science for free at https://mlnow.ai/ :)
+
+Subscribe if you enjoyed the video!
+
+Best Courses for Analytics:
+---------------------------------------------------------------------------------------------------------
++ IBM Data Science (Python):  https://bit.ly/3Rn00ZA
++ Google Analytics (R):   https://bit.ly/3cPikLQ
++ SQL Basics:   https://bit.ly/3Bd9nFu
+
+
+Best Courses for Programming:
+---------------------------------------------------------------------------------------------------------
++ Data Science in R:   https://bit.ly/3RhvfFp
++ Python for Everybody:   https://bit.ly/3ARQ1Ei
++ Data Structures & Algorithms:   https://bit.ly/3CYR6wR
+
+
+Best Courses for Machine Learning:
+---------------------------------------------------------------------------------------------------------
++ Math Prerequisites:  https://bit.ly/3ASUtTi
++ Machine Learning:   https://bit.ly/3d1QATT
++ Deep Learning:   https://bit.ly/3KPfint
++ ML Ops:   https://bit.ly/3AWRrxE
+
+
+Best Courses for Statistics:
+---------------------------------------------------------------------------------------------------------
++ Introduction to Statistics: https://bit.ly/3QkEgvM
++ Statistics with Python:  https://bit.ly/3BfwejF
++ Statistics with R:  https://bit.ly/3QkicBJ
+
+
+Best Courses for Big Data:
+---------------------------------------------------------------------------------------------------------
++ Google Cloud Data Engineering:   https://bit.ly/3RjHJw6
++ AWS Data Science:   https://bit.ly/3TKnoBS
++ Big Data Specialization:   https://bit.ly/3ANqSut
+
+
+More Courses:
+---------------------------------------------------------------------------------------------------------
++ Tableau:   https://bit.ly/3q966AN
++ Excel:   https://bit.ly/3RBxind
+
++ Computer Vision:   https://bit.ly/3esxVS5
++ Natural Language Processing:   https://bit.ly/3edXAgW
+
++ IBM Dev Ops:   https://bit.ly/3RlVKt2
++ IBM Full Stack Cloud:    https://bit.ly/3x0pOm6
++ Object Oriented Programming (Java):   https://bit.ly/3Bfjn0K
+
++ TensorFlow Advanced Techniques: https://bit.ly/3BePQV2
++ TensorFlow Data and Deployment: https://bit.ly/3BbC5Xb
++ Generative Adversarial Networks / GANs (PyTorch): https://bit.ly/3RHQiRj",2116,51400,,,
+https://www.youtube.com/watch?v=sXVbWkoCVaA,sXVbWkoCVaA,You NEED to try these open-source AI projects right now...,"Make AI work for your business with Microsoft 365 Copilot: https://info.microsoft.com/ww-landing-making-ai-work-for-your-business.html
+
+Check out the Short: https://youtube.com/shorts/Rjk98M25-iA
+
+Download The 25 OpenClaw Use Cases eBook 👇🏼
+https://bit.ly/4aBQwo1
+
+Download The Subtle Art of Not Being Replaced 👇🏼
+http://bit.ly/3WLNzdV
+
+Download Humanities Last Prompt Engineering Guide 👇🏼
+https://bit.ly/4kFhajz
+
+Join My Newsletter for Regular AI Updates 👇🏼
+https://forwardfuture.ai
+
+Discover The Best AI Tools👇🏼
+https://tools.forwardfuture.ai
+
+My Links 🔗
+👉🏻 X: https://x.com/matthewberman
+👉🏻 Forward Future X: https://x.com/forwardfuture
+👉🏻 Instagram: https://www.instagram.com/matthewberman_ai
+👉🏻 TikTok: https://www.tiktok.com/@matthewberman_ai
+👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8
+
+Media/Sponsorship Inquiries ✅ 
+https://bit.ly/44TC45V
+
+Links:
+https://github.com/garrytan/gstack
+https://github.com/nousresearch/hermes-agent
+https://github.com/obra/superpowers
+https://github.com/paperclipai/paperclip",898,161623,,,
+https://www.youtube.com/watch?v=-iCBETPQkuo&pp=ugUEEgJlbtIHCQnZCgGHKiGM7w%3D%3D,-iCBETPQkuo,Convert NotebookLM Into Stunning Website (No Coding Required),"How to Turn NotebookLM Into an Interactive Website (No-Code) | Convert NotebookLM Into a Stunning Website
+
+Try Ai for FREE Slides: Try for FREE:- https://genppt.ai?atp=Gurrutech
+
+About this Video:-
+Discover how to transform any NotebookLM notebook into a fully interactive, professional website — no coding skills needed! In this step-by-step tutorial, you'll learn how to use Google Gemini Canvas and Gemini Gems to build a custom web page directly from your research documents.
+
+We'll cover:
+✅ How to organize and verify your source documents in NotebookLM for best results
+✅ Using Google Drive's fast research tools to streamline your workflow
+✅ How to prompt Gemini Pro to generate a complete, audience-specific web page in real time
+✅ How to export your HTML file and run it locally on any device
+✅ How to build a reusable Gemini Gem so you can repeat this process with any notebook or PDF — in minutes
+
+
+
+Contact Us:-
+Business Email -  gurrutechsolutions@gmail.com
+Contact us via WhatsApp#: +923555183536
+
+
+Follow Us:-
+👉https://www.facebook.com/gurrutechsolutions/
+👉https://www.linkedin.com/in/pervaiz-durrani/
+👉https://www.instagram.com/gurrutechsolutions?igsh=MThtZ3NyM3BnNWNjZA==
+👉https://www.tiktok.com/@gurrutechsolutions2?_r=1&_t=ZS-93zuKG1Sk0j
+
+
+We Provide the Following Services:
+~Ai Automation Experts
+~n8n Workflow Experts
+~AI Course Generation  
+~YouTube Automation
+~YouTube Manager
+~Educational Content Creation
+~AI tools Consultancy
+
+#notebooklmtowebsite #freewebsites #bestai2026 #freeaitools #websitedesigns  #gurrutechsolutions",454,127498,,,
+https://www.youtube.com/watch?v=_Pyi12dn4Kw,_Pyi12dn4Kw,All of Statistics in 1 Hour (ultimate study guide),"Here are all of the main topics you need to know for any high school or first year university statistics course. 
+
+Make sure to subscribe for good luck on your next math test!
+
+Go to jensenmath.ca for tons of free math resources.
+
+0:00 types of data
+3:27 measures of central tendency
+7:14 measures of spread
+14:39 Graphing Data
+21:49 Probability Basics
+26:43 Discrete Probability Distributions
+32:40 Continuous Probability Distributions
+41:55 Confidence Intervals
+49:22 Hypothesis Testing
+59:17 Regression and Correlation",3804,364933,,,
+https://www.youtube.com/watch?v=tBK6XpPvzvU&pp=0gcJCdkKAYcqIYzv,tBK6XpPvzvU,Profit Maximization Decision Tree -- Video 2 of Lesson 8,Using the TreePlan Excel add-in developed by Bian Ying,700,407,,,
+https://www.youtube.com/watch?v=36zkIAAUcZ4,36zkIAAUcZ4,How to Implement Gradient Descent | Part - 1,"In this video, I tried to explain the gradient descent algorithm in a very intuitive way. If you are a true ml enthusiast you are going to enjoy the math. In the next video, I'll show how you can write the code for gradient descent in python without using any libraries. Stay tuned!
+#normalizednerd #gradientdescent #python
+
+Support me if you can ❤️
+paypal.me/suji04
+https://www.buymeacoffee.com/normalizednerd
+
+For more videos please subscribe - 
+http://bit.ly/normalizedNERD
+
+Facebook - 
+https://www.facebook.com/nerdywits/
+Instagram - 
+https://www.instagram.com/normalizednerd/
+Twitter - 
+https://twitter.com/normalized_nerd",1156,22857,,,
+https://www.youtube.com/watch?v=3ik4ix-flJI,3ik4ix-flJI,Data Transformation (8/8) Dimensionality Reduction Basics,"Previous: https://youtu.be/578kq6SpA0c
+Next: Coming soon.
+Playlist: https://www.youtube.com/playlist?list=PLnccJ9vccaGl5PGvYZ7ilueVdBNjMQ8a0
+
+【Predictive Analytics by Machine Learning】
+This course ""Predictive Analytics by Machine Learning"" explicates essential concepts and techniques ranging from foundational to advanced. It covers not only machine learning algorithms but also various concepts and methods for data preprocessing. This course will guide you step-by-step, equipping you with the skills to confidently apply machine learning to real-world predictive analytics.
+
+Instructor: Takuma Kimura (木村 琢磨), Ph.D.
+Scientist of Organizational Behavior and Analytics
+https://orcid.org/0000-0001-7126-188X
+https://www.linkedin.com/in/takuma-kimura-ba6242104/
+
+#machinelearning #datascience #datatransformation #python #discretization  #datapreprocessing #dimensionalityreduction #principalcomponentanalysis #pca",737,56,,,
+https://www.youtube.com/watch?v=3EthljMwrPc,3EthljMwrPc,Intro to R for Public Health - RStudio,"Winter 2022 Intro to R for Public Health Course @ Johns Hopkins Biostatistics
+
+Download materials at https://jhudatascience.org/intro_to_r/",1145,3236,,,
+https://www.youtube.com/watch?v=IqWLxC0cw68&pp=ugUHEgVlbi1VU9IHCQnZCgGHKiGM7w%3D%3D,IqWLxC0cw68,data cleaning in data preprocessing | data mining and data warehouse videos | SRT Telugu Lectures,"this video in SRT Telugu Lectures is about
+
+data cleaning in data preprocessing
+
+steps in data preprocessing
+
+missing values
+
+noise and outliers",413,33283,,,
+https://www.youtube.com/watch?v=NtjAeXppomA&pp=ugUEEgJlbg%3D%3D,NtjAeXppomA,Logistic Regression in Python,"Logistic Regression is one of the fundamental algorithms in machine learning. It is very important to know how this actually works. In this video, I have tried to explain the inner working of the algorithm and how you can implement it in python without using any libraries! 
+#logisticregression #machinelearnning #python
+
+For more videos please subscribe - 
+http://bit.ly/normalizedNERD
+
+Support me if you can ❤️
+https://www.paypal.com/paypalme2/suji04
+https://www.buymeacoffee.com/normalizednerd
+
+Gradient Descent Concept - https://www.youtube.com/watch?v=36zkIAAUcZ4&t=31s
+
+Gradient Descent Implementation - https://www.youtube.com/watch?v=41BiBUZbg9U&t=89s
+
+Source Code for Logistic Regression - https://github.com/Suji04/ML_from_Scratch/blob/master/logistic%20regression.ipynb
+
+Scikit learn Logistic Regression-
+https://youtu.be/FEksNK_i7lQ
+
+Previous video about Linear Regression -
+https://www.youtube.com/watch?v=fnDO1s4fzi4&t=327s
+
+Facebook - 
+https://www.facebook.com/nerdywits/
+Instagram - 
+https://www.instagram.com/normalizednerd/
+Twitter - 
+https://twitter.com/normalized_nerd",1375,31686,,,
+https://www.youtube.com/watch?v=NBKMDWBWwwI&t=19s,NBKMDWBWwwI,Turning multiple CSV files into a single pandas data frame,"Data sets often come as multiple CSV files. How can you read those into a single pandas data frame? In this video, I show you how to use a Python ""for"" loop, or even a list comprehension, along with the ""glob"" module and the pd.concat function, to accomplish this.
+
+The Jupyter notebook for this video is at https://github.com/reuven/youTube-notebooks, and my free, weekly newsletter about Python and software engineering is at https://BetterDevelopersWeekly.com/.",488,37850,,,
+https://www.youtube.com/watch?v=bqhQ2LWBheQ&t=50s&pp=ugUHEgVlbi1VU9IHCQnZCgGHKiGM7w%3D%3D,bqhQ2LWBheQ,Normalization Vs. Standardization (Feature Scaling in Machine Learning),"In this video, we will cover the difference between normalization and standardization. 
+
+Feature Scaling is an important step to take prior to training of machine learning models to ensure that features are within the same scale.
+
+Normalization is conducted to make feature values range from 0 to 1. 
+
+Standardization is conducted to transform the data to have a mean of zero and standard deviation of 1. 
+
+Standardization is also known as Z-score normalization in which properties will have the behavior of a standard normal distribution.
+
+
+Check top-rated Udemy courses below: 
+
+10 days of No Code AI Bootcamp
+https://www.udemy.com/course/10-code-less-days-of-artificial-intelligence/?referralCode=91537BF0BEE11D8CAD80
+
+
+Modern Artificial Intelligence with Zero Coding
+https://www.udemy.com/course/modern-artificial-intelligence-with-zero-coding/?referralCode=62EE759C06EF0BAF699A
+
+Python & Machine Learning for Financial Analysis
+https://www.udemy.com/course/ml-and-python-in-finance-real-cases-and-practical-solutions/?referralCode=4B6502E065821E886C6E
+
+Modern Artificial Intelligence Masterclass: Build 6 Projects
+https://www.udemy.com/course/modern-artificial-intelligence-applications/?referralCode=3A1C79099D9CCB1D482B
+
+AWS SageMaker Practical for Beginners | Build 6 Projects
+https://www.udemy.com/course/practical-aws-sagemaker-6-real-world-case-studies/?referralCode=36D5AA54496B682D0D65
+
+Data Science for Business | 6 Real-world Case Studies
+https://www.udemy.com/course/data-science-for-business-6-real-world-case-studies/?referralCode=028F68A46A519870807B
+
+AWS Machine Learning Certification Exam | Complete Guide
+https://www.udemy.com/course/amazon-web-services-machine-learning/?referralCode=07A0615400D9D1766930
+
+TensorFlow 2.0 Practical
+https://www.udemy.com/course/tensorflow-2-practical/?referralCode=2009364111D673CAB7D6
+
+TensorFlow 2.0 Practical Advanced
+https://www.udemy.com/course/tensorflow-2-practical-advanced/?referralCode=57D1520CB407568F7E81
+
+Machine Learning Regression Masterclass in Python
+https://www.udemy.com/course/machine-learning-regression-masterclass-in-python/?referralCode=C473449E55009C3C19AD
+
+Machine Learning Practical Workout | 8 Real-World Projects
+https://www.udemy.com/course/deep-learning-machine-learning-practical/?referralCode=E4F2FD5068F398EE7CC9
+
+Machine Learning Classification Bootcamp in Python
+https://www.udemy.com/course/machine-learning-classification/?referralCode=492B6665E11EFD36F87D
+
+MATLAB/SIMULINK Bible|Go From Zero to Hero!
+https://www.udemy.com/course/matlabsimulink-biblego-from-zero-to-hero/?referralCode=14304D32D81878AD4F8E
+
+Python 3 Programming: Beginner to Pro Masterclass
+https://www.udemy.com/course/python-3-beginner-to-pro/?referralCode=D3E22C545F5EF7052629
+
+Autonomous Cars: Deep Learning and Computer Vision in Python
+https://www.udemy.com/course/autonomous-cars-deep-learning-and-computer-vision-in-python/?referralCode=ABD5D1368BBD00D65226
+
+Control Systems Made Simple | Beginner's Guide
+https://www.udemy.com/course/control-systems-made-simple-modeling-simulation-control/?referralCode=A5F01F4E703DEC03B3A1
+
+Artificial Intelligence in Arabicالذكاء الصناعي مبتدئ لمحترف
+https://www.udemy.com/course/artificial-intelligence-in-arabic/?referralCode=72FD85D08ADCBA46E903
+
+The Complete MATLAB Computer Programming Bootcamp
+https://www.udemy.com/course/the-complete-computer-programming-boot-camp/?referralCode=4B2A7BFAF95EFC4ABD32
+
+
+Thanks and see you in future videos!
+
+#featurescaling #normalization",1188,107943,,,
+https://www.youtube.com/watch?v=U00Kseb6SB4,U00Kseb6SB4,How to: Monte Carlo Simulation in Python (Introduction),"Check out my course on UDEMY: learn the skills you need for coding in STEM:
+https://www.udemy.com/course/python-stem-essentials/
+
+This video includes a basic tutorial in Monte Carlo simulation techniques in python, along with a few examples.
+
+Code:
+https://github.com/lukepolson/youtube_channel/blob/main/Python%20Tutorial%20Series/montecarlo1.ipynb
+
+Join the Discord Server:
+https://discord.gg/hTBzC9RNZX",1643,87142,,,
+https://www.youtube.com/watch?v=9Lh4PAN1HsA&pp=ugUHEgVlbi1DQQ%3D%3D,9Lh4PAN1HsA,Shuffle A Deck Of Cards | Python Example,How to create and shuffle a deck of cards using Python.  Source code: https://github.com/portfoliocourses/python-example-code/blob/main/shuffle_deck_of_cards.py.  Check out https://www.portfoliocourses.com to build a portfolio that will impress employers!,173,2006,,,
+https://www.youtube.com/watch?v=_55G24aghPY&pp=ugUEEgJlbg%3D%3D,_55G24aghPY,Kaggle's 30 Days Of ML (Day-1): Getting Started With Kaggle,"This video is a walkthrough of Kaggle's #30DaysOfML. In this video, we create a #Kaggle account, learn what upvotes and comments are, and make our first submission to a Kaggle competition. If you follow all the steps in this video, you will become a Kaggle contributor from novice.
+
+We follow steps in: https://www.kaggle.com/alexisbcook/getting-started-with-kaggle
+
+Note: this video is not sponsored by Kaggle!
+
+Please subscribe and like the video to help me keep motivated to make awesome videos like this one. :)
+
+To buy my book, Approaching (Almost) Any Machine Learning problem, please visit: https://bit.ly/buyaaml
+
+Follow me on:
+Twitter:  https://twitter.com/abhi1thakur
+LinkedIn: https://www.linkedin.com/in/abhi1thakur/
+Kaggle:  https://kaggle.com/abhishek
+Instagram: https://instagram.com/abhi1thakur",2621,220908,,,
+https://www.youtube.com/watch?v=_ea1Vqdpw_0,_ea1Vqdpw_0,How to Find & Replace NA Values in R 🔍💡,"Hey everyone! In this post, I'll show you how to use the R programming language to find missing values in your data. After that, I'll show you several methods of handling missing vales including removing na values with na.omit and replacing values with replace_na. #rstats #dataanlysis #tidyverse",636,115,,,
+https://www.youtube.com/watch?v=kU8jDPzJVLk,kU8jDPzJVLk,TMS FNC Chart - Multipoint Series,"Discover how TMS FNC Chart handles OHLC charts, trend lines, and moving averages for financial data visualization. This demo shows stock market data loaded from CSV across Delphi VCL, FireMonkey, and TMS WEB Core targeting Windows, macOS, Linux, Android, iOS, and web.
+
+🔗 TMS FNC Chart: https://www.tmssoftware.com/site/tmsfncchart.asp
+
+CONNECT:
+Newsletter: https://www.tmssoftware.com/site/newsletter
+Facebook: https://www.facebook.com/tmssoftware
+X: https://x.com/TMSsoftwareNews/
+LinkedIn: https://www.linkedin.com/company/tmssoftware-com/
+Instagram: https://www.instagram.com/tmssoftware/",936,203,,,
+https://www.youtube.com/watch?v=VZN61-9rkjY,VZN61-9rkjY,Python Tkinter | Python GUI Programming Using Tkinter Tutorial | Great Learning,"🔥1000+ Free Courses With Free Certificates: https://www.mygreatlearning.com/?utm_source=CPV_YT&utm_medium=Homepagelinks&utm_campaign=YTVids2024
+
+Tkinter is the standard GUI library for Python. It provides a fast and easy way to create GUI applications. Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit.Tkinter provides various controls, such as buttons, labels, and text boxes used in a GUI application. These controls are commonly called widgets. All Tkinter widgets have access to specific geometry management methods, which have the purpose of organizing widgets throughout the parent widget area.
+
+Learn AI & ML from the University of Texas, Austin. To build a successful career enroll now! https://www.mygreatlearning.com/pg-program-artificial-intelligence-course?utm_source=CPV_YT&utm_medium=Desc&utm_campaign=Tkintergui_2022
+
+Boost your resume with a Generative AI for Business certificate from Microsoft. Enroll now! https://www.mygreatlearning.com/gen-ai-microsoft-azure-open-ai-online?utm_source=CPV_YT&utm_medium=Desc&utm_campaign=Tkintergui_2022
+
+🏁 Topics Covered:
+00:00 Introduction
+01:34 Overview
+02:55 GUI 
+03:40 Tkinter
+08:00 Widgets 
+08:37 Geometry configuration of widgets 
+09:39 Label Widget 
+17:06 Button  Widget 
+32:18 Checkbutton 
+33:27 Frame
+35:55 Listbox
+40:31 Other Widgets 
+49:30 Summary
+
+🔥Check Our Free Courses with free certificate: 
+📌 Get your free certificate of completion for the Data Science with Python Course, Register Now: https://glacad.me/3ECO7Y2
+📌Data Science Foundations: https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-foundations?ambassador_code=GLYT_DES_Middle_SEP22&utm_source=GLYT&utm_campaign=GLYT_DES_Middle_SEP22
+📌Career in Data Science: https://www.mygreatlearning.com/academy/learn-for-free/courses/career-in-data-science?ambassador_code=GLYT_DES_Middle_SEP22&utm_source=GLYT&utm_campaign=GLYT_DES_Middle_SEP22
+📌R for Data Science: https://www.mygreatlearning.com/academy/learn-for-free/courses/r-for-data-science?ambassador_code=GLYT_DES_Middle_SEP22&utm_source=GLYT&utm_campaign=GLYT_DES_Middle_SEP22
+📌Data Science Mathematics: https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-mathematics?ambassador_code=GLYT_DES_Middle_SEP22&utm_source=GLYT&utm_campaign=GLYT_DES_Middle_SEP22
+📌Probability for Data Science: https://www.mygreatlearning.com/academy/learn-for-free/courses/probability-for-data-science?ambassador_code=GLYT_DES_Middle_SEP22&utm_source=GLYT&utm_campaign=GLYT_DES_Middle_SEP22
+
+⚡ About Great Learning Academy:
+Visit Great Learning Academy to get access to 1000+ free courses with free certificate on Data Science, Data Analytics, Digital Marketing, Artificial Intelligence, Big Data, Cloud, Management, Cybersecurity, Software Development, and many more. These are supplemented with free projects, assignments, datasets, quizzes. You can earn a certificate of completion at the end of the course for free.
+
+⚡ About Great Learning:
+With more than 5.4 Million+ learners in 170+ countries, Great Learning, a part of the BYJU'S group, is a leading global edtech company for professional and higher education offering industry-relevant programs in the blended, classroom, and purely online modes across technology, data and business domains. These programs are developed in collaboration with the top institutions like Stanford Executive Education, MIT Professional Education, The University of Texas at Austin, NUS, IIT Madras, IIT Bombay & more.
+
+SOCIAL MEDIA LINKS:
+🔹 For more interesting tutorials, don't forget to subscribe to our channel: https://glacad.me/YTsubscribe
+
+🔹 For more updates on courses and tips follow us on:
+✅ Telegram: https://t.me/GreatLearningAcademy
+✅ Facebook: https://www.facebook.com/GreatLearningOfficial/
+✅ LinkedIn: https://www.linkedin.com/school/great-learning/mycompany/verification/
+✅ Follow our Blog: https://glacad.me/GL_Blog",3055,54458,,,
+https://www.youtube.com/watch?v=ZLCZkMk69y0&list=PLA1FTfKBAEX40W8OeycI8S5ltunvS8CWw,ZLCZkMk69y0,Read A Specific Line From A File | Python Example,How to read a specific line from a file using Python.  Source code: https://github.com/portfoliocourses/python-example-code/blob/main/read_specific.py.  Check out https://www.portfoliocourses.com to build a portfolio that will impress employers!,555,27971,,,
+https://www.youtube.com/watch?v=3NCbEbopMj8&pp=0gcJCdkKAYcqIYzv,3NCbEbopMj8,"Computers, Geometry and Einstein - Jason Lotay","Computers have long been useful for studying mathematical problems. But recently computer techniques have been used to prove new theorems in geometry, specifically related to the study of gravity through Einstein's theory of General Relativity. This talk describes these developments and what they might mean for the future.
+
+Jason Lotay is Professor of Mathematics in the Mathematical Institute at the University of Oxford, and one of the inaugural Fellows of the Academy of Mathematical Sciences.
+
+The Oxford Mathematics Public Lectures are generously supported by XTX Markets.",2400,38304,,,
+https://www.youtube.com/watch?v=xi0vhXFPegw&t=632s&pp=ugUHEgVlbi1VUw%3D%3D,xi0vhXFPegw,Exploratory Data Analysis with Pandas Python,"In this video about exploratory data analysis with pandas and python, Kaggle grandmaster Rob Mulla will teach you the basics of how to explore data using python and pandas. Exploratory Data Analysis it a necessary tool for any data scientist. Pandas is a MUST for anyone getting into data science with python. Python is the #1 coding language for data science and has been growing over the years as an essential tool, with Pandas being the main data wrangling module. Kaggle Grandmaster Rob goes over it all in this video. In this video we discuss the basics of how to use explore data including...
+
+Timestamps:
+00:00 Introduction
+01:00 Imports and reading data
+03:35 Data Understanding
+06:40 Data Preparation
+20:57 Feature Understanding
+27:35 Feature Relationships
+35:30 Asking a Question about the Data
+40:00 Final Thoughts
+
+Follow me on twitch for live coding streams: https://www.twitch.tv/medallionstallion_
+
+Intro to Pandas video: https://www.youtube.com/watch?v=_Eb0utIRdkw
+
+Link to kaggle notebook used in the tutorial: https://www.kaggle.com/robikscube/introduction-to-exploratory-data-analysis/
+
+* Youtube: https://www.youtube.com/channel/UCxladMszXan-jfgzyeIMyvw
+* Twitch: https://www.twitch.tv/medallionstallion_
+* Twitter: https://twitter.com/MedallionData
+* Kaggle: https://www.kaggle.com/robikscube
+
+#Python #Coding #DataScience #Kaggle",2421,688249,,,
+https://www.youtube.com/watch?v=eXERTZAYaJE&pp=ugUEEgJlbg%3D%3D,eXERTZAYaJE,Stop Using XLOOKUP: This Excel Method Is Faster & Cleaner,"📊 Stop Using Lookup Formulas in Excel Reports | Build Faster, Smarter Reports
+
+Are your Excel reports breaking every time new data is added?
+If you’re copying XLOOKUP or VLOOKUP formulas month after month just to keep reports working, this video will change how you use Excel.
+
+In this tutorial, you’ll learn a cleaner and more scalable Excel reporting method used in real offices across the U.S. Instead of merging data with lookup formulas, we’ll use Excel Tables, the Data Model, Power Pivot, and PivotTables to build reports that update with one click.
+
+🏢 Real-World Excel Example (USA-Based)
+We’ll walk through a realistic retail scenario with:
+Sales transactions (date, product ID, store ID, quantity)
+Product details (name, category, unit price)
+Store information (city, state, region)
+
+You’ll see why relying on lookup formulas leads to:
+Repeated formula copying
+Slower Excel files
+Higher risk of errors
+Reports that don’t scale
+And more importantly — you’ll learn how to fix it the right way.
+
+✅ What You’ll Learn in This Video
+✔ Why XLOOKUP and VLOOKUP fail in recurring Excel reports
+✔ How to convert raw data into structured Excel Tables
+✔ How to use the Excel Data Model to keep data separate and clean
+✔ How to create relationships between tables (no formulas needed)
+✔ How to build professional PivotTable reports from multiple tables
+✔ How to calculate Total Sales using Power Pivot measures (SUMX)
+✔ How to refresh reports instantly when new data is added
+
+💡 Why This Excel Method Matters
+This approach is:
+Faster and more efficient
+Easier to maintain
+More accurate and trustworthy
+Used in real corporate Excel reporting
+
+Once you understand Excel relationships and the Data Model, you’ll never want to go back to copying lookup formulas again.
+
+📌 Perfect For:
+Excel beginners and intermediate users
+Office professionals and analysts
+Students learning real-world Excel skills
+Anyone building recurring Excel reports
+
+👍 If this video helped you, hit Like to support the channel
+📤 Share it with someone who’s still fixing Excel reports every month
+🔔 Subscribe to Easy Click Learning for practical Excel tutorials you can use at work and school
+
+Thanks for watching — see you in the next lesson!
+
+Practice File:
+https://url-shortener.me/BOEF
+
+Watch Next:
+https://youtu.be/B6FoLIiGeAQ
+
+🔔 Subscribe for more Excel Tips: https://www.youtube.com/@easyclicklearning?sub_confirmation=1
+
+🔗 Connect with me:  
+Facebook: https://www.facebook.com/profile.php?id=61567182173475&mibextid=ZbWKwL  
+X (Twitter): https://x.com/JB5453  
+LinkedIn: https://www.linkedin.com/in/easy-click-learning-590945336  
+
+#exceltips #exceltricks #exceltutorial #microsoftexcel #excelforbeginners #easyclicklearning #pivottable #powerquery #datamodel #exceltable #vlookup #xlookup",304,473682,,,
+https://www.youtube.com/watch?v=IgihTAagHHk,IgihTAagHHk,Introduction to Kaggle | Data Science Malayalam,,892,698,,,
+https://www.youtube.com/watch?v=UCp5tcUMdks&t=156s&pp=ugUEEgJlbg%3D%3D,UCp5tcUMdks,Monte Carlo Simulation and Python 17 - Using Monte Carlo to find best D'Alembert Increment,"Monte Carlo Simulation with Python Playlist: http://www.youtube.com/watch?v=9M_KPXwnrlE&feature=share&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0
+
+Here we use the monte carlo simulation to help us locate superior variables to use with our D'Alembert strategy. 
+
+In the monte carlo simulation with Python series, we test various betting strategies. A simple 50/50 strategy, a martingale strategy, and the d'alembert strategy. We use the monte carlo simulator to calculate possible paths, as well as to calculate preferred variables to use including wager size, how many wagers, and more. 
+
+There are many purposes for a monte carlo simulator. Some people use them as a form of brute force to solve complex mathematical equations. A popular example used is to have a monte carlo simulator solve for pi. In our case, we are using the Monte Carlo simulator to account for randomness and the degree of risk associated with a betting strategy. In the world of stock trading and investing, people can use the Monte Carlo simulator to test a given strategy's risk. 
+
+It used to be very much the case that only performance was considered, for the most part, to decide on a trader's value. Only until recently has the paradigm shifted to consider a strategy's risk more closely. Through this series, you will be able to see just how much random variability can affect the outcome, regardless of how ""good"" or ""bad"" a strategy might have been.
+
+http://seaofbtc.com
+http://sentdex.com
+http://hkinsley.com
+https://twitter.com/sentdex
+
+Bitcoin donations: 1GV7srgR4NJx4vrk7avCmmVQQrqmv87ty6",431,6557,,,
+https://www.youtube.com/watch?v=Gvhkp-Yw65U&pp=ugUHEgVlbi1VUw%3D%3D,Gvhkp-Yw65U,"Dplyr Essentials (easy data manipulation in R): select, mutate, filter, group_by, summarise, & more","Dplyr Essentials (easy data manipulation in R): select, mutate, filter, group_by, summarise, & more
+
+Timeline
+0:00 Intro
+1:01 Piping
+2:15 select()
+4:36 mutate()
+5:54 filter()
+7:19 distinct()
+8:39 group_by()
+8:53 summarise()
+9:40 arrange()
+10:26 count()
+
+Links:
+https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
+https://www.kaggle.com/dhruvildave/billboard-the-hot-100-songs
+https://github.com/abhimotgi/dataslice/blob/master/R/Dplyr%20Essentials.Rmd",681,79029,,,
+https://www.youtube.com/watch?v=vwquYLDVzHU,vwquYLDVzHU,How to Add Kaggle Dataset to Kaggle Notebook | Load & Use Datasets in Kaggle Kernel | Iris data,"🚀 Learn how to add and use Kaggle datasets in Kaggle Notebooks (Kaggle Kernel)! In this step-by-step tutorial, I'll show you how to import datasets directly into your Kaggle Notebook, making it easy to work with Machine Learning and Data Science projects on Kaggle.
+
+🔹 In this video, you’ll learn:
+✅ How to find and add datasets to your Kaggle Notebook
+✅ How to load CSV, JSON, and other dataset formats in Python
+✅ Best practices for managing datasets in Kaggle Kernel
+✅ How to use Pandas to read and analyze Kaggle datasets
+
+📌 Relevant Keywords:
+#Kaggle #KaggleNotebook #KaggleDataset #DataScience #MachineLearning #Python #AI #DataAnalysis
+
+🔔 Don't forget to LIKE, SHARE, and SUBSCRIBE for more Machine Learning & IoT tutorials!
+
+📩 For questions & collaborations: www.facebook.com/sakhawat.talukder.36/",93,18717,,,
+https://www.youtube.com/watch?v=hbbqWVRre60&t=2689s,hbbqWVRre60,Explore Data Analysis in Python | Superstore Sales Analysis | Step-by-Step Guide,"Do you want to know how to analyze Superstore sales data? If so, then this data analysis tutorial is for you! In this video, we'll walk you through the steps needed to analyze sales data from a Superstore.
+
+We will be using Python to perform an exploratory data analysis to uncover insights into the store’s sales trends and patterns. We will also be answering questions such as which category is best selling and most profitable, what are the best selling and most profitable sub-category, which is the top selling sub-category, which customer segment is most profitable.
+____________________________________________ 
+
+SUBSCRIBE!
+Do you want to become a Data Analyst? That's what this channel is all about! My goal is to help you learn everything you need in order to start your career or even switch your career into Data Analytics. Be sure to subscribe to not miss out on any content!
+____________________________________________
+
+0:43 - Importing Python Libraries 
+2:15 - Importing the dataset 
+8:59 - Analyzing shape of Dataset 
+11:55 - Data Cleaning filling empty columns 
+16:32 - Data Description 
+19:35 - Data cleaning Duplicates 
+25:02 - Exploratory Data Analysis 
+25:20 - Customer Segmentation 
+37:58 - Sales Per Customer Segment 
+41:31 - Customer Loyalty 
+49:05 - Geographical Analysis of Customers and Sales 
+1:02:06 - Product Category Segmentation 
+1:08:31 - Sales Per Product Category 
+1:11:40 - Sales according to individual products 
+1:18:07 - Sales Trends Analysis 
+1:30:07 - Quarterly Sales 
+1:38:10 - Monthly Sales Trends for 2018
+
+#DataAnalytics, #DataAnalysisProject #data analytics for beginners #data analytics",6147,31120,,,
+https://www.youtube.com/watch?v=GP-2634exqA&pp=ugUEEgJlbg%3D%3D,GP-2634exqA,🚀 Data Cleaning/Data Preprocessing Before Building a Model - A Comprehensive Guide,"Welcome to Learn_with_Ankith! 📊 In this tutorial, we'll delve into the crucial steps of data preprocessing to ensure your datasets are in prime condition before feeding them into your machine learning models. A clean and well-prepared dataset is the foundation for accurate and reliable model predictions.
+
+Data_set link: https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
+
+📌 Topics Covered:
+🚀 Data Cleaning/Data Preprocessing Before Building a Model - A Comprehensive Guide
+
+Import Necessary Libraries: Learn the essential libraries required for efficient data manipulation and analysis.
+
+Read File: Understand how to import data from various sources and formats into your Python environment.
+
+Sanity Check:
+
+Identify and handle missing values effectively.
+Explore the dataset's shape, information, and spot duplicates.
+Conduct a garbage check to maintain data integrity.
+Exploratory Data Analysis (EDA):
+
+Dive into descriptive statistics for a deeper understanding of your data.
+Visualize data distributions with histograms and box plots.
+Uncover patterns and relationships with scatter plots and correlation heatmaps.
+Missing Value Treatment:
+
+Implement strategies using mode, median, and KNNImputer to handle missing data.
+Outlier Treatment:
+
+Explore methods to detect and deal with outliers that can impact model performance.
+Encoding of Data:
+
+Convert categorical variables into a format suitable for machine learning algorithms.
+🔧 Whether you're a beginner or seasoned data scientist, mastering these preprocessing techniques is fundamental for building robust and accurate machine learning models..#DataPreprocessing, #DataCleaning, #MachineLearning, #DataScience, #DataAnalysis, #PythonProgramming, #Tutorial, #ExploratoryDataAnalysis, #OutlierDetection, #MissingValueTreatment, #DataVisualization, #Programming, #DataManipulation, #CodingTips, #FeatureEngineering, #DataQuality, #Pandas, #NumPy, #Matplotlib, #Seaborn, #DataInsights, #TechTutorial, #DataEngineering, #MachineLearningModels, #AIProgramming, #DataAnalytics, #DataWrangling, #TechEducation, #PythonTips, #Statistics, #DataSkills, #ProgrammingLife, #Algorithm, #TechTalk, #CodingCommunity, #DataPrep, #CodeNewbie, #DataQualityCheck, #LearnDataScience, #ProgrammingJourney",3497,235318,,,
+https://www.youtube.com/watch?v=LIm_GzoHgpk,LIm_GzoHgpk,SQLite for Delphi 10.3,SQLite for Delphi 10.3,3132,7941,,,
+https://www.youtube.com/watch?v=CPZ5ihaNfJc&pp=ugUEEgJlbg%3D%3D,CPZ5ihaNfJc,Running the Network - 3D Convolutional Neural Network w/ Kaggle and 3D medical imaging p.6,"The moment of truth! We see how our network did and begin to talk about some of the many areas for improvement. 
+
+The kernel for these tutorials: https://www.kaggle.com/sentdex/data-science-bowl-2017/first-pass-through-data-w-3d-convnet
+If you found this Kernel helpful, please upvote on Kaggle using the link above.
+If you have questions/comments/suggestions, post either on the video or on the Kernel and I will do my best to help you out!
+
+https://pythonprogramming.net
+https://twitter.com/sentdex
+https://www.facebook.com/pythonprogramming.net/
+https://plus.google.com/+sentdex",1761,83082,,,

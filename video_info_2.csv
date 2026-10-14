@@ -1,0 +1,1037 @@
+video_id,title,description,duration,views,likes,dislikes,comments
+7uR9c_yA0pE,How To... Perform a Two-Way ANOVA in R #93,"Learn how carry out an two way analysis of variance (ANOVA) with @EugeneOLoughlin.
+
+The R script (93_How_To_Code.R) and diagram (93_Diagram.jpg) for this video are available to download from Github at:
+
+https://github.com/eoloughlin/How-To-R.git",506,37838,,,
+Qe6LLJAmJ6c,Simple Linear Regression in R,"NOTE: An update to the lessR package has resulted in the following changes. First, the abbreviated output version of the Regression function is now called reg_brief (formerly reg.brief). Second, the argument to request standardized coefficients (based on z-score rescaling of the predictor and outcome variables) is now: new_scale=""z"" (formerly standardized=TRUE and rescale=""z"").
+
+This tutorial demonstrates how to estimate an ordinary least squares (OLS) simple linear regression model in R. Simple linear regression is applied in the HR context of employee selection tool validation -- and specifically criterion-related validation.
+
+Other videos from my ""R Tutorials"" playlist can be found here: https://www.youtube.com/playlist?list=PLKkRkURCtPjCJOZHskCoyJCPb8wMDs2CW
+
+The data file(s) referenced in this R tutorial (and other R tutorials on this playlist) can be downloaded as a compressed (zipped) folder by visiting the following link: https://github.com/davidcaughlin/R-Tutorial-Data-Files.git. Click ""Clone or Download"" followed by ""Download ZIP"".",2352,2405,,,
+Gxh7OUrddIk,one way ANOVA and Post Hoc Tests using R and RStudio,"Hi, this is Raj Kumar Subedi.
+In this video, we are going to perform one way ANOVA and Post-Hoc Tests using R and RStudio.
+Cheers!",341,43450,,,
+vxIvhKSU15U,lecture7 part2,,2247,11,,,
+GW4_HlMj40U,Machine Learning Major Project | Credit Risk Modelling(Loan Classification)|@PregradCampus,"#machinelearning #datascience 
+#CreditRiskModelling
+Welcome to my Machine Learning project on Credit Risk Modelling, where I explore how data-driven techniques can help financial institutions assess the likelihood of loan default and make smarter lending decisions.
+
+🔍 Project Overview: In this video, I walk you through the entire journey—from understanding the problem statement to building and evaluating predictive models. Using real-world datasets, I applied techniques like:
+
+Data pre processing and feature engineering
+
+Logistic Regression, Decision Trees, and Random Forests",369,38,,,
+ppfYco3Dhkc,Posit Cloud Essentials | Ep 3: Speed up your data workflows with Project Templates,"On the last Tuesday of every month, we host an event – Posit Cloud Essentials – where we explore the ins and outs of Posit Cloud, diving into its key features, valuable tips, and real-world use cases. The event is open to all and hosted on YouTube with a live Q&A during each month's event.
+
+THIS MONTH'S EVENT:
+All data projects are not created equal. Sometimes you need certain packages. Sometimes you need specific data files or helper scripts. And sometimes you want to define specific compute resources to match your analysis.
+
+Creating a new project in Posit Cloud provides you with a blank canvas. Project Templates enable you to add structure to your canvas, take a snapshot of the newly defined environment, and reuse that starting point for subsequent work.
+
+This episode of Posit Cloud Essentials will showcase how you can get started more quickly on Posit Cloud with Project Templates, either by using one of our predefined workflows or building your own.
+
+WHAT IS POSIT CLOUD?
+Posit Cloud makes it easy to move your entire workflow into a unified online experience with project management and publishing capabilities. Use your favorite coding languages and environments and share your work seamlessly with others, all from the comfort of your web browser. 
+
+ADD THE EVENT TO YOUR CALENDAR:
+No registration is required to join the events. Simply add the event to your calendar using the link below.
+
+Add future Posit Cloud Essential events to your calendar → http://evt.to/adahaeuow
+
+EXPLORE MORE ABOUT POSIT CLOUD:
+Create a free Posit Cloud account → https://posit.cloud/plans?utm_source=youtube&utm_medium=organic_social&utm_campaign=cloud_launch
+
+View the entire library of Posit Cloud Essential events → https://youtube.com/playlist?list=PL9HYL-VRX0oS4CXCA81eno41u8K3ckGVH&feature=shared",1754,1366,,,
+kCSu6hhMVp0,How I Built a Complete POS Software with Laravel + MySQL Using AI — 100% FREE!,"In this video, I’ll show you how I built a complete POS (Point of Sale) software using Laravel + MySQL with the help of AI — 100% FREE! 🚀
+
+No paid tools. No premium subscriptions. Just open-source technologies and AI assistance.
+
+This full-featured POS system includes:
+
+✅ Product Management
+✅ Barcode-ready system
+✅ Sales & Invoice Generation
+✅ Customer & Supplier Management
+✅ Inventory Tracking
+✅ Dashboard & Reports
+✅ Authentication & Role Management
+✅ Clean Admin Panel UI
+
+I used Laravel (PHP Framework) with MySQL database and generated most of the system using AI tools. If you're a developer, student, freelancer, or business owner, this tutorial will show you how you can build powerful software without spending money.
+
+💻 Perfect for:
+
+Beginners learning Laravel
+
+Developers building real-world projects
+
+Freelancers creating POS systems for clients
+
+Anyone who wants to use AI to speed up development
+
+Watch till the end to see the full demo and learn how you can build your own POS system step-by-step!
+
+If this video helps you, make sure to LIKE, COMMENT & SUBSCRIBE 🔥
+
+
+#Laravel #POSSystem #MySQL #WebDevelopment #AIcoding #OpenSource #PHP #Programming #InventorySystem #FullStackDeveloper #FreeSoftware #CodeWithAI #PointOfSale #TechTutorial #LaravelProject
+
+laravel pos system, pos software laravel, laravel mysql project, build pos with laravel, free pos software, ai coding project, laravel inventory system, point of sale system php, laravel full project tutorial, laravel admin panel, mysql database project, php pos system, opencode cli laravel, build software with ai, free laravel project, laravel 2026 tutorial, complete pos system, laravel sales system, inventory management system laravel, coding with ai",518,16102,,,
+QV4WI1ZIdYU,One-Way ANOVA R-tutorial 1 - Analysis of Variance,"R code: https://statdoe.com/one-way-anova-r-tutorial/ 
+
+In this series of videos, we doing a complete step-by-step analysis of a one-factor experiment using R-Studio.
+We are going to do the following steps:
+Video 1:
+- Load the data from a csv file;
+- Build a simple plot to visualise the data behaviour;
+- Perform the analysis of variance.
+Video 2:
+- Build a table with the summarised data: the mean, the standard deviation, and the number of observations;
+- Compare the means by Tukey’s test;
+- Add superscript letters to indicate significant differences.
+Video 3:
+- Step-by-step tutorial on how to add superscript letters to indicate significant differences in Tukey's test.
+Video 4: 
+- Create a publication-grade bar-plot for the final visualization of the results.
+You can find the links for the R code and the data files in the description of this video.
+
+Functions used in this video:
+str(), plot(), as.factor(), aov(), summary()
+
+www.statdoe.com",329,20415,,,
+83gtSQcrO20,Final Project D,,989,9,,,
+BAIMrhZWLe4,Publication-Quality Barplots for Two Factors with ggplot - Two-Way ANOVA with R - tutorial 3,"R code: https://statdoe.com/barplot-for-two-factors-in-r/
+
+Packages: ggplot2
+Main functions:  ggplot, geom_bar, geom_errorbar, position_dodge, theme_bw, panel.grid.major, panel.grid.minor,  element_blank, legend.position, geom_text, vjust, hjust=-0.5, show.legend,  scale_fill_brewer, scale_color_brewer.
+
+Description:
+Welcome to the series of tutorials on Two-way ANOVA with R. 
+In this series of videos, we are going to perform a complete analysis of a two-factor factorial design. 
+We are going to cover the following steps : 
+Video tutorial 1 (https://youtu.be/N6Cs2PWNwM8):
+     - build a simple plot for data visualisation; 
+     - perform the analysis of variance;
+Video tutorial 2 (https://youtu.be/pWs-mlCmOi8):
+     - create a table with the mean and standard deviation of each treatment;
+     - compare the means by Tukey’s test;
+     - use the compact letter display to indicate significant differences; 
+Video tutorial 3:
+     - build a high-quality publication-grade bar plot,
+     - letters indicating significant differences
+     - grey-scale and colour-blind friendly
+Video tutorial 4 (https://youtu.be/bBKLJ5d-d9U):
+     - build a high-quality publication-grade scatter plot. .
+www.statdoe.com",653,15812,,,
+z-ECkyluT5U,How to calculate One Way~Anova using R studio?,,199,12156,,,
+KdC-eWE2KZI,M3 Final Hackathon,GROUP MEMBER：Mingchen Zhu & Ziye Chen,399,41,,,
+ANMuuq502rE,R programming for beginners – statistic with R (t-test and linear regression) and dplyr and ggplot,"R programming for beginners -  This video is an introduction to R programming. I have another channel dedicated to R teaching: https://www.youtube.com/c/rprogramming101 In this video I provide a tutorial on some statistical analysis (specifically using the t-test and linear regression). I also demonstrate how to use dplyr and ggplot to do data manipulation and data visualisation. Its R programming for beginners really and is filled with graphics, quantitative analysis and some explanations as to how statistics work. If you’re a statistician, into data science or perhaps someone learning bio-stats and thinking about learning to use R for quantitative analysis, then you’ll find this video useful. Importantly, R is free. If you learn R programming you’ll have it for life. 
+
+This video was sponsored by the University of Edinburgh. Find out more about their programmes at http://edin.ac/2pTfis2
+
+This channel focusses on global health and public health  - so please consider subscribing if you’re someone wanting to make the world a better place – I’d love to you join this community. I have videos on epidemiology, study design, ethics and many more.",948,1474159,,,
+R2WI0HxW7Ys,Lesson 7: Introducing Hierarchical Linear Modeling,"In this view, we see how to fit models with predictors at the cluster level as the first part in the two part look at hierarchical or multilevel models",2170,69,,,
+reOZVODpLDk,ANOVA using R programming,"ANOVA or Annalysis of Varience can be easily done using R programming. If you're learning statistics or data analysis using R, the you'll need to know how to compare the means of three or more variables. ANOVA lets you do that. So, for aspiring data scientists or anyone learning statistical analysis for research, this video is for you. I also include some instructoin as to how to use the TukeyHSE function to establish which variables are driving a difference identified. Remember, your null hypothesis is that all the means are the same. If the p value is less than the Alpha, then you can reject the null hyopthesis and accept the alternative that at least one of them is different. TukeyHSE allows you to identify the variable that is driving that difference. ANOVA is an important component of statistical modeling for anyone interesting in quantitative analysis using R programming.",936,52783,,,
+3bvM3NyMiE0,Logistic Regression (and why it's different from Linear Regression),"Gentle Introduction to Logistic Regression. We explore this powerful yet simple machine learning model for binary classification tasks like predicting whether a student will pass or fail an exam!
+We’ll explain the difference between logistic and linear regression, dive into the intuition behind the sigmoid function, and uncover why cross-entropy loss makes sense for probability-based models.
+No complex math needed—just clear explanations, intuitive visuals, and a practical demo in Python with scikit-learn.
+
+
+
+---------------
+
+00:00 Introduction
+00:30 Working example
+1:06 Review of Linear Regression
+2:33 Logistic Regression
+3:30 Cross-entropy loss function
+7:10 Code
+
+
+This video would not have been possible without the help of Gökçe Dayanıklı.",490,100000,,,
+-fzwm4ZhVQQ,Posit Cloud Essentials | Ep 1: Getting Started,"On the last Tuesday of every month, we host an event – Posit Cloud Essentials – where we explore the ins and outs of Posit Cloud, diving into its key features, valuable tips, and real-world use cases. The event is open to all and hosted on YouTube with a live Q&A during each month’s event.
+
+This month, Alex Chisholm, Product Manager for Posit Cloud, walks through how to get started with a free Posit Cloud account. Enabling you to conduct analysis, generate insights, and share findings from your web browser.
+
+What is Posit Cloud? Posit Cloud makes it easy to move your entire workflow into a unified online experience, complete with project management and publishing capabilities. Use your favorite coding languages and environments and share your work seamlessly with others, all from the comfort of your own web browser. 
+
+No registration is required to join the events. Simply add the event to your calendar using the link below.
+
+Create a free Posit Cloud account → https://posit.cloud/
+
+Explore the source code used in this demo → https://posit.cloud/spaces/394911/join?access_code=v-iZm0epL-n-vNHpht4JAfH47gmqWdg0cM6hyll7
+
+Add future Posit Cloud Essential events to your calendar → http://evt.to/adahaeuow
+
+Q&A from this demo can be found here → https://app.sli.do/event/q2aLBPfVRAvUCFryNs9YuL",1689,13013,,,
+Pc1RVwEIT5k,Boxplot with Letters Indicating Significant Differences,"One-Way ANOVA, Tukey’s test, Box Plot with ggplot
+R code: https://statdoe.com/one-way-anova-and-box-plot-in-r/
+Courses: https://statdoe.com/courses/
+
+0:00 Introduction
+0:46 Description of the data set
+1:01 Loading the libraries and the data set
+1:55 Analysis of Variance - ANOVA
+2:30 Tukey's test
+3:10 Letters do indicate significant differences (cdl)
+3:50 Table with mean, third quantile and cdl
+5:05 Basic Boxplot
+6:18 Customising axis titles, theme and gridlines
+7:08 Adding the letters to the boxplot
+8:20 Adding colours to the plot
+8:45 Colouring the boxes according to the median value
+
+Packages: ggplot2, multcompView, dplyr
+Main functions: aov, TukeyHSD, multcompLetters4, summarise, ggplot, geom_boxplot, geom_text, scale_fill_brewer, theme_bw, show.legend, labs .
+www.statdoe.com",614,49795,,,
+8JpEXklCQoA,Histogram using R Studio(how to create histogram using r studio)(RStudio),"https://www.youtube.com/channel/UCiTOUGVoZDvMTyxAZnd9tsw
+Histogram using R Studio(how to create histogram using r studio)(RStudio)#histogramusingrstudio#rstudio#histogram
+#researchmethodologyadvancedtools",463,16312,,,
+VvlqA-iO2HA,Regression Output Explained,"All videos here: http://www.zstatistics.com/
+
+See the whole regression series here: 
+https://www.youtube.com/playlist?list=PLTNMv857s9WUI1Nz4SssXDKAELESXz-bi
+
+It's a long one, but feel free to use the hyperlinks below to skip to the bit of particular interest.
+
+Intro 0:00
+Dataset described 1:07
+Quick Recap (feel free to skip) 2:43
+
+ANOVA SECTION 10:05
+SS - sum of squares 11:08
+R-squared 12:29
+df - degrees of freedom 13:43
+MS - mean square 14:20
+F-test 14:36
+p-value 16:04
+SER or Root MSE 16:32
+
+VARIABLES SECTION 19:19
+Coefficients 20:51
+Standard error 24:33
+t-statistic 25:16
+p-value 26:14
+95% Confidence interval 32:00",1999,716164,,,
+sA4lPpKyNyE,Two-way ANOVA in GraphPad Prism,"A tutorial describing how to do a two-way ANOVA in GraphPad prism
+
+All footage is the property of James Clark
+©2019 Dory Video/James Clark
+
+www.doryvideo.co.uk",787,220934,,,
+MIH5Ng2AkBc,Multiple regression in R tutorial (Jan 2020),"In this video, I provide a short walk-through of commands for performing multiple regression in R. Included are demos of the use of the 'jtools' and 'lm.beta' packages, and also how to perform multiple regression that includes a factor variable. You can obtain a copy of the data here (https://drive.google.com/open?id=1_cRuM2-4dNhNxVPzgj8ddlpcrV-TAUZ2) and a copy of the text file from the video here (https://drive.google.com/open?id=1vVwy1yaVLICyMni7Tx2Dbh2yetU14tas).
+
+If you find the video and materials helpful please “like” the video and share with others.
+
+Also, you can find links to other videos and resources on multiple regression (and other statistical procedures) by going to the following link: 
+
+https://sites.google.com/view/statistics-for-the-real-world/contents/multiple-regression",759,2901,,,
+qwbHiy19ZrY,Analyser les données avec R,"Cette vidéo nous explique comment analyser les données avec le langage R en effectuant les taches ci-dessous : 
+• Définir notre répertoire de travail
+• Importation des données
+• Inspection des données
+• Visualisation des données avec des graphiques",885,13656,,,
+LCOSJqlRAXk,Improving the cohesion and interpretability of an 8 panel figure from Nature (CC403),"Pat critiques a set of 8 panels from a figure published in the scientific journal Nature describing the relationship between carbon dioxide and nitrogen in trees sampled over 70 years across Sweden. The goal is to make the panels more cohesive and easier to understand. Pat discusses the context of the article including its audience, venue, and biological question before moving on to discussing how the panels within the figure are composed. Finally, he discusses the limitation of the authors' approach and some alternatives that might have aligned better with the text and been easier for the audience to interpret. By Describing, Analyzing, Interpreting, and then Judging the visual he contends that we can give a more constructive data visualization that will help the recipient and the person giving the critique get the most out of the experience. You can freely access the article Pat discusses at https://www.nature.com/articles/s41586-025-10039-5.
+
+Want more practice on the concepts covered in Code Club? You can sign up for my weekly newsletter at https://shop.riffomonas.org/youtube to get practice problems, tips, and insights. If you're interested in purchasing a video workshop be sure to check out https://riffomonas.org/workshops/
+
+Support Riffomonas by becoming a Patreon member!
+https://www.patreon.com/riffomonas
+
+You can also find complete tutorials for learning R with the tidyverse using...
+Microbial ecology data: https://www.riffomonas.org/minimalR/
+General data: https://www.riffomonas.org/generalR/
+
+If you want to cite this video, please consider citing https://journals.asm.org/doi/10.1128/mra.01310-22
+
+0:00 Introduction
+0:58 Description
+4:43 Analysis
+12:29 Interpretation
+15:15 Judgement",1518,519,,,
+1iRC_MbzOGQ,Multiple linear regression using R studio (Aug 2022),"This video provides a general overview of linear regression using R Studio, covering a variety of functions that you might use to obtain output of interest. I cover some basic functions for screening data and examining correlations among variables, the lm() function for performing the linear regression, and various functions for different diagnostics one might be interested in obtaining. The video is not designed to be an exhaustive or comprehensive overview of regression and all aspects of decision-making with regression.
+
+A copy of the data (referenced in the video) can be downloaded here: 
+https://drive.google.com/file/d/1d3P2vxI7X1aSpB5uhQyHSD2dJZjvg6M_/
+
+You can also download a supplemental Powerpoint here:
+https://drive.google.com/file/d/1P_jhZsfECVs-dXIDXbU-ASgBIMJfWjmP/",2029,35560,,,
+268gE1RsfTk,🔊 Convert YouTube Videos to Audio Using Python! 🎶 | Easy & Fast Method 🚀,"🔊 Convert YouTube Videos to Audio Using Python! 🎶 | Easy & Fast Method 🚀
+🔔 Don't forget to subscribe for more Python tutorials and tech tips! 🔔
+
+Welcome to our channel! In this video, we're going to show you how to convert YouTube videos to audio files using Python. 🎉 Whether you're a music lover or need audio files for your projects, this tutorial will guide you through the process step-by-step, making it super easy and fast! 🚀
+
+👨‍💻 What You'll Learn:
+
+    Setting up your Python environment 🛠️
+    Installing the necessary libraries 📦
+    Writing the Python script to convert videos to audio 📝
+    Saving the audio files in different formats 🎵
+
+👀 Watch till the end for some advanced tips and tricks!
+
+🕒 Timestamps:
+0:00 - Introduction
+1:20 - Setting up Python environment
+2:50 - Installing necessary libraries
+4:10 - Writing the conversion script
+7:35 - Choosing audio formats
+9:00 - Running the script
+11:15 - Advanced tips and troubleshooting
+💬 Let us know in the comments if you have any questions or need further assistance!
+
+👍 If you found this video helpful, please give it a thumbs up, share it with your friends, and subscribe for more awesome content!
+
+#Python #YouTubeToAudio #CodingTutorial #PythonProgramming #TechTips #Programming #SoftwareDevelopment #YouTubeVideos #AudioConversion
+    🎵 Extract Audio from YouTube Videos with Python! 🐍 | Top Tutorial!
+    🎧 Python Trick: Convert YouTube Videos to Audio Effortlessly! 🔥
+    🎶 How to Convert YouTube Videos to MP3 Using Python! 🚀
+    📻 YouTube Video to Audio Converter: Python Script Revealed! 💡
+    🎤 Ultimate Guide: Convert YouTube Videos to Audio Files with Python!
+    🎼 Python Project: Extract Audio from YouTube Videos Like a Pro! 🛠️
+    🎧 Quick & Easy: Convert YouTube Videos to Audio Using Python!
+    📢 Python Hack: Turn YouTube Videos into MP3s in Minutes! 🐍
+    🔊 Must-Have Tool: Convert YouTube Videos to Audio with Python!
+    🎵 Python Audio Conversion: Extract Sound from YouTube Videos!
+
+Please do like share and comment if you like the video please do hit like and if you have any query please write it comment box 
+NestJs Tutorial https://www.youtube.com/watch?v=9F6Cv_JHmrE&list=PLsvvBhdpMqBxYq1kxZoGhIEISCmXN0Pe2
+
+You can support me by buying a coffee for me
+
+https://ko-fi.com/N4N0JZBBN
+
+
+Please do subcribe my other video tutorials
+React Native Tutorial : https://www.youtube.com/watch?v=9aN93sM6OJQ&list=PLsvvBhdpMqBx0f2T7The14FV2sthRo_L5
+ReactJS Tutorial : https://www.youtube.com/watch?v=5kBISm01zHg&list=PLsvvBhdpMqBzPZ75UzwbIQrPYk6NmFWiW
+Linux Tutorials : https://www.youtube.com/watch?v=cJ4RmxbS1VM&list=PLsvvBhdpMqBz3yff6mYLc9BlhI0YVP7ZS
+Jquery Tutorial : https://www.youtube.com/watch?v=wvPzvVn13xU&list=PLsvvBhdpMqBz3lROu38xphPSGXEl27U1d
+Html & Css Tutorial : https://www.youtube.com/watch?v=yHV-I96ESBE&list=PLsvvBhdpMqBw5pNIDYgsIyr9giWVWwA2M
+Wordpress Tutorial : https://www.youtube.com/watch?v=oBsaz2cYx6c&list=PLsvvBhdpMqByMSHXyehbldHx0o3EtvGuh
+Javascript Tutorial : https://www.youtube.com/watch?v=Zbyd31hq3g8&list=PLsvvBhdpMqBySsqQsvMkOd9SpKQ_R2HDo
+Magento 2 Tutorials :  https://www.youtube.com/watch?v=84dNyRoQthQ&list=PLsvvBhdpMqBz_3k14bYpYEIPFI4MQporp
+Github Tutorials : https://www.youtube.com/watch?v=N9Dfs4gUMjc&list=PLsvvBhdpMqByiaj7F289-nO26iBYc9ot9
+October CMS Tutorial : https://www.youtube.com/watch?v=jFD2VUAxu2o&list=PLsvvBhdpMqBz027a08LovCuCAnU6T7VZx
+Bash Scripting Tutorial : https://www.youtube.com/watch?v=yFV2QK-x6vY&list=PLsvvBhdpMqBx_jsVKKzZ9-ZZUwae9t4x9
+Jenkins Beginner Tutorial : https://www.youtube.com/watch?v=GHQ8C_2OZps&list=PLsvvBhdpMqBzdLDMiMkFP5BaPqlXVuk45
+Apollo Client React Js : https://www.youtube.com/watch?v=vGZGIfDlcvE&list=PLsvvBhdpMqBwJ5OjdxNCY_sw3PcHAXQlm
+Wordpress Tutorial In Hindi : https://www.youtube.com/watch?v=Wt5vePyARA0&list=PLsvvBhdpMqBxmFcIrpJo0pZNJ7mmpKYZt
+MongoDb Tutorial : https://www.youtube.com/watch?v=Mab0Hrx-mVA&list=PLsvvBhdpMqBxTopKc6hsh7BvPDLu_Emlr
+Bootstrap 5 Tutorial in Hindi : https://www.youtube.com/watch?v=k7xGbXkVHy4&list=PLsvvBhdpMqBy_aSBZdtSJVcqSMsUAR4H1
+Xero Tutorial For Beginners : https://www.youtube.com/watch?v=MOQ1hpd8CtI&list=PLsvvBhdpMqBxr3PDAnUzHJLlHvjtLWaQt
+React Material UI  = https://www.youtube.com/watch?v=CWtjF2Rx8I8&list=PLsvvBhdpMqBydNg7wU4A__7Qp65TyyhjA
+Thanks for watching
+Vue Js Tutorial : https://www.youtube.com/watch?v=k4O9TaUi4-U&list=PLsvvBhdpMqBy5pnwspDeDJo9JEzF3PKTh
+Angular 14 Tutorial : https://www.youtube.com/watch?v=P3llhzCYgHE&list=PLsvvBhdpMqBwCbR5M-r6uNcgQu2BxuuQ8
+MongoDb Tutorial : https://www.youtube.com/watch?v=Mab0Hrx-mVA&list=PLsvvBhdpMqBxTopKc6hsh7BvPDLu_Emlr
+Mysql Tutorial For Beginners : https://www.youtube.com/watch?v=8IUu3iv3EEA&list=PLsvvBhdpMqBwleiAGlJIoMDEpJsZJjJSI
+AWS Tutorials: https://www.youtube.com/watch?v=1a8WBUiz5gk&list=PLsvvBhdpMqBwGEnT2km4xNIL6wXJoVrLK
+Php Tutorial for Beginners : https://www.youtube.com/watch?v=fCCtMVrHH_c&list=PLsvvBhdpMqBx0CHzCANLull6KkTlLh3Ac
+Nest
+
+Have a Great Day !!!",161,2357,,,
+kGxbtQuQYDM,Data Analysis in R | Data Visualization in R | Machine Learning Model in R | Machine Mantra,"Data Analysis in R, Data Visualization in r using real-life dataset. Learn how to do data analysis in r, summary statistics in r, and understand the data set.
+Learn how to get started with R, how to work with R in Jupyter notebook, heart disease dataset exploration with R, data visualization, and explanation.
+The second part deals with the machine learning model in r.
+Machine Learning Project in R. Classification Machine Learning Problem to predict whether one has heart disease or not. 
+
+Part 2:
+https://youtu.be/QwA3QY4CGCA
+---------------------------------------------------------------------------------------------------------------------------------
+Website:
+👍For R installation
+https://www.r-project.org/
+.....................................................................................................................................
+Git Hub
+https://github.com/Prianca25/Machine-Learning/blob/master/Heart%20Disease%20Analysis%20with%20R.ipynb
+..........................................................................................................................................
+📚For Dataset
+https://www.kaggle.com/priyanka841/heart-disease-prediction-uci
+📚📚For Theory
+https://machinemantra.in/understanding-r-for-data-science/
+📷📼What is Tidy Verse
+https://youtu.be/t8UCIExNE8M
+--------------------------------------------------------------------------------------------------------------------------------
+Courses designed for better learning
+Links for Courses: 
+✔R course 
+https://www.udemy.com/course/r-programming-for-absolute-beginners-s/
+✔Power BI Master Class Link:
+https://machinemantra.in/courses/power-bi-master-class-for-data-science/
+✔Python Course Link
+https://www.udemy.com/course/data-analysis-visualization-with-python/
+------------------------------------------------------------------------------------------------------------------------------------------
+Kaggle Account:  Do follow and comment it helps✌
+https://www.kaggle.com/priyanka841
+------------------------------------------------------------------------------------------------------------------------------------------
+💁‍♀️💁‍♀️Website:
+https://machinemantra.in/
+📣🎙🎤Podcast (download and listen while you work, learning made easy with the release of Podcast)
+https://anchor.fm/priyanka-sharma12
+
+😊😊I invite you to join me on 
+Quora
+https://www.quora.com/q/gnlqevqgyulcqgxe
+Instagram
+https://www.instagram.com/machinemantra/?hl=en
+
+#datascience #machinemantra #rprogramming",2734,24673,,,
+JG-j78vZkkc,DATA SCIENCE / ANALYTICS PROJECT SHOWCASE | LINEAR REGRESSION MODEL| SALES PREDICTIBILITY |PREGRAD,"Hello everyone , This is my major project of DATA SCIENCE / ANALYTICS in which i have performed data analysis and applied Linear regression to analyze the impact of advertising budgets on sales using the famous Advertising dataset (TV, Radio, and Newspaper ) .
+i did data cleaning and preprocessing , correlation analysis , Data visualization using Matplotlib , model evaluation using r2 score and error metrices. compared the effectiveness on TV , Radio , and newspaper advertising .  This project helped me strengthen my understanding of data analysis , regression modelling , and business analytics using Python.",658,12,,,
+WBA04fjTVU0,CDI Data Viz Webinar: How to create and style charts with ggplot2 w/ Cédric Scherer,"Recording of the September 16, 2021 USGS CDI Data Visualization Collaboration Area Webinar featuring Cédric Scherer. Topics and timestamps below. *In-video polls are no longer open.
+
+Welcome 0:00:00
+Polling with Sli.do 0:04:00
+Cédric Scherer discusses how to create and style charts with ggplot2 0:16:44
+CDI DataViz Collaboration Area announcements and closing remarks 1:52:35",6906,9065,,,
+2dl0JwqMfa0,Logistics Regression -ML,,2401,116,,,
+lIHebs8ODcg,Test Multiple Linear Regression Assumptions in R Rstudio Check Diagnostic | Tutorial Data Science,"Are Linear Model assumptions met? How to test and check Multiple Linear Regression analysis?
+We'll discuss and answer various questions:
+
+- Preparing data for fitting a model
+- Split data intro train and test data
+- Build the model with functions
+- Check models performance with Caret Package
+- What is linearity? Normality? Equality of variance? Homoscedasticity?
+- Identify outliers, high influence values, cook distance? 
+- Residuals and their relationship with fitted or predicted values?
+- What is coefficient of determination? mean squared error? R2
+- overfitting and leverage
+
+Any comment or suggestion is welcome
+Contact: inforvstats@gmail.com
+Twitter : https://twitter.com/raulvaleriom
+
+Standardized coefficients & Multiple Linear Regression in R Rstudio Influence Tutorial Data Science:  https://youtu.be/rVFLoVcZ9jA
+
+Detect and eliminate Multicollinearity in Multiple Linear Regression in R
+https://youtu.be/vGWTqhqLVfc
+
+Full Tutorial Box Cox Transformation in R | Apply Logarithm in Linear Regression | Machine Learning: https://youtu.be/ymAEhKAOfiw
+
+Cleaning and importing excel file in R: https://youtu.be/rW9gPsOU4g0
+- Reading excel files with R code as well as other options.
+- Removing and dropping columns and observations in the Dataframe
+- Renaming columns and observations with colnames and rownames
+
+Read and import xlsx excel file in R: https://youtu.be/SWCnnuxWCHM
+
+## Statistics and data science Course  in R
+https://www.youtube.com/playlist?list=PLgedSm0esItUtAwceJ0jC40GwxvTQRCRK
+
+How to detect White Noise in time series with R | Test Simulate Plot Data Tutorial Data Analyisis:  https://youtu.be/hvZYm7_jsYA
+- How to determine if my data is white noise
+- How to simulate white noise in R / Rstudio
+
+ggplot2 in R: Data visualization for categorical var with geom_bar and geom_col  barplot barchart| Tutorial Rstudio: https://youtu.be/mcozhtneD3Y
+
+RADAR or BARPLOT which one to use? Spider web | Intro Data Visualization Tutorial Rstudio R Science
+
+## Tutorial course in Python
+https://www.youtube.com/playlist?list=PLgedSm0esItVLLtlAIGlhGYRDcJvT_NLL
+
+## More Python videos and machine learning
+https://www.youtube.com/playlist?list=PLgedSm0esItUGSL3F6RyO_s7U7mZO5gwl
+
+Random Walk and Time Series Tutorial in R: ACF Dickey Fuller Test Ljung Box stationarity correlation: 
+
+#Learn #Rstudio #R #Regression #Linear python from zero #beginner #Learning
+## Statistical analysis ## Factor, vector, list, jupyter, notebook
+## input and output # data mining #Machine learning and supervised learning
+#Diagnostic #Assumptions #Normality #Homokedasticity #Variance",1259,2471,,,
+fVR1LGdHQrc,How To Import Data Into R | R Programming Basics | R Programming For Beginners | Simplilearn,"""️🔥IBM - Data Analyst - https://www.simplilearn.com/data-analyst-certification-course?utm_campaign=fVR1LGdHQrc&utm_medium=DescriptionFFF&utm_source=Youtube
+️🔥IITG - Professional Certificate Program in Data Analytics & Generative AI - https://www.simplilearn.com/iitg-generative-ai-data-analytics-program?utm_campaign=fVR1LGdHQrc&utm_medium=DescriptionFFF&utm_source=Youtube
+️️🔥 Data Scientist Masters Program - https://www.simplilearn.com/ihfc-iitd-data-analytics-genai-course?utm_campaign=fVR1LGdHQrc&utm_medium=DescriptionFFF&utm_source=Youtube
+️🔥PL-300 Microsoft Power BI Certification Training with Exam - https://www.simplilearn.com/power-bi-certification-training-course?utm_campaign=fVR1LGdHQrc&utm_medium=DescriptionFFF&utm_source=Youtube
+️🔥Tableau Desktop Specialist Certification Training - https://www.simplilearn.com/tableau-training-and-data-visualization-course?utm_campaign=fVR1LGdHQrc&utm_medium=DescriptionFFF&utm_source=Youtube""
+
+This video on how to import data into R will help you understand how to load and read data from different file types. You will learn the R programming basics along with different packages and functions required to import data present in text, csv, excel and sas files. You will also look at how to write data from R to an excel file. So, let's begin and understand how to import data into R!  
+
+The topics covered in this R programming for beginners video are:
+Introduction   00:00:00
+Installing Packages    00:00:37
+Importing Text File into R   00:02:00
+Reading a csv File   00:07:24
+Check the structures of the csv dataset   00:10:06
+Check the column names   00:10:43
+Reading data from excel files   00:11:09
+Display all the sheet names   00:12:07
+Read data from the sheets    00:13:10
+Writing to excel files   00:16:26
+Reading a sas file   00:19:53
+
+✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH
+
+⏩ Check out the R Programming tutorial videos: https://www.youtube.com/watch?v=7NLPPFU0O3w&list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG
+
+#HowToImportDataIntoR #RProgrammingTutorial #RProgrammingBasics #RProgrammingForBeginners #ImportingDataIntroR #HowToImportDataFromExcelIntroR #RProgramming #Simplilearn
+
+➡️ About Data Science Course in collaboration with IBM
+
+This Data Science course in collaboration with IBM propels your career to become a data scientist. Gain expertise in in-demand skills like Python, SQL, Excel, Machine Learning, Tableau, generative AI, and more. Dive deep into data interpretation nuances, master Machine Learning, and enhance programming skills to elevate your Data Science career.
+
+Key Features
+✅ Simplilearn's JobAssist helps you get noticed by top hiring companies
+✅ Masterclasses from IBM experts
+✅ Dedicated live sessions by faculty of industry experts
+✅ Industry-recognized Data Scientist Master’s certificate from Simplilearn
+✅ Industry-recognized IBM certifications for IBM courses
+✅ Ask-Me-Anything (AMA) sessions with IBM leadership
+✅ Capstone from 3 domains and 25+ projects
+✅ Exclusive hackathons conducted by IBM
+✅ Lifetime access to self-paced learning content
+✅ Program crafted to initiate your journey as a Data Scientist
+✅ Integrated labs for hands-on learning experience
+
+Skills Covered
+✅ Generative AI
+✅ Prompt Engineering
+✅ ChatGPT
+✅ Exploratory Data Analysis
+✅ Descriptive Statistics
+✅ Inferential Statistics
+✅ Explainable AI
+✅ Conversational AI
+✅ Large Language Models
+✅ Model Building and Finetuning
+✅ Ensemble Learning
+✅ Data Visualization
+✅ Database Management
+
+👉 Learn More At: https://www.simplilearn.com/iitk-professional-certificate-course-data-analytics?utm_campaign=ImportDataInR&utm_medium=Description&utm_source=youtube
+
+🔥🔥",1447,16112,,,
+QV4WI1ZIdYU,One-Way ANOVA R-tutorial 1 - Analysis of Variance,"R code: https://statdoe.com/one-way-anova-r-tutorial/ 
+
+In this series of videos, we doing a complete step-by-step analysis of a one-factor experiment using R-Studio.
+We are going to do the following steps:
+Video 1:
+- Load the data from a csv file;
+- Build a simple plot to visualise the data behaviour;
+- Perform the analysis of variance.
+Video 2:
+- Build a table with the summarised data: the mean, the standard deviation, and the number of observations;
+- Compare the means by Tukey’s test;
+- Add superscript letters to indicate significant differences.
+Video 3:
+- Step-by-step tutorial on how to add superscript letters to indicate significant differences in Tukey's test.
+Video 4: 
+- Create a publication-grade bar-plot for the final visualization of the results.
+You can find the links for the R code and the data files in the description of this video.
+
+Functions used in this video:
+str(), plot(), as.factor(), aov(), summary()
+
+www.statdoe.com",329,20415,,,
+sYu8Y5tOO4s,Cost Function - Intro to Data Science,"This video is part of an online course, Intro to Data Science. Check out the course here: https://www.udacity.com/course/ud359. This course was designed as part of a program to help you and others become a Data Analyst. 
+ You can check out the full details of the program here: https://www.udacity.com/course/nd002.",133,20326,,,
+IZTYrNKBxTk,Chi-Square :Relationship between Two Nominal or Categorical Data,,2650,5737,,,
+xc_X9GFVuVU,Leverage and Influential Points in Simple Linear Regression,"A brief introduction to leverage and influence in simple linear regression.    This video is about the basic concepts, and only briefly mentions numerical measures of leverage and influence near the end of the video.",434,134143,,,
+mjPXHdlQQTg,How to analyzed RCBD two factor Agriculture research data by using RStudio,"RStudio is one of the best software for data analysis and data visualization software. 
+
+I hope it will be helpful for university MS, Ph.D. students and also help all kinds of researchers.
+
+Subscribe for more video: https://www.youtube.com/channel/UCf7hyryXQr43fe7b-LOjHTA
+Facebook: https://www.facebook.com/jahangircdb
+Gmail: https://mail.google.com/mail/u/0/?tab=rm#inbox
+
+Thanks for watching
+Don't forget to subscribe",1132,12138,,,
+2QaMgU2ShyU,Multiple Linear Regression in Excel,"In this video, we walk through how to build and run a multiple linear regression model in Microsoft Excel. The data used in this video can be downloaded using this link:
+
+https://docs.google.com/spreadsheets/d/169-U3FKufgyVtDGfL_oT5MKIx0S_SmwH/edit?usp=sharing&ouid=114251610171354612390&rtpof=true&sd=true",774,28434,,,
+2BmHhKcRj54,How To Create And Print Avery Address Labels In Microsoft Word [2026 Guide],"How To Create And Print Avery Address Labels In Microsoft Word [2026 Guide]
+
+In today's video we cover Create,Print,Avery,Address,Labels,Microsoft,Word,WordDocument,WordTips,WordTutorial,MSWord,OfficeTips,DocumentDesign,WordFormatting,WordGuide,Word2026,WordFeatures,MicrosoftOffice,WordLayout,WordTricks,WordHelp,WordBasics,WordEditing,WordDesign,WordStyling,WordFormattingTips,WordPageSetup,WordDecor,WordCustomLabels,WordInstructions,WordDocumentTips,WordMailMerge,WordLabelPrinting",138,120,,,
+KsVBBJRb9TE,Introduction to Simple Linear Regression,"An introduction to simple linear regression.
+
+The pain-empathy data is estimated from a figure given in:
+
+ Singer et al. (2004). Empathy for pain involves the affective but not sensory components of pain. Science, 303:1157--1162.
+
+The Janka hardness-density data is found in:
+
+Hand, D.J.,  Daly, F. , Lunn, A.D., McConway, K.,  and Ostrowski, E., editors (1994).  The Handbook of Small Data Sets.  Chapman \& Hall, London.  
+
+Original source:  Williams, E.J. (1959).  Regression Analysis. John Wiley \& Sons, New York.  Page 43, Table 3.7.",489,497353,,,
+FDIR60avpaY,Simple Linear Regression.,This is the fist in a series of videos that focus on Multiple Regression. Our starting point is to understand simple regression before building upon that understanding. Regression analysis considers the relationship between an explanatory variable and an outcome variable and allows us to understand how much of the outcome variable can be explained by the explanatory (or independent) variables. Linear models also allow us to predict a value of the outcome variable given a value or series of values for the explanatory variable. This is a video for people wanting to learn R programming.,998,17003,,,
+HWwLZP14DG4,21. 4 ways to solve systems of nonlinear equations in python,"Non-linear equations are much nastier to solve than linear equations. Fortunately, we have lots of options in python. This video shows 4 approaches: graphical using matplotlib, numerically using scipy's fsolve optimizer, numerically using the gekko optimizer, and symbolically using sympy. 
+
+00:00 graphical solution w/ matplotlib
+4:00 scipy fsolve
+7:55 gekko solver
+8:55 sympy symbolic solver",697,23543,,,
+l0qyRTo664k,# 10. Write a Program to create an any application of Linear Regression,"# 10. Write a Program to create an any application of Linear Regression
+# in multivariate context for predictive puprpose",254,18,,,
+_o3-nvgJi5Y,Data Wrangling in Pandas - Part 13,,772,19,,,
+ESScPaAhcwc,Day 12 | Linear Regression on Autos Dataset | End-to-End Car Price Prediction in Python,"In this video, we implement Linear Regression on the Autos Dataset to build a complete Car Price Prediction Machine Learning Project in Python.
+
+You will learn:
+
+✔️ Data preprocessing and handling missing values
+✔️ Encoding categorical features
+✔️ Feature selection and correlation analysis
+✔️ Splitting dataset into training and testing sets
+✔️ Training Linear Regression model
+✔️ Model evaluation using MSE, MAE, RMSE, and R² Score
+✔️ Predicting car prices with new input data
+
+This tutorial is perfect for beginners and intermediate learners who want to understand how to implement a real-world Machine Learning project using Linear Regression.
+
+Tools & Libraries Used:
+Python
+Pandas
+NumPy
+Matplotlib / Seaborn
+Scikit-learn
+
+📌 Ideal for:
+Machine Learning Beginners
+Data Science Students
+Engineering Students
+Final Year Projects
+
+If you are preparing for ML interviews or building your portfolio, this project will help you understand the complete implementation workflow.
+
+Git-hub link for dataset : https://github.com/DataLearnm/Datasets.git",2827,104,,,
+ux9uxKM171E,Watch me Do a Data Analyst Project in minutes with Python,"Join my Academy, learn Data & AI skills and land a job👇
+https://go.analyticsautomation.academy/3QllzA
+
+This video teaches a full Python data analysis project using real data.
+
+In this video, I walk through a complete Python data analytics project using real data, tackling common issues like data cleaning and stock-out analysis to uncover lost revenue and actionable business insights.
+
+All resources used in the video can be found here: https://drive.google.com/drive/folders/1W569j3au1iYVtWm5WeWer2gBGU2Xwzui?usp=sharing
+
+💬 CONNECT WITH ME
+- Connect on Linkedin 👉  https://www.linkedin.com/in/lorenzo--rosa/
+- DM me on Instagram 👉 https://www.instagram.com/loresowhat/
+
+📩 Get in touch:
+loresowhat@gmail.com
+
+🔎 CONTENT
+0:00 Introduction and Project Overview
+2:11 Setting up Python Environment in Google Colab
+3:39 Loading and Inspecting the Dataset
+4:15 Data Cleaning: Handling Price Column
+8:26 Project Objective: Analyzing Supply Chain
+9:22 Extracting Brand Information from Description
+13:34 Mapping Brand Names and Filtering Data
+17:12 Analyzing Stock and Out of Stock Sizes
+18:04 Defining Function to Calculate Phantom Revenue
+20:03 Applying Stock Out Function to Dataset
+21:04 Calculating Lost Revenue from Out of Stock Items
+23:12 Summarizing Insights and Next Steps
+23:42 Aggregating Data and Grouping by Brand
+25:20 Creating Visualization for Brand Strategy Analysis
+29:10 Interpreting the Brand Strategy Scatter Plot
+32:05 Final Recommendations and Conclusion
+
+#PythonDataAnalytics #DataAnalyticsProject #DataSciencePortfolio",2026,55830,,,
+56iRFwe2LDg,Complete Meta Analysis with R studio,Full tutorial on conducting meta analysis(forest plot) with R studio,1988,20584,,,
+YTWM4aOqVwM,Probability: The Basics EXPLAINED with Examples,"Learn the basics of Probability!  If you are struggling with understanding probability, this video is for you!  In this video, we explain what probability is and the 3 rules that all of probability follows.  Then we walk through an easy to understand example to solidify the concept.   This video serves as a perfect introduction to probability to help you conquer your Statistics class!
+
+
+For more help, visit: https://theacetutors.com
+For more videos/content, visit: https://theacetutors.com/blog
+Sign up for tutoring: https://theacetutors.com/register",240,354532,,,
+1iRC_MbzOGQ,Multiple linear regression using R studio (Aug 2022),"This video provides a general overview of linear regression using R Studio, covering a variety of functions that you might use to obtain output of interest. I cover some basic functions for screening data and examining correlations among variables, the lm() function for performing the linear regression, and various functions for different diagnostics one might be interested in obtaining. The video is not designed to be an exhaustive or comprehensive overview of regression and all aspects of decision-making with regression.
+
+A copy of the data (referenced in the video) can be downloaded here: 
+https://drive.google.com/file/d/1d3P2vxI7X1aSpB5uhQyHSD2dJZjvg6M_/
+
+You can also download a supplemental Powerpoint here:
+https://drive.google.com/file/d/1P_jhZsfECVs-dXIDXbU-ASgBIMJfWjmP/",2029,35560,,,
+7rzzB4TzYQI,Video 6: Introduction markdown formatting- text color and font,How to change text color and font in markdown cell in Jupyter. Here is a link to the Jupyter file with all the formatting in this playlist: https://drive.google.com/file/d/1XGQ6TIHKwGWAanWC7f4AAfW0LuR3jx-G/view?usp=sharing,544,19621,,,
+9ivbY48mUvs,Janitor in R | Data Cleaning | Tabulation and Reporting in R| Format Column Names| Get Duplicates,"Janitor package in R is used for examining and cleaning dirty data. Its main functions are:
+- it can format ugly data frame column names;
+- isolate duplicate records; and
+- provide quick tabulations (i.e., frequency tables and crosstabs, percentages).
+-format these tabulation results
+
+Source: https://github.com/sfirke/janitor
+
+Function covered in this video: 
+clean_names()
+tabyl()
+adorn_pct_formatting()
+adorn_totals()
+adorn_percentages()
+adorn_ns()
+remove_empty()
+compare_df_cols()
+get dupes()
+excel_numeric_to_date()",984,5583,,,
+PQrkEa5aK3I,Make Sketchnotes with Gemini in 60 Seconds for Free!,"🔥Prompt to make Great INFOGRAPHICS with Gemini: https://youtu.be/3IDl1Gxonxo
+
+Google Gemini just made creating sketchnotes ridiculously easy!
+
+In this short tutorial, I show you how to use Google Gemini to turn any topic, video or PDF into impressive sketchnotes that will help you learn anything! Whether you are a teacher, learning designer or content creator, this guide is a must-see. 
+
+You’ll learn:
+1) How to set up Gemini 
+2) The prompt to get a clear, audience-specific explanation 
+3) The follow-up prompt that converts the text into a sketchnote
+
+Prompts are in the pinned comment. Credits to @HeyAbhishek for sharing his second prompt on X👇
+
+Chapters
+
+00:00 - 01:19 Text to Sketchnotes
+01:20 Video to Sketchnotes",130,326517,,,
+YllG5Cy6OFw,Analysis of Variance (ANOVA) and F statistics .... MADE EASY!!!,"Learn the intuition behind ANOVA and calculating F statistics!
+
+Buy my full-length statistics, data science, and SQL courses here:
+https://linktr.ee/briangreco",631,112984,,,
+7CpN6lv8J2Q,M3 Final Hackathon Video,,286,14,,,
+sYu8Y5tOO4s,Cost Function - Intro to Data Science,"This video is part of an online course, Intro to Data Science. Check out the course here: https://www.udacity.com/course/ud359. This course was designed as part of a program to help you and others become a Data Analyst. 
+ You can check out the full details of the program here: https://www.udacity.com/course/nd002.",133,20326,,,
+uQ019wr-pVc,Ggplot package in R | Advanced Data Visualization | Brain Mentors Pvt. Ltd.,"Learn to plot best graphs using ggplot in r programming. bar plot, histogram, scatter plot, smooth line, boxplot and themes
+
+Don't forget to Like, Share, and Subscribe:) We need you Support !
+============================================
+Brain Mentors Pvt Ltd
+Website - http://www.brain-mentors.com/
+Facebook - https://www.facebook.com/brainmentors/
+Instagram - https://www.instagram.com/brain.mentors/
+Twitter - https://bit.ly/3jzQa5r
+Linkedin - https://bit.ly/3kutYdi
+
+
+BRAIN MENTORS Pvt. Ltd. started with a mission to link the IT industry and educational institutions. We aim to transform every student into an IT professional who is ready to be employed in the industry. BRAIN MENTORS Pvt. Ltd. is a team of professional experts having more than 12+ years of industry experience with a strong base in developing software products. Being IT alumnus, we have a sound understanding of industry needs which helps in identifying the required skill set and nurturing our students in a competent IT professional. We are also well connected with the industry and do corporate training in emerging technologies in TPDDL, Cognizant, Genpact, Nokia Siemens, NIIT Technologies, Orange Telecom, India Mart, HCL, Acro, etc.",1698,2331,,,
+nauF8sbMPW8,how I’d use NotebookLM for studying to learn ANY subject,"Download my FREE study system guide: https://penolopie.kit.com/howidtakenotes
+I'm giving ideas on how to use NotebookLM for studying and learning. 
+
+I'm combining most effective study strategies with NotebookLM features like deep research, podcast interactive mode, video overview, mind maps, quizzes, flashcards, slides, and summaries. 
+
+NotebookLM is designed for a wide range of users, including students, researchers, and professionals who need to work with dense and complex information. It can be a powerful tool for anyone who needs to: 
+- Understand a large body of research
+- Keep track of information for a project
+- Summarize and explain complex topics to others
+- Combine information from different sources to gain new insights
+
+I'm Penolopie David 👋 I try to learn skills by using AI tools like Google NotebookLM, ChatGPT, Google Gemini, etc.
+
+#learningwithai #notebooklm
+
+📧 Say hi: pluma.designlab@gmail.com",355,147264,,,
+piu7dB52YyM,Free Unlimited AI Coding — LM Studio + Continue Extension,"Build a complete local AI coding environment on regular hardware - no expensive GPU required!
+
+In this tutorial, I'll show you how to set up LM Studio with Continue extension in VS Code to get a Cursor-like AI coding experience completely free and private.
+
+#LocalAI #LMStudio #VSCode #Continue #AICoding #FreeCursor #NoCPU #AIDevSetup #LocalLLM #CodingAssistant #Qwen #OpenSourceAI #PrivateAI #AITutorial #devtools 
+
+🎓 Local AI Series
+
+📺 Full Playlist : https://www.youtube.com/playlist?list=PLJ5EMZcDPjGBmzhFu4ZM_bdlsJ50amdzS
+📂 GitHub Repo: https://github.com/network-tocoder
+
+PI Coding Agent + Gemma 4 = Best Laptop AI Coding Agent!
+https://www.youtube.com/watch?v=g94lMuhGlEY
+
+Google's New Agent CLI = Game Changer? (Full Setup)
+https://www.youtube.com/watch?v=Qx_HIHy5-IQ
+
+Free Claude Coding Without Limits — NVIDIA + DeepSeek
+https://www.youtube.com/watch?v=5_cZCmrlcow
+
+OpenCode + NVIDIA Is INSANE
+https://www.youtube.com/watch?v=jbsZdt89BK4
+
+Claude Code Agent with Local Model  10x More Powerfull
+https://www.youtube.com/watch?v=kbBe5f3nVos
+
+The Ultimate Local AI Coding Setup - VS Code + Continue + Gemma 4 (No GPU)
+https://www.youtube.com/watch?v=2qFcbRK1qDE
+
+Hermes Agent Setup is Super Simple — Gemma 4 + LM Studio on Windows WSL2
+https://www.youtube.com/watch?v=iqK90CGxdjk
+
+Gemma 4 + Ollama + Open WebUI = Your Own ChatGPT
+https://www.youtube.com/watch?v=5P_c4TExvR8
+
+Run Paperclip Locally — Gemma 4 + OpenCode + LM Studio (Step by Step)
+https://www.youtube.com/watch?v=WzhPd4mVCJE
+
+Paperclip + Qwen on Windows — Full Free Multi-Agent Setup!
+https://www.youtube.com/watch?v=dNnh0hjC4cA
+
+Run Claude Code + Qwen 3.5 Locally on Windows (LM Studio FULL FREE Setup!)
+https://www.youtube.com/watch?v=Ola6kZRTRQs
+
+The Fastest Way to Local RAG (Ollama + AnythingLLM Setup)
+https://www.youtube.com/watch?v=1lBKmLwHtGs
+
+OpenRouter + OpenClaw = FREE 24/7 AI Agent (Complete Setup on Linux)
+https://www.youtube.com/watch?v=WT-Q0tB0zNo
+
+Local AI Coding Assistant for $0 - Here's How (LM Studio + VS Code)
+https://www.youtube.com/watch?v=piu7dB52YyM
+
+Ollama + n8n = FREE Local AIOps Engine (Complete Setup on Linux)
+https://www.youtube.com/watch?v=y_6ZEZ3ZMUg
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎓 COMPLETE SERIES
+
+📺 Full Playlist: https://www.youtube.com/playlist?list=PLJ5EMZcDPjGDPB6L13ZE8kr0BcfiNU-fb
+📂 GitHub Repo: https://github.com/network-tocoder/AI-network-automation
+
+This comprehensive series teaches modern network automation with AI integration:
+
+→ Phase 1: Foundation (Videos 1-3) - Lab setup, tools, version control
+→ Phase 2: Network Automation (Videos 4-6) - Ansible, FortiGate, APIs
+→ Phase 3: Source of Truth (Videos 7-10) - NetBox, auto-discovery, testing
+→ Phase 4: AI Integration (Videos 11-16) - MCP, Claude Code, Gemini CLI, custom tools
+→ Phase 5: AI Integration (Videos 17-23) - AWX Series
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ TECH STACK
+
+This series covers:
+Ansible | NetBox | Docker | EVE-NG | FortiGate | pyATS | MCP | Claude Code | Cisco
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💬 COMMUNITY
+
+Questions? Drop them in the comments!
+Connect with me:
+💼 LinkedIn: https://www.linkedin.com/in/hadeek/
+💻 GitHub: [github.com/network-tocoder](http://github.com/network-tocoder)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔔 SUBSCRIBE
+
+New videos weekly!
+→ Subscribe & enable notifications 🔔
+→ Star the GitHub repo ⭐
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 WHAT YOU'LL BUILD
+
+By completing this series:
+✅ Production-ready lab environment
+✅ Automated network configurations
+✅ NetBox source of truth
+✅ AI-powered workflows
+✅ Real-world DevOps skills
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📌 KEYWORDS & TAGS
+
+#NetworkAutomation #Ansible #AI #NetBox #DevOps #EVENG #VirtualLab #CiscoLab #NetworkEngineering #InfrastructureAsCode #NetworkLab #Virtualization#homelab #docker #networking #automation #mcp #claudecode #claude #ai #aitutorial #programming #coding #ciscolab #gemini #grokai",980,22975,,,
+_ytYj1TLojM,Teaching patients to use nasal sprays | BMJ Learning,"Intranasal corticosteroids are the most effective medication for hay fever, but patients need to use their nasal spray correctly to feel the full effects.
+
+Here, Guy Scadding, Consultant Allergist, Royal Brompton and Harefield Trust NHS, demonstrates how to teach a patient to use a nasal spray.
+
+For more on treating hay fever, take BMJ Learning's 1-hour course: https://bit.ly/nasalspraydemo
+
+After completing this course you should:
+
+- Understand the stepwise approach to the treatment of patients with hay fever, and the different treatments available
+- Recognise when oral corticosteroid use may be necessary
+- Understand the role of nasal saline irrigation in the treatment of hay fever
+- Know the treatment options available for pregnant women and children with hay fever
+- Recognise when referral for immunotherapy may be appropriate.",178,3574136,,,
+HIcqQhn3vSM,Simple Linear Regression:  Transformations,"A look at transformations in the context of simple linear regression.  I look at two examples where taking a transformation (applying a function to the response and/or explanatory variables) can help to satisfy the assumptions of the simple linear regression model.  
+
+
+The brain and body weight data is from:
+
+Sacher, G.A. Staffeldt, E. (1974). Relation of gestation time to brain weight
+for placental mammals: Implications for the theory of vertebrate growth. The American
+Naturalist, 108:593--615.  The 99 observations represent one pair of measurements for each of the 99 species that had a brain and body weight measurement.
+
+The hardness-density data is found in:
+
+Hand, D.J.,  Daly, F. , Lunn, A.D., McConway, K.,  and Ostrowski, E., editors (1994).  The Handbook of Small Data Sets.  Chapman & Hall, London.  
+
+Original source:  Williams, E.J. (1959).  Regression Analysis. John Wiley & Sons, New York.  Page 43, Table 3.7.",447,92709,,,
+3N0klPMNyLY,Why and How to Include a Vignette in Your R Package,"R's function documentation is well-known and widely used, explaining function usage, parameters, and giving examples. However, if you don't know a package yet, reading help pages about functions may be too specific - you may want to know at a more general level which kinds of tasks the package was designed for, and get a general introduction.
+
+This is where vignettes shine. They are created using R Markdown, allow you to write arbitrary text, and mix that with R code. A huge advantage compared to function documentation is that the reader doesn't need to actually run the R code to see what it does. Instead, the vignette contains the results that the R code produces. So the user doesn''t need to clean up the Global Environment when the code creates objects.
+
+Examples for thorough documentation via vignettes are the dplyr and data.table packages. You can run
+
+help(package = ""dplyr"")
+help(package = ""data.table"")
+
+to get to an overview page, and click on ""User guides, package vignettes and other documentation"" to choose from the vignettes these great packages offer.
+
+To find out more, read the great R Packages book by Hadley Wickham and Jenny Bryan: https://r-pkgs.org/index.html
+
+Contact me, e. g. to discuss (online) R workshops / trainings / webinars:
+
+LinkedIn: https://www.linkedin.com/in/wolfriepl/
+Twitter: https://twitter.com/StatistikInDD
+Xing: https://www.xing.com/profile/Wolf_Riepl
+Facebook: https://www.facebook.com/statistikdresden/
+
+https://statistik-dresden.de/kontakt
+R Workshops: https://statistik-dresden.de/r-schulungen
+Blog (German, translate option): https://statistik-dresden.de/statistik-blog
+
+Playlist: Music chart history
+https://www.youtube.com/playlist?list=PL4ZUlAlk7QidRlzHEiHX09htXMAbxTpjW",750,7510,,,
+1g3pCE_B12E,Hypothesis Testing EXPLAINED,"Learn how to solve any Hypothesis Testing problem!  This tutorial explains what hypothesis testing is and the process to follow to solve any hypothesis test question.  In this video, you will learn the 5 C's to solve this major topic that is covered in most Statistics classes.  These steps can be followed for any test no matter whether it is a 1 sample z test, 1 sample t test, 2 sample t test, ANOVA test, chi-squared test, etc.  First, you Create your hypotheses.  Then you Check the conditions necessary for your type of test.  Next, you Calculate your test statistic and p-value.  Then you Compare these values to your critical value and/or alpha value.  And Finally you Conclude based on this comparison.  This video will go into a good amount of detail on each step, and in future videos, I will go over each type of hypothesis test in depth with examples.
+
+0:00 What is Hypothesis Testing?
+2:15 The 5 C's
+2:47 Create Hypotheses
+5:46 Check Conditions
+7:52 Calculate Test Statistic and P-value
+11:20 Compare
+13:11 Conclude
+17:55 Review
+
+For more help, visit: https://theacetutors.com
+For more videos/content, visit: https://theacetutors.com/blog
+Sign up for tutoring: https://theacetutors.com/register",1154,374318,,,
+xc_X9GFVuVU,Leverage and Influential Points in Simple Linear Regression,"A brief introduction to leverage and influence in simple linear regression.    This video is about the basic concepts, and only briefly mentions numerical measures of leverage and influence near the end of the video.",434,134143,,,
+psOYFdx838E,Monte Carlo Simulation Explained in 5 min,"Monte Carlo Simulation leverages the mathematical foundation of statistics to generate a spectrum of potential future outcomes. In scenarios where complex systems can't be described in an explicit formula, they help us to model the world in the way it truly is, giving us insights into what might happen, how likely it might happen, and what the worst case scenario looks like so we can prepare for the reality (or realities) of the future.",290,71211,,,
+i3AkTO9HLXo,Markov Chains Clearly Explained! Part - 1,"Let's understand Markov chains and its properties with an easy example. I've also discussed the equilibrium state in great detail. 
+#markovchain #datascience #statistics 
+
+For more videos please subscribe - 
+http://bit.ly/normalizedNERD 
+
+Markov Chain series -
+https://www.youtube.com/playlist?list=PLM8wYQRetTxBkdvBtz-gw8b9lcVkdXQKV
+
+Facebook - 
+https://www.facebook.com/nerdywits/
+Instagram - 
+https://www.instagram.com/normalizednerd/
+Twitter - 
+https://twitter.com/normalized_nerd",564,1861154,,,
+3qodjHRUxAo,Markov Chain Monte Carlo Explained in 10 Minutes,Markov chain Monte Carlo comes up all over the place in machine learning and statistics. Sydney Katz (https://sydneymkatz.com) provides an intuitive explanation of Markov chain Monte Carlo algorithms and why they are useful.,645,62807,,,
+OgO1gpXSUzU,6. Monte Carlo Simulation,"MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016
+View the complete course: http://ocw.mit.edu/6-0002F16
+Instructor: John Guttag
+
+Prof. Guttag discusses the Monte Carlo simulation, Roulette
+
+License: Creative Commons BY-NC-SA
+More information at http://ocw.mit.edu/terms
+More courses at http://ocw.mit.edu",3004,2265124,,,
+wsU7YLcPXmE,Bootstrapping and Monte Carlo Sampling in Statistics,"Here we estimate the error of our parameter estimate from the method of moments using Monte Carlo sampling and the bootstrap. We investigate a Poisson estimation problem. 
+
+This video was produced at the University of Washington, and we acknowledge funding support from the Boeing Company
+
+%%% CHAPTERS %%%
+00:00 Intro
+01:56 Recap of Monte Carlo Method
+04:18 Code Demo: Monte Carlo on Radioactive Decay
+09:38 Code Demo: Monte Carlo for Normal Variance Estimate
+14:09 Efron Bootstrapping & Outro",1018,12020,,,
+B56s8j8Trqs,VBA Monte Carlo Simulation for Markowitz Portfolios | Excel Tutorial for Beginners,"Ready to level up your portfolio optimization skills in Excel? In this beginner-friendly tutorial, we walk you through how to simulate Markowitz Risk-Return Portfolios and the Efficient Frontier using VBA and Monte Carlo Simulation — with no prior coding experience required!
+
+🔍 What you’ll learn:
+• How to automate Monte Carlo simulations in Excel using VBA
+• How to simulate Markowitz Risk-Return Portfolios using 3 stocks
+• Basics of VBA coding: “Hello World,” variables, referencing, and the For-Next loop
+• How to use absolute vs. relative referencing when recording macros
+• How to graph your simulated portfolios to visualize risk-return tradeoffs
+👨‍💻 Perfect for:
+• Finance students & professionals
+• Beginners in quantitative finance
+• Excel users curious about automation
+• Anyone exploring Modern Portfolio Theory & VBA coding
+📌 Tools Used:
+• Microsoft Excel
+• VBA for Excel (Visual Basic for Applications)
+• Monte Carlo simulation technique
+✅ Don’t forget to LIKE, COMMENT, and SUBSCRIBE for more tutorials on finance, coding, and quantitative analysis.
+#ExcelVBA #MonteCarloSimulation #MarkowitzPortfolio #EfficientFrontier #PortfolioOptimization #QuantFinance #FinanceTutorial #ExcelMacro #VBAforBeginners #FinancialModeling #ModernPortfolioTheory
+
+--------------
+CODES
+--------------
+Sub Macro1()
+'
+' Macro1 Macro
+'
+Range(""a1"") = ""HELLO WORLD""
+Variable1 = Range(""a2"").Value
+
+Output = Variable1 * 10
+Range(""b1"") = ""Output""
+Range(""b2"") = Output
+
+End Sub
+--------------
+Sub Macro2()
+'
+' Macro2 Macro
+'
+    Range(""A2:B2"").Select
+    Selection.Copy
+    Range(""A4"").Select
+    Selection.PasteSpecial Paste:=xlPasteValues, Operation:=xlNone, SkipBlanks _
+        :=False, Transpose:=False
+
+End Sub
+----------
+Sub Macro3()
+'
+' Macro3 Macro
+'
+    ActiveCell.Offset(-2, 0).Range(""A1:B1"").Select
+    Selection.Copy
+    ActiveCell.Offset(2, 0).Range(""A1"").Select
+    Selection.PasteSpecial Paste:=xlPasteValues, Operation:=xlNone, SkipBlanks _
+        :=False, Transpose:=False
+End Sub
+------------
+FINAL MONTE CARLO CODE (as used in the video)
+
+Sub Macro2()
+'
+' Macro2 Macro
+'
+    Range(""B20"").Select
+    ActiveCell.Offset(0, 0).Range(""a1:f1"").Select
+    Selection.Copy
+    
+    For i = 1 To 1000
+        ActiveCell.Offset(1, 0).Range(""A1"").Select
+        Selection.PasteSpecial Paste:=xlPasteValues, Operation:=xlNone, SkipBlanks _
+            :=False, Transpose:=False
+    Next i
+
+End Sub
+
+
+00:00 Introduction
+00:59 Macros and Environments
+03:06 HELLO WORLD: Your First VBA Code
+04:03 Working in-between Spreadsheet and VBA Environment
+06:13 More on Recording Macros: Absolute vs Relative
+09:59 Monte Carlo Simulations on a Previous Worksheet
+11:03 Preparing your Spreadsheet by Rearranging the Input & Output Cells
+14:25 For -Next Loops
+15:33 Running the Code
+16:41 Output Chart",1040,324,,,
+wKdmEXCvo9s,"Monte Carlo Simulations: Run 10,000 Simulations At Once","Run Monte Carlo simulations in Excel with this simple workaround.
+
+Produced by Sara Silverstein
+----------------------------------------­----------
+
+Follow BI Video on Twitter: http://bit.ly/1oS68Zs
+Follow BI Video On Facebook: http://on.fb.me/1bkB8qg
+Read more: http://www.businessinsider.com/
+
+----------------------------------------­----------
+
+Business Insider is the fastest growing business news site in the US. Our mission: to tell you all you need to know about the big world around you. The BI Video team focuses on technology, strategy and science with an emphasis on unique storytelling and data that appeals to the next generation of leaders – the digital generation.",198,462634,,,
+nDbmE0LlKQc,How to Perform Monte Carlo Simulation in Ms. Excel for Risk Analysis?,#engineeringly #projectmanagement #riskmanagement #costmanagement #riskanalysis #riskassessment #montecarlo #msexcel #quantitiveanalysis #excel #exceltutorial #project #engineering #civilengineering #projectmanager #pmp #pmbok,318,76231,,,

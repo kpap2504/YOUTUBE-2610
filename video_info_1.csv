@@ -1,0 +1,257 @@
+video_id,title,description,duration,views,likes,dislikes,comments
+acAw5WGtzuk,Convolution and Unit Impulse Response,"The Dirac delta function, the Unit Impulse Response, and Convolution explained intuitively.  Also discusses the relationship to the transfer function and the Laplace Transform.  Signal Analysis for Linear Systems.  My Patreon page is at https://www.patreon.com/EugeneK",561,274482,,,
+yN7qfBhfGqs,Realtime Face Emotion Recognition | PyTorch | Python| Deep Emotion | Stepwise Implementation,"This video contains stepwise implementation for training dataset of ""Face Emotion Recognition or Facial Expression Recognition ""
+In this video, we have implemented a research paper ""Deep Emotion ""
+Our implementation is inspired by the following code in github
+
+https://github.com/omarsayed7/Deep-Emotion
+
+(00:00:00) Concepts and research paper explanation
+(00:36:39) Installations
+(00:41:31) Code implementation
+(01:10:09) Webcame live demo",4475,39274,,,
+6F2YVsT9dOs,Data-Driven Control: Linear System Identification,"Overview lecture on linear system identification and model reduction.  This lecture discusses how we obtain reduced-order models from data that optimally capture input--output dynamics.  
+
+https://www.eigensteve.com/
+
+This video was produced at the University of Washington",1215,82085,,,
+2KMwRUd3hcM,Convolutions Explained So Well You'll Only Need To Watch This Once! Deep-ML 41,"Ever struggled with convolutions and convolutional neural networks (CNNs)? 
+
+You're not alone! Most tutorials dive straight into complex math or confusing code, but in this video, I’m going to show you how to build your intuition first, then I promise we're gonna dive deep into every detail of convolutions and make you a pro. Especially after I show you how to solve a real interview problem about this topic. You'll also get FREE access to the interactive visualization I made specifically for this video.
+
+In just one video, you'll grasp:
+
+✅ Intuition First: The key analogy that made CNNs click for me, visualized through clear animations and relatable examples.
+✅ 7 Key Concepts: Master input channels, groups, output channels, kernel size, stride, padding, and dilation—everything you need for your machine learning journey!
+✅ Hands-On Coding: Step-by-step walkthrough solving an actual CNN interview question from Deep-ML (#41), with clear Python implementation.
+
+Whether you're a university student, bootcamp learner, mid-career professional, or STEM graduate transitioning into machine learning and data science, this comprehensive guide will help you understand CNNs deeply and clearly.
+
+Links:
+1. Deep-ML Practice Site: https://www.deep-ml.com/problems/41
+2. CNN Explainer Visualization Tool: https://poloclub.github.io/cnn-explainer/
+3. My Interactive Visualization Tool: https://bjbodner.github.io/dataScienceProjects/src/visualizations/interactive_conv2d.html
+
+📚 Chapters:
+0:00 Hook & overview
+00:42 Why CNNs matter
+01:16 Building CNN intuition
+02:46 The math of convolutions
+03:19 The 7 key CNN concepts
+03:51 Input channels
+04:15 Groups (grouped convolutions)
+05:04 Output channels 
+05:45 Kernel size 
+06:18 Padding 
+06:50 Stride
+07:54 Dilation
+08:48 Coding problem overview
+09:12 Reading the problem
+09:35 Coding solution 
+10:44 Summary
+
+🔥 Hashtags:
+#cnn #convolutionalneuralnetworks #deeplearning #machinelearning #datascience #ai #codingtutorial #machinelearningtutorial #deepml #learnpython #tensorflow #pytorch #mlinterviewprep #mlinterviewquestions #neuralnetworks #aiintuition #convolution #datasciencetutorial #stemcareers #careerswitch #transitiontodatascience #datasciencebootcamp #mlstudents #datascienceeducation #machinelearningeducation",688,6109,,,
+PcbuKRNtCUc,Essential Machine Learning and AI Concepts Animated,"Learn about all the most important concepts and terms related to machine learning and AI.
+
+Course developed by https://www.youtube.com/@turingtimemachine
+
+❤️ Support for this channel comes from our friends at Scrimba – the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp
+
+⭐️ Contents ⭐️
+0:00:00 Introduction
+0:00:31 Variance
+0:00:58 Unsupervised Learning
+0:01:11 Time Series Analysis
+0:01:26 Transfer Learning
+0:01:41 Gradient Descent
+0:01:59 Stochastic Gradient Descent
+0:02:12 Sentiment Analysis
+0:02:24 Regression
+0:02:33 Regularization
+0:02:45 Logistic Regression
+0:03:01 Linear Regression
+0:03:20 Reinforcement Learning
+0:03:33 Decision Trees
+0:03:47 Random Forest
+0:04:03 Truncation
+0:04:16 Principal Component Analysis (PCA)
+0:04:29 Pre-training
+0:04:39 Object Detection
+0:04:58 Oversampling
+0:05:16 Outlier
+0:05:28 Overfitting
+0:05:44 One-Hot Encoding
+0:05:57 Nearest Neighbor Search
+0:06:09 Normal Distribution
+0:06:18 Normalization
+0:06:35 Natural Language Processing (NLP)
+0:06:46 Matrix Factorization
+0:06:58 Markov Chain
+0:07:23 Model Selection
+0:07:33 Model Evaluation
+0:07:42 Jupyter Notebook
+0:07:54 Knowledge Transfer
+0:08:03 Knowledge Graphs
+0:08:18 Joint Probability
+0:08:28 Inductive Bias
+0:08:41 Information Extraction
+0:08:49 Inference
+0:09:05 Imbalanced Data
+0:09:15 Human in the Loop
+0:09:30 Graphics Processing Unit (GPU)
+0:09:41 Vanishing Gradient
+0:09:55 Generalization
+0:10:04 Generative Adversarial Networks (GANs)
+0:10:19 Ensemble Methods
+0:10:27 Multiclass Classification
+0:10:38 Data Pre-processing
+0:10:49 Regression Analysis
+0:11:02 Sigmoid Function
+0:11:13 Evolutionary Algorithms
+0:11:24 Language Models
+0:11:34 Backpropagation
+0:11:46 Bagging
+0:12:05 Dense Vector
+0:12:19 Feature Engineering
+0:12:29 Support Vector Machines (SVMs)
+0:12:44 Cross-validation
+0:13:15 Loss Function
+0:13:29 P-value
+0:13:47 T-test
+0:13:57 Cosine Similarity
+0:14:10 Dropout
+0:14:21 Softmax Function
+0:14:34 Bayes' Theorem
+0:14:46 Tanh Function
+0:14:57 ReLU Function (Rectified Linear Unit)
+0:15:11 Mean Squared Error
+0:15:22 Root Mean Square Error
+0:15:35 R-squared
+0:15:51 L1 and L2 Regularization
+0:16:07 Learning Rate
+0:16:36 Naive Bayes Classifier
+0:16:48 Cost Function
+0:17:00 Confusion Matrix
+0:17:22 Precision
+0:17:33 Recall
+0:17:55 Area Under the Curve (AUC)
+0:18:19 Train Test Split
+0:18:40 Grid Search
+0:19:17 Anomaly Detection
+0:19:39 Missing Values
+0:20:02 Euclidean Distance
+0:20:19 Manhattan Distance
+0:20:41 Hamming Distance
+0:20:59 Jaccard Similarity
+0:21:11 K-means Clustering
+0:21:32 Bootstrapping
+0:21:51 Hierarchical Clustering
+0:22:04 Matrix Multiplication
+0:22:22 Jacobian Matrix
+0:22:37 Hessian Matrix
+0:22:54 Measures of Central Tendency
+0:23:20 Activation Function
+0:23:34 Artificial Neural Network (ANN)
+0:23:53 Perceptron
+0:24:18 Convolutional Neural Network (CNN)
+0:24:48 Recurrent Neural Network (RNN)
+0:25:27 Long Short-Term Memory (LSTM)
+0:25:52 Transformer Model
+0:26:24 Padding
+0:26:45 Pooling
+0:27:01 Variational Autoencoder
+0:27:26 Quantum Machine Learning
+
+🎉 Thanks to our Champion and Sponsor supporters:
+👾 Drake Milly
+👾 Ulises Moralez
+👾 Goddard Tan
+👾 David MG
+👾 Matthew Springman
+👾 Claudio
+👾 Oscar R.
+👾 jedi-or-sith
+👾 Nattira Maneerat
+👾 Justin Hual
+
+--
+
+Learn to code for free and get a developer job: https://www.freecodecamp.org
+
+Read hundreds of articles on programming: https://freecodecamp.org/news",1671,305118,,,
+YRhxdVk_sIs,Convolutional Neural Networks (CNNs) explained,"CNNs for deep learning
+Included in Machine Leaning / Deep Learning for Programmers Playlist:
+https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU
+
+Convolution demo on real data:
+https://youtu.be/vJiZqZRkIg8
+
+In this video, we explain the concept of convolutional neural networks, how they're used, and how they work on a technical level. We also discuss the details behind convolutional layers and filters.
+
+fast.ai lesson 4:
+http://course17.fast.ai/lessons/lesson4.html
+
+🕒🦎 VIDEO SECTIONS 🦎🕒
+
+00:00 Welcome to DEEPLIZARD - Go to deeplizard.com for learning resources
+00:30 See convolution demo on real data - Link in the description
+08:07 Collective Intelligence and the DEEPLIZARD HIVEMIND
+
+💥🦎 DEEPLIZARD COMMUNITY RESOURCES 🦎💥
+
+👋 Hey, we're Chris and Mandy, the creators of deeplizard!
+
+👉 Check out the website for more learning material:
+🔗 https://deeplizard.com
+
+💻 ENROLL TO GET DOWNLOAD ACCESS TO CODE FILES 
+🔗 https://deeplizard.com/resources
+
+🧠 Support collective intelligence, join the deeplizard hivemind:
+🔗 https://deeplizard.com/hivemind
+
+🧠 Use code DEEPLIZARD at checkout to receive 15% off your first Neurohacker order
+👉 Use your receipt from Neurohacker to get a discount on deeplizard courses
+🔗 https://neurohacker.com/shop?rfsn=6488344.d171c6
+
+👀 CHECK OUT OUR VLOG:
+🔗 https://youtube.com/deeplizardvlog
+
+❤️🦎 Special thanks to the following polymaths of the deeplizard hivemind:
+Tammy
+Mano Prime
+Ling Li
+
+🚀 Boost collective intelligence by sharing this video on social media!
+
+👀 Follow deeplizard:
+Our vlog: https://youtube.com/deeplizardvlog
+Facebook: https://facebook.com/deeplizard
+Instagram: https://instagram.com/deeplizard
+Twitter: https://twitter.com/deeplizard
+Patreon: https://patreon.com/deeplizard
+YouTube: https://youtube.com/deeplizard
+
+🎓 Deep Learning with deeplizard:
+Deep Learning Dictionary - https://deeplizard.com/course/ddcpailzrd
+Deep Learning Fundamentals - https://deeplizard.com/course/dlcpailzrd
+Learn TensorFlow - https://deeplizard.com/course/tfcpailzrd
+Learn PyTorch - https://deeplizard.com/course/ptcpailzrd
+Natural Language Processing - https://deeplizard.com/course/txtcpailzrd
+Reinforcement Learning - https://deeplizard.com/course/rlcpailzrd
+Generative Adversarial Networks - https://deeplizard.com/course/gacpailzrd
+
+🎓 Other Courses:
+DL Fundamentals Classic - https://deeplizard.com/learn/video/gZmobeGL0Yg
+Deep Learning Deployment - https://deeplizard.com/learn/video/SI1hVGvbbZ4
+Data Science - https://deeplizard.com/learn/video/d11chG7Z-xk
+Trading - https://deeplizard.com/learn/video/ZpfCK_uHL9Y
+
+🛒 Check out products deeplizard recommends on Amazon:
+🔗 https://amazon.com/shop/deeplizard
+
+🎵 deeplizard uses music by Kevin MacLeod
+🔗 https://youtube.com/channel/UCSZXFhRIx6b0dFX3xS8L1yQ
+
+❤️ Please use the knowledge gained from deeplizard content for good, not evil.",517,1489115,,,
